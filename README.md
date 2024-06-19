@@ -12,7 +12,7 @@ I hope YOU can try them, or at least find nomething new, you didn\`t know about.
 
 
 
-- [x] <details> <summary>Sonoluminescence </summary>
+<details> <summary>Sonoluminescence </summary>
 
 [Sonoluminescence](https://en.wikipedia.org/wiki/Sonoluminescence) is a process in witch you can \"transform\" sound into ligth.
 It works by creating a fast colapsing buble inside the water witch can reach almost 12000 degrees celsius and produce ligth.
@@ -22,7 +22,7 @@ You can read more in this papers:
 - https://pubs.aip.org/asa/jasa/article/138/4/2181/899097/Resource-Paper-Sonoluminescence
 </details>
 
-- [x] <details> <summary>wireless power transfer </summary>
+<details> <summary>wireless power transfer </summary>
 
 Wireless power transmission is a verry interesting topic on witch you can find more in the 2 videos made by Great Scot, or in those 2 linked papers. 
 In conclusion after watching the videos, you can see that wireless power transmission dosen\`t work because, for high eficiency you need high frequency witch don`t travell verry far. 
@@ -35,8 +35,8 @@ Links:
 - [GreatScott video 2](https://www.youtube.com/watch?v=S3mLHpzzcTU&t=523s)
 </details>
 
-[x]<summary>Capacitive touch </summary>
 <details> 
+<summary>Capacitive touch </summary>
 
 Here are some examples about what capacitive sensing can do, how to use it and how it works:
 - [Example1](https://www.youtube.com/watch?v=DxWZUTnEvhs)
@@ -47,7 +47,7 @@ Here are some examples about what capacitive sensing can do, how to use it and h
 - [Example6](https://www.youtube.com/watch?v=3xUH_vCHk9A)
 </details>
 
-- [x] <details> <summary>Make clay </summary>
+<details> <summary>Make clay </summary>
 If you don`t want to pay for air or dirt, make it yourself.
 Here are some links to help you make pottery clay:
 https://www.youtube.com/watch?v=HbLdNKM9y68&list=WL&index=125
@@ -55,7 +55,7 @@ https://www.youtube.com/watch?v=ca20JkKFAcE
 https://www.youtube.com/shorts/1bMbADiztPY
 </details>
 
-- [x] <details> <summary>USB-C Power Delivery </summary>
+<details> <summary>USB-C Power Delivery </summary>
 
 check
 https://www.asme.org/topics-resources/content/explore-the-basics-of-usb-c-and-usb-power-delivery

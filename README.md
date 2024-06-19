@@ -35,7 +35,8 @@ Links:
 - [GreatScott video 2](https://www.youtube.com/watch?v=S3mLHpzzcTU&t=523s)
 </details>
 
-- [x] <details> <summary>Capacitive touch </summary>
+- [x] <summary>Capacitive touch </summary>
+<details> 
 
 Here are some examples about what capacitive sensing can do, how to use it and how it works:
 - [Example1](https://www.youtube.com/watch?v=DxWZUTnEvhs)

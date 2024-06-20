@@ -10,7 +10,7 @@ I hope YOU can try them, or at least find nomething new, you didn\`t know about.
 - [This is a painless guitar](https://www.youtube.com/watch?v=Pv8xAU__Ye0&list=WL&index=181)
 - [Custom file extension](https://www.youtube.com/watch?v=_FvmTFsDZ84&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=19)
 - [TIC TAC TOE](https://www.youtube.com/watch?v=On_4U0aeKG4&list=WL&index=64)
-
+- [ELEVATOR](https://www.youtube.com/watch?v=3RKgASpq2P4&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=72)
 
 
 ## Projects:
@@ -23,17 +23,19 @@ With this, you can make a \"star in a jar\" like [this](https://www.youtube.com/
 You can read more in this papers:
 - http://techmind.org/sl/
 - https://pubs.aip.org/asa/jasa/article/138/4/2181/899097/Resource-Paper-Sonoluminescence
+- https://www.youtube.com/watch?v=VTBZ0VwIgs8&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=119
 </details>
 <details> 
 <summary>Capacitive touch </summary>
 
 Here are some examples about what capacitive sensing can do, how to use it and how it works:
-- [Example1](https://www.youtube.com/watch?v=DxWZUTnEvhs)
-- [Example2](https://www.youtube.com/watch?v=FjcVGP6vktM)
-- [Example3](https://www.youtube.com/watch?v=X7U_6wZqxro)
-- [Example4](https://www.youtube.com/watch?v=gxLzgeiJQbE)
-- [Example5](https://www.youtube.com/watch?v=mWR9Q_pTagw)
-- [Example6](https://www.youtube.com/watch?v=3xUH_vCHk9A)
+- https://www.youtube.com/watch?v=DxWZUTnEvhs
+- https://www.youtube.com/watch?v=FjcVGP6vktM
+- https://www.youtube.com/watch?v=X7U_6wZqxro
+- https://www.youtube.com/watch?v=gxLzgeiJQbE
+- https://www.youtube.com/watch?v=mWR9Q_pTagw
+- https://www.youtube.com/watch?v=3xUH_vCHk9A
+- https://www.youtube.com/watch?v=FjcVGP6vktM&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=195
 </details>
 
 <details> 
@@ -93,6 +95,7 @@ Wireless power transfer papers & videos:
 - https://www.circuitbasics.com/what-is-an-inductor/
 - https://physics.info/inductance/
 - https://courses.lumenlearning.com/suny-physics/chapter/23-9-inductance/
+- https://www.youtube.com/watch?v=jdc_0r5pJPc&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=236
 
 Hardware design:
 - https://www.ti.com/lit/an/sluaaj6/sluaaj6.pdf?ts=1717714815041&ref_url=https%253A%252F%252Fwww.google.com%252F
@@ -132,6 +135,9 @@ Nanotech:
 - https://www.youtube.com/watch?v=Mr7IEvlflnI&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=315
 - https://www.youtube.com/watch?v=pcCfcYqcZgs&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=315
 - https://www.youtube.com/watch?v=N7lXymxsdhw&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=316
+- https://www.youtube.com/watch?v=onanaCRu9ss&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=124
+- https://www.youtube.com/watch?v=2TjdGuBK9mI&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=253
+- https://www.youtube.com/watch?v=-QxioOUyFLg&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=204
 
 Lithography1:
 - https://www.youtube.com/watch?v=emUoFq5nRZM&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=41
@@ -139,6 +145,10 @@ Lithography1:
 - https://www.youtube.com/watch?v=m2WuoODe56U&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=43
 - https://www.youtube.com/watch?v=nkwJPIJJ3hM&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=44&t=583s
 - https://www.youtube.com/watch?v=5f2xOxRGKqk&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=58&t=1s
+- https://www.youtube.com/watch?v=f7KKd292WMQ&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=254
+- https://www.youtube.com/watch?v=RiRyap-EVg0&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=255
+- https://www.youtube.com/watch?v=8yyXLHKGVro&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=256
+- https://www.youtube.com/watch?v=BfZfqMDERQM&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=257
 
 Electrospinning:
 - https://www.youtube.com/watch?v=KVG7ex7gnD8&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=35
@@ -146,6 +156,13 @@ Electrospinning:
 - https://www.youtube.com/watch?v=zS7vM9xm8m8&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=152
 - https://www.youtube.com/watch?v=ZZ9iExn5VtI&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=153
 - https://www.youtube.com/watch?v=xT1gYZGDx4I&list=WL&index=133
+
+
+
+
+- https://www.youtube.com/watch?v=9TYlQ4urcg8&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=195
+- https://www.youtube.com/watch?v=O4pVny7NV8E&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=188
+
 </details>
 <details> 
 <summary>If you want to make some speakers, this is how to make the enclosure. </summary>
@@ -156,6 +173,7 @@ Speaker enclosure links:
 - https://www.youtube.com/watch?v=pUgxjNrwvOE&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=57&t=1s
 - https://www.youtube.com/watch?v=GrrxGm18KSY&list=WL&index=127
 - https://www.youtube.com/watch?v=pUgxjNrwvOE&list=WL&index=130
+- https://www.youtube.com/watch?v=XEspOD1NHr0&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=217
 </details>
 <details> 
 <summary>Oxytorch</summary>
@@ -219,10 +237,12 @@ Coil Gun:
 <details> 
 <summary>Osmosis</summary>
 If you separate in a container, pure water(H2O) and /"salty/" water with a membrane with holes big enouch that only water molecules can pass, the pure water will flow to the /"salty/" water. This process is called osmosis. By presurasing the /"salty/" water, you can push it trouth the filter, so only the water molecules to go trouth the filter, makeing pure water. This process is called reverse osmosis and is used in city water purrifiers. By combining pure water after this process, with some esential "chemicals", you can make the cleanest potable water.
+
 Osmosis:
-https://www.youtube.com/watch?v=vCJVXYmXkzM&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=252&t=174s
-https://www.youtube.com/watch?v=L-osEc07vMs&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=251
-https://www.youtube.com/watch?v=4RDA_B_dRQ0&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=259
+- https://www.youtube.com/watch?v=vCJVXYmXkzM&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=252&t=174s
+- https://www.youtube.com/watch?v=L-osEc07vMs&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=251
+- https://www.youtube.com/watch?v=4RDA_B_dRQ0&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=259
+- https://www.youtube.com/watch?v=4RDA_B_dRQ0&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=197
 </details>
 <details> 
 <summary>Jet Engine</summary>
@@ -232,6 +252,8 @@ https://www.youtube.com/watch?v=nYUiOIrEY24&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfz
 https://www.youtube.com/watch?v=o-G45OOb32A&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=72
 https://www.youtube.com/watch?v=I7hsUvZmZ2k&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=73
 https://www.youtube.com/watch?v=fE_LjQ4IBQQ&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=74&t=9s
+https://www.youtube.com/watch?v=1zSU2kLLXQY&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=15
+https://www.youtube.com/watch?v=Is3HRNNZxc8&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=47
 </details>
 <details> 
 <summary>Metal detector</summary>
@@ -246,10 +268,12 @@ Metal detection:
 </details>
 <details> 
 <summary>Centrifuge</summary>
+
 Centrifuge:
 - https://www.youtube.com/watch?v=V-CQP5bLD6A&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=26&t=323s
 - https://www.youtube.com/watch?v=sjDpubdTjUU&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=156
 - https://www.youtube.com/watch?v=KEXWd3_fM94&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=157
+- https://www.youtube.com/watch?v=EWWUqkEXJUE&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=123
 </details>
 <details> 
 <summary>Reflow hot plate</summary>
@@ -263,6 +287,10 @@ Reflow hot plate:
 
 Haptic Feeling:
 - https://www.youtube.com/watch?v=iPtgvh6fNdQ
+- https://www.youtube.com/watch?v=j_rErbhxNFM&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=70
+- https://www.youtube.com/watch?v=qfb5_ZKhjqY&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=69
+- https://www.youtube.com/watch?v=UJXLBqG9E_s&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=71
+- https://www.youtube.com/watch?v=Q76dMggUH1M&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=193
 </details>
 <details> 
 <summary>B</summary>
@@ -318,11 +346,15 @@ Fligth controller:
 
 
 
+https://www.youtube.com/watch?v=jFUBblZgXwU&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=212
+https://www.youtube.com/watch?v=0a00gb0n_po&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=213
+https://www.youtube.com/watch?v=UkPLu6mgdWA&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=227
+https://www.youtube.com/watch?v=_muUXPfTgq8&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=226
 
 
 
-
-
+https://www.youtube.com/watch?v=pUba126uzvU&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=232
+https://www.youtube.com/watch?v=KLEH8RJsYgI&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=235
 
 
 

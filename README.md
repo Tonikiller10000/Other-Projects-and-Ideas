@@ -9,14 +9,11 @@ I hope YOU can try them, or at least find nomething new, you didn\`t know about.
 - [controll OLED dirrectly to HDMI](https://mitxela.com/projects/ddc-oled)
 - [This is a painless guitar](https://www.youtube.com/watch?v=Pv8xAU__Ye0&list=WL&index=181)
 - [Custom file extension](https://www.youtube.com/watch?v=_FvmTFsDZ84&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=19)
-
+- [TIC TAC TOE](https://www.youtube.com/watch?v=On_4U0aeKG4&list=WL&index=64)
 
 
 
 ## Projects:
-
-
-
 <details> 
 <summary>Sonoluminescence </summary>
 
@@ -27,9 +24,6 @@ You can read more in this papers:
 - http://techmind.org/sl/
 - https://pubs.aip.org/asa/jasa/article/138/4/2181/899097/Resource-Paper-Sonoluminescence
 </details>
-
-
-
 <details> 
 <summary>Capacitive touch </summary>
 
@@ -44,22 +38,19 @@ Here are some examples about what capacitive sensing can do, how to use it and h
 
 <details> 
 <summary>Make clay </summary>
-
-Add results + pictures
-
-If you don`t want to pay for air or dirt, make it yourself.
+If you don`t want to pay for \"magic dirt\", make it yourself.
 Here are some links to help you make pottery clay:
 https://www.youtube.com/watch?v=HbLdNKM9y68&list=WL&index=125
 https://www.youtube.com/watch?v=ca20JkKFAcE
 https://www.youtube.com/shorts/1bMbADiztPY
+
+Go in to the forest or places with a lot of dirt, and look for sticky soil (EX: where you see tire marks)
+Filter it until you remain with particles smaller than 2um. After adding the magic ingredient, you can make 
+all kinds of stuff. Have fun. 
 </details>
 
 <details> 
 <summary>USB-C Power Delivery </summary>
-
-Add my projects, and datasheets
-
-
 Papers & videos:
 - https://www.asme.org/topics-resources/content/explore-the-basics-of-usb-c-and-usb-power-delivery
 - https://reclaimerlabs.com/
@@ -86,13 +77,8 @@ PD triggers:
 Datasheets:
 
 
-
 </details>
-
 <details> 
-
-add results board pictures
-
 <summary>wireless power transfer </summary>
 Wireless power transmission is a verry interesting topic on witch you can find more in the 2 videos made by Great Scot, or in those 2 linked papers. 
 In conclusion after watching the videos, you can see that wireless power transmission dosen\`t work because, for high eficiency you need high frequency witch don`t travell verry far. 
@@ -122,98 +108,65 @@ Hardware design:
 
 
 </details>
-
-
 <details> 
 <summary>Arduino drums</summary>
-
 Make drums with arduino and piezoelectric plates.
 
 Links:
-https://www.instructables.com/Arduino-Minimal-Drum-Kit/
-https://open-e-drums.com/hardware.html
-https://github.com/RyoKosaka/HelloDrum-arduino-Library
-https://projecthub.arduino.cc/ryokosaka/minimal-midi-drum-kit-with-3d-printer-61e044
-https://www.instructables.com/MIDI-Arduino-Drums/
-https://www.youtube.com/watch?v=cDVI-QIp1Nc&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=71
-
+- https://www.instructables.com/Arduino-Minimal-Drum-Kit/
+- https://open-e-drums.com/hardware.html
+- https://github.com/RyoKosaka/HelloDrum-arduino-Library
+- https://projecthub.arduino.cc/ryokosaka/minimal-midi-drum-kit-with-3d-printer-61e044
+- https://www.instructables.com/MIDI-Arduino-Drums/
+- https://www.youtube.com/watch?v=cDVI-QIp1Nc&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=71
 </details>
-
-
-
 <details> 
 <summary>Nanotechnology</summary>
 
+If you want to make advanced stuff, you need to work smaller. Here are some links of what smaller means, how to make smaller electronics, and how to do nonoscopic fibers.
 Nanotech:
-https://www.youtube.com/watch?v=6ZbGmXfEnd0&list=WL&index=206
-https://www.youtube.com/watch?v=ub88I0bR9ho&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=310&t=446s
-https://www.youtube.com/watch?v=9t1SDA2Jqak&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=311&t=245s
-https://www.youtube.com/watch?v=OLa8DQkKlyU&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=313&t=319s
-https://www.youtube.com/watch?v=Mr7IEvlflnI&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=315
-https://www.youtube.com/watch?v=pcCfcYqcZgs&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=315
-https://www.youtube.com/watch?v=N7lXymxsdhw&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=316
-
+- https://www.youtube.com/watch?v=6ZbGmXfEnd0&list=WL&index=206
+- https://www.youtube.com/watch?v=ub88I0bR9ho&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=310&t=446s
+- https://www.youtube.com/watch?v=9t1SDA2Jqak&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=311&t=245s
+- https://www.youtube.com/watch?v=OLa8DQkKlyU&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=313&t=319s
+- https://www.youtube.com/watch?v=Mr7IEvlflnI&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=315
+- https://www.youtube.com/watch?v=pcCfcYqcZgs&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=315
+- https://www.youtube.com/watch?v=N7lXymxsdhw&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=316
 
 Lithography1:
-https://www.youtube.com/watch?v=emUoFq5nRZM&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=41
-https://www.youtube.com/watch?v=RI3lCUEzSvE&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=42
-https://www.youtube.com/watch?v=m2WuoODe56U&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=43
-https://www.youtube.com/watch?v=nkwJPIJJ3hM&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=44&t=583s
-https://www.youtube.com/watch?v=5f2xOxRGKqk&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=58&t=1s
-
+- https://www.youtube.com/watch?v=emUoFq5nRZM&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=41
+- https://www.youtube.com/watch?v=RI3lCUEzSvE&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=42
+- https://www.youtube.com/watch?v=m2WuoODe56U&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=43
+- https://www.youtube.com/watch?v=nkwJPIJJ3hM&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=44&t=583s
+- https://www.youtube.com/watch?v=5f2xOxRGKqk&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=58&t=1s
 
 Electrospinning:
 - https://www.youtube.com/watch?v=KVG7ex7gnD8&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=35
 - https://www.youtube.com/watch?v=i9zPeMOpYGQ&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=150&t=603s
 - https://www.youtube.com/watch?v=zS7vM9xm8m8&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=152
 - https://www.youtube.com/watch?v=ZZ9iExn5VtI&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=153
-
-
+- https://www.youtube.com/watch?v=xT1gYZGDx4I&list=WL&index=133
 </details>
 <details> 
-<summary>B</summary>
-
-</details>
-
-
-
+<summary>If you want to make some speakers, this is how to make the enclosure. </summary>
 
 Speaker enclosure links:
+- https://www.youtube.com/watch?v=Df2I4JIQzxs
 - https://www.youtube.com/watch?v=xT1gYZGDx4I&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=13
 - https://www.youtube.com/watch?v=pUgxjNrwvOE&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=57&t=1s
+- https://www.youtube.com/watch?v=GrrxGm18KSY&list=WL&index=127
+- https://www.youtube.com/watch?v=pUgxjNrwvOE&list=WL&index=130
+</details>
+<details> 
+<summary>Oxytorch</summary>
+You can make an oxytorch by separring hydrogen and oxygen with electrolisis, and burning it at an higher pressure
 
 Oxytorch:
 - https://www.youtube.com/watch?v=d85OX6yEwE0&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=15
 - https://www.youtube.com/watch?v=7M4yqcO_pPo&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=129&t=23s
-
-
-Helicopters & drones:
-- https://www.youtube.com/watch?v=EMaR7PznE_s&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=31
-- https://www.youtube.com/watch?v=aRotBcoHuX4&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=32
-- https://www.youtube.com/watch?v=6B-GIVMU340&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=33
-- https://www.youtube.com/watch?v=d80oXSCcHTk&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=332&t=43s
-- https://www.youtube.com/watch?v=7xPIISLNp8Q&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=333
-- https://www.youtube.com/watch?v=2tdnqZgKa0E&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=334
-- https://www.youtube.com/watch?v=zY68Nf9Cobs&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=335&t=14s
-
-Fligth controller:
-- https://www.youtube.com/watch?v=rLDqQ2L_mUQ&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=247
-
-
-
-[legislatie zbor cu drona in ROMANIA](https://www.youtube.com/watch?v=lWt6r363AkY&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=236)
-[legislatie zbor cu drona in RO + EU](https://www.youtube.com/watch?v=P1GxJ2GM1RE&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=238)
-[drone regulations in EU 1](https://www.youtube.com/watch?v=YVvkAG-9UJE&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=239&t=12s)
-[drone regulations in EU 2](https://www.youtube.com/watch?v=Cb6jF1VytRk&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=240)
-[drone regulations in EU 3](https://www.youtube.com/watch?v=rgn8VKrG6pw&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=241)
-[drone regulations in EU 4](https://www.youtube.com/watch?v=rekcJuTpZb0&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=242)
-[drone regulations in EU 5](https://www.youtube.com/watch?v=KZoaMVEDjmE&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=243&t=347s)
-[legislatie zbor cu drona in RO](https://www.youtube.com/watch?v=MWd5waix_OU&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=244&t=560s)
-[drone regulations in EU 6](https://www.youtube.com/watch?v=UZfZWETPYAc&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=245&t=173s)
-[drone regulations in EU 7](https://www.youtube.com/watch?v=vHXszLsQMvs&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=246)
-
-
-
+</details>
+<details> 
+<summary>Homemade bearings</summary>
 Homemade bearings:
 - https://www.youtube.com/watch?v=eT8oQvHjzXE&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=36
 - https://www.youtube.com/watch?v=HboIscftCL8&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=37
@@ -225,18 +178,10 @@ Homemade bearings:
 - https://www.youtube.com/watch?v=_MIx_vN2Dtk&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=26
 - https://www.youtube.com/watch?v=UIhCPl8eb7s&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=27
 - https://www.youtube.com/watch?v=5YIZaJnER_k&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=143
-- 
 - https://www.youtube.com/watch?v=nRrHrB6gaoE&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=112
-
-
-Metal detection:
-https://www.youtube.com/watch?v=EcuTsifSgBs&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=80
-https://www.youtube.com/watch?v=df8jFglzkNg&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=81
-https://www.youtube.com/watch?v=WQjbAzRL6RQ&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=82
-https://www.youtube.com/watch?v=7QJrI-9CCIw&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=83
-https://www.youtube.com/watch?v=FmmYviJ45bM&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=84&t=6s
-https://www.youtube.com/watch?v=yzrVHEB02Hw&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=85
-
+</details>
+<details> 
+<summary>Satelite</summary>
 
 Satelite: 
 - https://www.youtube.com/watch?v=AK04FVMZ6pI&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=123
@@ -244,26 +189,9 @@ Satelite:
 - https://www.youtube.com/watch?v=1I3dKEriVl8&list=WL&index=86
 - https://www.youtube.com/watch?v=30XpSozOZII&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=21
 - https://www.youtube.com/watch?v=wuB3NeIp6CM&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=29&t=148s
-
-
-
-
-
-Centrifuge:
-- https://www.youtube.com/watch?v=V-CQP5bLD6A&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=26&t=323s
-- https://www.youtube.com/watch?v=sjDpubdTjUU&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=156
-- https://www.youtube.com/watch?v=KEXWd3_fM94&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=157
-
-
-
-Jet Engine:
-https://www.youtube.com/watch?v=A6AZ1-msoyA&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=70&t=36s
-https://www.youtube.com/watch?v=nYUiOIrEY24&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=71&t=12s
-https://www.youtube.com/watch?v=o-G45OOb32A&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=72
-https://www.youtube.com/watch?v=I7hsUvZmZ2k&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=73
-https://www.youtube.com/watch?v=fE_LjQ4IBQQ&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=74&t=9s
-
-
+</details>
+<details> 
+<summary>Coil Gun</summary>
 Coil Gun:
 https://www.youtube.com/watch?v=Xll9rIzZPeQ&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=90
 https://www.youtube.com/watch?v=s161wEcIfGM&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=158
@@ -286,21 +214,114 @@ https://www.youtube.com/watch?v=vtoWxGVx5kA&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfz
 https://www.youtube.com/watch?v=id90kjYh-Qw&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=176&t=247s
 https://www.youtube.com/watch?v=PMU9TQUDhow&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=177
 https://www.youtube.com/watch?v=QTDcFxTq1Fw&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=178&t=1162s
-
-
-Reflow hot plate:
-- https://www.youtube.com/watch?v=C7blZigaaaA&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=154&t=11s
-- https://www.youtube.com/watch?v=9q0mh3y_XBc&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=155
-
-
-
-
-
-
+</details>
+<details> 
+<summary>Osmosis</summary>
+If you separate in a container, pure water(H2O) and /"salty/" water with a membrane with holes big enouch that only water molecules can pass, the pure water will flow to the /"salty/" water. This process is called osmosis. By presurasing the /"salty/" water, you can push it trouth the filter, so only the water molecules to go trouth the filter, makeing pure water. This process is called reverse osmosis and is used in city water purrifiers. By combining pure water after this process, with some esential "chemicals", you can make the cleanest potable water.
 Osmosis:
 https://www.youtube.com/watch?v=vCJVXYmXkzM&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=252&t=174s
 https://www.youtube.com/watch?v=L-osEc07vMs&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=251
 https://www.youtube.com/watch?v=4RDA_B_dRQ0&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=259
+</details>
+<details> 
+<summary>Jet Engine</summary>
+Jet Engine:
+https://www.youtube.com/watch?v=A6AZ1-msoyA&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=70&t=36s
+https://www.youtube.com/watch?v=nYUiOIrEY24&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=71&t=12s
+https://www.youtube.com/watch?v=o-G45OOb32A&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=72
+https://www.youtube.com/watch?v=I7hsUvZmZ2k&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=73
+https://www.youtube.com/watch?v=fE_LjQ4IBQQ&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=74&t=9s
+</details>
+<details> 
+<summary>Metal detector</summary>
+
+Metal detection:
+- https://www.youtube.com/watch?v=EcuTsifSgBs&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=80
+- https://www.youtube.com/watch?v=df8jFglzkNg&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=81
+- https://www.youtube.com/watch?v=WQjbAzRL6RQ&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=82
+- https://www.youtube.com/watch?v=7QJrI-9CCIw&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=83
+- https://www.youtube.com/watch?v=FmmYviJ45bM&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=84&t=6s
+- https://www.youtube.com/watch?v=yzrVHEB02Hw&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=85
+</details>
+<details> 
+<summary>Centrifuge</summary>
+Centrifuge:
+- https://www.youtube.com/watch?v=V-CQP5bLD6A&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=26&t=323s
+- https://www.youtube.com/watch?v=sjDpubdTjUU&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=156
+- https://www.youtube.com/watch?v=KEXWd3_fM94&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=157
+</details>
+<details> 
+<summary>Reflow hot plate</summary>
+
+Reflow hot plate:
+- https://www.youtube.com/watch?v=C7blZigaaaA&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=154&t=11s
+- https://www.youtube.com/watch?v=9q0mh3y_XBc&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=155
+</details>
+<details> 
+<summary>Haptic touch</summary>
+
+Haptic Feeling:
+- https://www.youtube.com/watch?v=iPtgvh6fNdQ
+</details>
+<details> 
+<summary>B</summary>
+
+</details>
+<details> 
+<summary>B</summary>
+
+</details>
+<details> 
+<summary>B</summary>
+
+</details>
+
+
+
+
+Helicopters & drones:
+- https://www.youtube.com/watch?v=EMaR7PznE_s&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=31
+- https://www.youtube.com/watch?v=aRotBcoHuX4&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=32
+- https://www.youtube.com/watch?v=6B-GIVMU340&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=33
+- https://www.youtube.com/watch?v=d80oXSCcHTk&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=332&t=43s
+- https://www.youtube.com/watch?v=7xPIISLNp8Q&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=333
+- https://www.youtube.com/watch?v=2tdnqZgKa0E&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=334
+- https://www.youtube.com/watch?v=zY68Nf9Cobs&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=335&t=14s
+- https://www.youtube.com/watch?v=AZUkmMksnSI
+
+
+
+Fligth controller:
+- https://www.youtube.com/watch?v=rLDqQ2L_mUQ&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=247
+
+
+
+[legislatie zbor cu drona in ROMANIA](https://www.youtube.com/watch?v=lWt6r363AkY&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=236)
+[legislatie zbor cu drona in RO + EU](https://www.youtube.com/watch?v=P1GxJ2GM1RE&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=238)
+[drone regulations in EU 1](https://www.youtube.com/watch?v=YVvkAG-9UJE&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=239&t=12s)
+[drone regulations in EU 2](https://www.youtube.com/watch?v=Cb6jF1VytRk&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=240)
+[drone regulations in EU 3](https://www.youtube.com/watch?v=rgn8VKrG6pw&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=241)
+[drone regulations in EU 4](https://www.youtube.com/watch?v=rekcJuTpZb0&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=242)
+[drone regulations in EU 5](https://www.youtube.com/watch?v=KZoaMVEDjmE&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=243&t=347s)
+[legislatie zbor cu drona in RO](https://www.youtube.com/watch?v=MWd5waix_OU&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=244&t=560s)
+[drone regulations in EU 6](https://www.youtube.com/watch?v=UZfZWETPYAc&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=245&t=173s)
+[drone regulations in EU 7](https://www.youtube.com/watch?v=vHXszLsQMvs&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=246)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

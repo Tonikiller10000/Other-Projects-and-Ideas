@@ -192,28 +192,29 @@ Satelite:
 </details>
 <details> 
 <summary>Coil Gun</summary>
+
 Coil Gun:
-https://www.youtube.com/watch?v=Xll9rIzZPeQ&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=90
-https://www.youtube.com/watch?v=s161wEcIfGM&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=158
-https://www.youtube.com/watch?v=KikIp_yAXvQ&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=160
-https://www.youtube.com/watch?v=MXLzC7Jo4hA&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=161
-https://www.youtube.com/watch?v=ReFUr3KuK40&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=162
-https://www.youtube.com/watch?v=_hRNFN5Hxzo&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=163&t=1s
-https://www.youtube.com/watch?v=TWeJsaCiGQ0&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=164&t=46s
-https://www.youtube.com/watch?v=Zm_oZZZBLj8&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=165
-https://www.youtube.com/watch?v=qXXYkxCSiUY&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=166&t=870s
-https://www.youtube.com/watch?v=r8YHxpa5cJA&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=167&t=337s
-https://www.youtube.com/watch?v=2B2ZEN2Qu-Q&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=168
-https://www.youtube.com/watch?v=JqCHuwemHYU&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=169
-https://www.youtube.com/watch?v=OdKDb0fnAb0&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=170&t=125s
-https://www.youtube.com/watch?v=pFFZcaWAxLg&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=171
-https://www.youtube.com/watch?v=9Z2_KcByZvM&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=172
-https://www.youtube.com/watch?v=_4TGb3MsSjE&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=173&t=318s
-https://www.youtube.com/watch?v=UWqMRJZEqRA&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=174
-https://www.youtube.com/watch?v=vtoWxGVx5kA&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=175
-https://www.youtube.com/watch?v=id90kjYh-Qw&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=176&t=247s
-https://www.youtube.com/watch?v=PMU9TQUDhow&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=177
-https://www.youtube.com/watch?v=QTDcFxTq1Fw&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=178&t=1162s
+- https://www.youtube.com/watch?v=Xll9rIzZPeQ&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=90
+- https://www.youtube.com/watch?v=s161wEcIfGM&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=158
+- https://www.youtube.com/watch?v=KikIp_yAXvQ&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=160
+- https://www.youtube.com/watch?v=MXLzC7Jo4hA&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=161
+- https://www.youtube.com/watch?v=ReFUr3KuK40&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=162
+- https://www.youtube.com/watch?v=_hRNFN5Hxzo&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=163&t=1s
+- https://www.youtube.com/watch?v=TWeJsaCiGQ0&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=164&t=46s
+- https://www.youtube.com/watch?v=Zm_oZZZBLj8&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=165
+- https://www.youtube.com/watch?v=qXXYkxCSiUY&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=166&t=870s
+- https://www.youtube.com/watch?v=r8YHxpa5cJA&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=167&t=337s
+- https://www.youtube.com/watch?v=2B2ZEN2Qu-Q&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=168
+- https://www.youtube.com/watch?v=JqCHuwemHYU&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=169
+- https://www.youtube.com/watch?v=OdKDb0fnAb0&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=170&t=125s
+- https://www.youtube.com/watch?v=pFFZcaWAxLg&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=171
+- https://www.youtube.com/watch?v=9Z2_KcByZvM&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=172
+- https://www.youtube.com/watch?v=_4TGb3MsSjE&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=173&t=318s
+- https://www.youtube.com/watch?v=UWqMRJZEqRA&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=174
+- https://www.youtube.com/watch?v=vtoWxGVx5kA&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=175
+- https://www.youtube.com/watch?v=id90kjYh-Qw&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=176&t=247s
+- https://www.youtube.com/watch?v=PMU9TQUDhow&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=177
+- https://www.youtube.com/watch?v=QTDcFxTq1Fw&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=178&t=1162s
 </details>
 <details> 
 <summary>Osmosis</summary>

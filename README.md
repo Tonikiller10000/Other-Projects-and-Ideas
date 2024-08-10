@@ -44,6 +44,7 @@ Here are some examples of what it is and how it works:
 
 <details> 
 <summary>Start a Pottery Journei /   Make Clay </summary>
+
 If you don`t want to pay for \"magic dirt\", [make it](https://www.youtube.com/watch?v=ca20JkKFAcE) yourself.
 Go in the forest or dirty places and search for sticky soil (tire marks, yellow color soil, mud). Filter it until you remain with particles smaller than 2um, add some [ingredients](https://www.youtube.com/watch?v=HbLdNKM9y68&list=WL&index=125) and start making vases and other kinks of yours. 
 Have fun and [reuse](https://www.youtube.com/shorts/1bMbADiztPY). 

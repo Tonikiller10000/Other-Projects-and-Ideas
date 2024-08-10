@@ -45,9 +45,15 @@ Here are some examples of what it is and how it works:
 <details> 
 <summary>Start a Pottery Journei /   Make Clay </summary>
 
-If you don`t want to pay for \"magic dirt\", [make it](https://www.youtube.com/watch?v=ca20JkKFAcE) yourself.
-Go in the forest or dirty places and search for sticky soil (tire marks, yellow color soil, mud). Filter it until you remain with particles smaller than 2um, add some [ingredients](https://www.youtube.com/watch?v=HbLdNKM9y68&list=WL&index=125) and start making vases and other kinks of yours. 
+If you don`t want to pay for \"[magic dirt](https://www.youtube.com/watch?v=ca20JkKFAcE)\",  make it yourself.
+Go in the forest or other dirty places and search for sticky soil (look for tire marks, yellow color soil, mud, ...). Filter it until you remain with particles smaller than 2um, add some more [ingredients](https://www.youtube.com/watch?v=HbLdNKM9y68&list=WL&index=125) and start making vases and other kinks of yours.  
 Have fun and [reuse](https://www.youtube.com/shorts/1bMbADiztPY). 
+</details>
+
+<details> 
+<summary>Osmosis</summary>
+
+If you separate in a container, pure water(H2O) and /"salty/" water with a membrane with holes big enouch that only water molecules can pass truth it, the pure water will flow to the /"salty/" water [video1](https://www.youtube.com/watch?v=4RDA_B_dRQ0&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=259), [video2](https://www.youtube.com/watch?v=vCJVXYmXkzM&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=252&t=174s). This process is called <b>osmosis</b>. By presurasing the /"salty/" water, you can push it trouth the filter, so only the water molecules to go trouth the filter, making pure water. This process named <b>reverse osmosis</b> is used in city water purrifiers. By combining the pure water with some esential minerals, you can make the water potable. Pure water in big quantities is [poisonous](https://www.youtube.com/watch?v=L-osEc07vMs&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=251)
 </details>
 
 
@@ -56,12 +62,6 @@ Have fun and [reuse](https://www.youtube.com/shorts/1bMbADiztPY).
 
 
 
-
-
-
-
-
-
 <br>
 <br>
 <br>
@@ -70,15 +70,6 @@ Have fun and [reuse](https://www.youtube.com/shorts/1bMbADiztPY).
 <br>
 <br>
 <br>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -111,23 +102,11 @@ Hardware design:
 
 </details>
 
+<details> 
+<summary>Jet Engine</summary>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+If you want to make a [Jet Engine](https://www.youtube.com/watch?v=Is3HRNNZxc8&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=48), this is the [channel](https://www.youtube.com/@integza) that you are looking for.
+</details>
 
 
 
@@ -257,27 +236,8 @@ Coil Gun:
 - https://www.youtube.com/watch?v=PMU9TQUDhow&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=177
 - https://www.youtube.com/watch?v=QTDcFxTq1Fw&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=178&t=1162s
 </details>
-<details> 
-<summary>Osmosis</summary>
-If you separate in a container, pure water(H2O) and /"salty/" water with a membrane with holes big enouch that only water molecules can pass, the pure water will flow to the /"salty/" water. This process is called osmosis. By presurasing the /"salty/" water, you can push it trouth the filter, so only the water molecules to go trouth the filter, makeing pure water. This process is called reverse osmosis and is used in city water purrifiers. By combining pure water after this process, with some esential "chemicals", you can make the cleanest potable water.
 
-Osmosis:
-- https://www.youtube.com/watch?v=vCJVXYmXkzM&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=252&t=174s
-- https://www.youtube.com/watch?v=L-osEc07vMs&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=251
-- https://www.youtube.com/watch?v=4RDA_B_dRQ0&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=259
-- https://www.youtube.com/watch?v=4RDA_B_dRQ0&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=197
-</details>
-<details> 
-<summary>Jet Engine</summary>
-Jet Engine:
-https://www.youtube.com/watch?v=A6AZ1-msoyA&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=70&t=36s
-https://www.youtube.com/watch?v=nYUiOIrEY24&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=71&t=12s
-https://www.youtube.com/watch?v=o-G45OOb32A&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=72
-https://www.youtube.com/watch?v=I7hsUvZmZ2k&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=73
-https://www.youtube.com/watch?v=fE_LjQ4IBQQ&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=74&t=9s
-https://www.youtube.com/watch?v=1zSU2kLLXQY&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=15
-https://www.youtube.com/watch?v=Is3HRNNZxc8&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=47
-</details>
+
 <details> 
 <summary>Metal detector</summary>
 
@@ -378,13 +338,6 @@ https://www.youtube.com/watch?v=_muUXPfTgq8&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfz
 
 https://www.youtube.com/watch?v=pUba126uzvU&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=232
 https://www.youtube.com/watch?v=KLEH8RJsYgI&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=235
-
-
-
-
-
-
-
 
 
 

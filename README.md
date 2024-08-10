@@ -1,9 +1,12 @@
 # Other Projects and Ideas
 
-## Purpose:
-This repository contains some projects and ideas of projects witch are verry interesting and worth your attention.
-Some of these are tested by me, but for some of them I don\`t have the time or technology to try them.
-I hope YOU can try them, or at least find nomething new, you didn\`t know about.
+## Description:
+This repository contains some projects and ideas witch worth your attention.
+
+
+
+
+
 
 ## Mentions:
 - [controll OLED dirrectly to HDMI](https://mitxela.com/projects/ddc-oled)
@@ -13,12 +16,13 @@ I hope YOU can try them, or at least find nomething new, you didn\`t know about.
 - [ELEVATOR](https://www.youtube.com/watch?v=3RKgASpq2P4&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=72)
 
 
+
 ## Projects:
 <details> 
 <summary>Sonoluminescence </summary>
 
-[Sonoluminescence](https://en.wikipedia.org/wiki/Sonoluminescence) is a process in witch you can \"transform\" sound into ligth.
-It works by creating a fast colapsing buble inside the water witch can reach almost 12000 degrees celsius and produce ligth.
+[Sonoluminescence](https://en.wikipedia.org/wiki/Sonoluminescence) is a process in witch you can \"transform\" sound into ligth. 
+It works by creating a fast colapsing air buble in the water witch, because of the verry high pressure can reach almost 12000 celsius degrees and produce ligth.
 With this, you can make a \"star in a jar\" like [this](https://www.youtube.com/watch?v=puVxGnl_3y8) guy, or like [this](https://www.youtube.com/watch?v=0TVZd8dZysY&list=WL&index=284) guy. 
 You can read more in this papers:
 - http://techmind.org/sl/
@@ -28,7 +32,7 @@ You can read more in this papers:
 <details> 
 <summary>Capacitive touch </summary>
 
-Here are some examples about what capacitive sensing can do, how to use it and how it works:
+Here are some examples of what it is and how it works:
 - https://www.youtube.com/watch?v=DxWZUTnEvhs
 - https://www.youtube.com/watch?v=FjcVGP6vktM
 - https://www.youtube.com/watch?v=X7U_6wZqxro
@@ -38,53 +42,29 @@ Here are some examples about what capacitive sensing can do, how to use it and h
 - https://www.youtube.com/watch?v=FjcVGP6vktM&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=195
 </details>
 
+
 <details> 
-<summary>Make clay </summary>
+<summary>Start a Pottery Journei/ MAKE CLAY </summary>
 If you don`t want to pay for \"magic dirt\", make it yourself.
 Here are some links to help you make pottery clay:
 https://www.youtube.com/watch?v=HbLdNKM9y68&list=WL&index=125
 https://www.youtube.com/watch?v=ca20JkKFAcE
 https://www.youtube.com/shorts/1bMbADiztPY
 
-Go in to the forest or places with a lot of dirt, and look for sticky soil (EX: where you see tire marks)
-Filter it until you remain with particles smaller than 2um. After adding the magic ingredient, you can make 
-all kinds of stuff. Have fun. 
+Summary:
+Go in to the forest or places with a lot of dirt and search for sticky soil (tire marks, yellow color soil, mud).
+Filter it until you remain with particles smaller than 2um. 
+After adding some ingredients you can start making vases and other kinks of yours. 
+Have fun. 
 </details>
 
-<details> 
-<summary>USB-C Power Delivery </summary>
-Papers & videos:
-- https://www.asme.org/topics-resources/content/explore-the-basics-of-usb-c-and-usb-power-delivery
-- https://reclaimerlabs.com/
-- https://www.usb.org/
-- https://youtu.be/OwAZqJ4wpJg?si=BEcy-nQlTGwnmcvM
-- https://www.youtube.com/watch?v=qV03FfdPHOw&list=WL&index=28
-- https://learn.sparkfun.com/tutorials/power-delivery-board---usb-c-qwiic-hookup-guide/all
-- https://circuitcellar.com/research-design-hub/basics-of-design/build-a-usb-c-power-supply/
-- https://www.st.com/content/ccc/resource/sales_and_marketing/presentation/product_presentation/group0/5a/b1/8e/6c/2b/0d/46/3c/Apec/files/APEC_2016_USB_Power.pdf/_jcr_content/translations/en.APEC_2016_USB_Power.pdf
-- https://community.infineon.com/t5/USB-EZ-PD-Type-C/USB-Power-Delivery-adjustable-voltage-mode/td-p/403013
-- https://www.allaboutcircuits.com/technical-articles/introduction-to-usb-type-c-which-pins-power-delivery-data-transfer/
-
-Hardware design:
-- https://www.youtube.com/watch?v=W13HNsoHj7A
-- [PowerBank](https://www.youtube.com/watch?v=yEbbhTw0kno&t=1s)
-- https://www.youtube.com/watch?v=_WI9Nwqvplo
-- https://www.ti.com/jp/lit/ml/slyp735/slyp735.pdf?ts=1714842921522&ref_url=https%253A%252F%252Fwww.google.com%252F
-- https://www.ti.com/lit/wp/slyy145a/slyy145a.pdf?ts=1714828882912&ref_url=https%253A%252F%252Fwww.google.com%252F
-
-PD triggers:
-- https://www.youtube.com/watch?v=iumAnPiQSj8
-- https://www.youtube.com/watch?v=DQLrZA5RMjQ
-
-Datasheets:
 
 
-</details>
+
+
 <details> 
 <summary>wireless power transfer </summary>
-Wireless power transmission is a verry interesting topic on witch you can find more in the 2 videos made by Great Scot, or in those 2 linked papers. 
-In conclusion after watching the videos, you can see that wireless power transmission dosen\`t work because, for high eficiency you need high frequency witch don`t travell verry far. 
-That is also true for the solar power witch is why the efichiency has reached under 45%. With thease said, I am curious about space wireless power transfer, witch happends in vaccum. 
+Wireless power transmission is a verry interesting topic on witch you can find more in the videos or papers linked under. 
 
 Wireless power transfer papers & videos:
 - [GreatScott video 1](https://www.youtube.com/watch?v=15HmW1K8MZY)
@@ -109,20 +89,43 @@ Hardware design:
 - https://electronoobs.com/eng_circuitos_tut58_sch2.php#google_vignette
 - https://electronoobs.com/eng_circuitos_tut58_sch1.php
 
-
 </details>
-<details> 
-<summary>Arduino drums</summary>
-Make drums with arduino and piezoelectric plates.
 
-Links:
-- https://www.instructables.com/Arduino-Minimal-Drum-Kit/
-- https://open-e-drums.com/hardware.html
-- https://github.com/RyoKosaka/HelloDrum-arduino-Library
-- https://projecthub.arduino.cc/ryokosaka/minimal-midi-drum-kit-with-3d-printer-61e044
-- https://www.instructables.com/MIDI-Arduino-Drums/
-- https://www.youtube.com/watch?v=cDVI-QIp1Nc&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=71
-</details>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <details> 
 <summary>Nanotechnology</summary>
 
@@ -355,6 +358,91 @@ https://www.youtube.com/watch?v=_muUXPfTgq8&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfz
 
 https://www.youtube.com/watch?v=pUba126uzvU&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=232
 https://www.youtube.com/watch?v=KLEH8RJsYgI&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=235
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+future separate: 
+
+
+
+
+<details> 
+<summary>USB-C Power Delivery </summary>
+Papers & videos:
+- https://www.asme.org/topics-resources/content/explore-the-basics-of-usb-c-and-usb-power-delivery
+- https://reclaimerlabs.com/
+- https://www.usb.org/
+- https://youtu.be/OwAZqJ4wpJg?si=BEcy-nQlTGwnmcvM
+- https://www.youtube.com/watch?v=qV03FfdPHOw&list=WL&index=28
+- https://learn.sparkfun.com/tutorials/power-delivery-board---usb-c-qwiic-hookup-guide/all
+- https://circuitcellar.com/research-design-hub/basics-of-design/build-a-usb-c-power-supply/
+- https://www.st.com/content/ccc/resource/sales_and_marketing/presentation/product_presentation/group0/5a/b1/8e/6c/2b/0d/46/3c/Apec/files/APEC_2016_USB_Power.pdf/_jcr_content/translations/en.APEC_2016_USB_Power.pdf
+- https://community.infineon.com/t5/USB-EZ-PD-Type-C/USB-Power-Delivery-adjustable-voltage-mode/td-p/403013
+- https://www.allaboutcircuits.com/technical-articles/introduction-to-usb-type-c-which-pins-power-delivery-data-transfer/
+
+Hardware design:
+- https://www.youtube.com/watch?v=W13HNsoHj7A
+- [PowerBank](https://www.youtube.com/watch?v=yEbbhTw0kno&t=1s)
+- https://www.youtube.com/watch?v=_WI9Nwqvplo
+- https://www.ti.com/jp/lit/ml/slyp735/slyp735.pdf?ts=1714842921522&ref_url=https%253A%252F%252Fwww.google.com%252F
+- https://www.ti.com/lit/wp/slyy145a/slyy145a.pdf?ts=1714828882912&ref_url=https%253A%252F%252Fwww.google.com%252F
+
+PD triggers:
+- https://www.youtube.com/watch?v=iumAnPiQSj8
+- https://www.youtube.com/watch?v=DQLrZA5RMjQ
+
+Datasheets:
+
+
+</details>
+
+
+
+
+
+
+<details> 
+<summary>Arduino drums</summary>
+Make drums with arduino and piezoelectric plates.
+
+Links:
+- https://www.instructables.com/Arduino-Minimal-Drum-Kit/
+- https://open-e-drums.com/hardware.html
+- https://github.com/RyoKosaka/HelloDrum-arduino-Library
+- https://projecthub.arduino.cc/ryokosaka/minimal-midi-drum-kit-with-3d-printer-61e044
+- https://www.instructables.com/MIDI-Arduino-Drums/
+- https://www.youtube.com/watch?v=cDVI-QIp1Nc&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=71
+</details>
+
+
+
+
+
+
+
+
+
 
 
 

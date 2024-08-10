@@ -2,9 +2,11 @@
 
 ## Description:
 This repository contains some projects and ideas witch worth your attention.
+Every week this page get`s updated with new discovered stuff.
 
-
-
+## News:
+This news section will be updated weekly after 17/8/2024.
+For now you have 5 mentions and 4 projects to look into.
 
 
 
@@ -71,6 +73,7 @@ If you separate in a container, pure water(H2O) and /"salty/" water with a membr
 <br>
 <br>
 
+## ///////////////// in construction ///////////////////
 
 
 <details> 

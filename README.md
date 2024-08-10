@@ -23,12 +23,12 @@ This repository contains some projects and ideas witch worth your attention.
 
 [Sonoluminescence](https://en.wikipedia.org/wiki/Sonoluminescence) is a process in witch you can \"transform\" sound into ligth. 
 It works by creating a fast colapsing air buble in the water witch, because of the verry high pressure can reach almost 12000 celsius degrees and produce ligth.
-With this, you can make a \"star in a jar\" like [this](https://www.youtube.com/watch?v=puVxGnl_3y8) guy, or like [this](https://www.youtube.com/watch?v=0TVZd8dZysY&list=WL&index=284) guy. 
+With this, you can make a \"star in a jar\" like [this](https://www.youtube.com/watch?v=puVxGnl_3y8) guy, or like [this](https://www.youtube.com/watch?v=0TVZd8dZysY&list=WL&index=284) guy. Other way "conserving" power is heating rare gases with electrons like [this](https://www.youtube.com/watch?v=VTBZ0VwIgs8&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=119).
 You can read more in this papers:
 - http://techmind.org/sl/
 - https://pubs.aip.org/asa/jasa/article/138/4/2181/899097/Resource-Paper-Sonoluminescence
-- https://www.youtube.com/watch?v=VTBZ0VwIgs8&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=119
 </details>
+
 <details> 
 <summary>Capacitive touch </summary>
 
@@ -42,21 +42,40 @@ Here are some examples of what it is and how it works:
 - https://www.youtube.com/watch?v=FjcVGP6vktM&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=195
 </details>
 
-
 <details> 
-<summary>Start a Pottery Journei/ MAKE CLAY </summary>
-If you don`t want to pay for \"magic dirt\", make it yourself.
-Here are some links to help you make pottery clay:
-https://www.youtube.com/watch?v=HbLdNKM9y68&list=WL&index=125
-https://www.youtube.com/watch?v=ca20JkKFAcE
-https://www.youtube.com/shorts/1bMbADiztPY
-
-Summary:
-Go in to the forest or places with a lot of dirt and search for sticky soil (tire marks, yellow color soil, mud).
-Filter it until you remain with particles smaller than 2um. 
-After adding some ingredients you can start making vases and other kinks of yours. 
-Have fun. 
+<summary>Start a Pottery Journei /   Make Clay </summary>
+If you don`t want to pay for \"magic dirt\", [make it](https://www.youtube.com/watch?v=ca20JkKFAcE) yourself.
+Go in the forest or dirty places and search for sticky soil (tire marks, yellow color soil, mud). Filter it until you remain with particles smaller than 2um, add some [ingredients](https://www.youtube.com/watch?v=HbLdNKM9y68&list=WL&index=125) and start making vases and other kinks of yours. 
+Have fun and [reuse](https://www.youtube.com/shorts/1bMbADiztPY). 
 </details>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+
+
+
+
+
 
 
 

@@ -16,7 +16,7 @@ For now you have 5 mentions and 4 projects to look into.
 - [Custom file extension](https://www.youtube.com/watch?v=_FvmTFsDZ84&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=19)
 - [TIC TAC TOE](https://www.youtube.com/watch?v=On_4U0aeKG4&list=WL&index=64)
 - [ELEVATOR](https://www.youtube.com/watch?v=3RKgASpq2P4&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=72)
-
+- [Segment displays](https://youtu.be/B887D3PVYqs?si=KS5QnkuYI9ruFV4f)
 
 
 ## Projects:
@@ -50,6 +50,26 @@ Here are some examples of what it is and how it works:
 If you don`t want to pay for \"[magic dirt](https://www.youtube.com/watch?v=ca20JkKFAcE)\",  make it yourself.
 Go in the forest or other dirty places and search for sticky soil (look for tire marks, yellow color soil, mud, ...). Filter it until you remain with particles smaller than 2um, add some more [ingredients](https://www.youtube.com/watch?v=HbLdNKM9y68&list=WL&index=125) and start making vases and other kinks of yours.  
 Have fun and [reuse](https://www.youtube.com/shorts/1bMbADiztPY). 
+
+<table>
+  <tr>
+    <td><img src="c2" ></td>
+    <td><img src="c3" ></td>
+    <td><img src="c4" ></td> 
+  </tr>
+</table>
+<table>
+  <tr>
+    <td><img src="c1" ></td>
+    <td><img src="c5" ></td>  
+    <td><img src="c6" ></td>
+    <td><img src="c7" ></td> 
+    <td><img src="c8" ></td>  
+    <td><img src="c9" ></td>     
+  </tr>
+</table>
+
+
 </details>
 
 <details> 
@@ -57,6 +77,28 @@ Have fun and [reuse](https://www.youtube.com/shorts/1bMbADiztPY).
 
 If you separate in a container, pure water(H2O) and /"salty/" water with a membrane with holes big enouch that only water molecules can pass truth it, the pure water will flow to the /"salty/" water [video1](https://www.youtube.com/watch?v=4RDA_B_dRQ0&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=259), [video2](https://www.youtube.com/watch?v=vCJVXYmXkzM&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=252&t=174s). This process is called <b>osmosis</b>. By presurasing the /"salty/" water, you can push it trouth the filter, so only the water molecules to go trouth the filter, making pure water. This process named <b>reverse osmosis</b> is used in city water purrifiers. By combining the pure water with some esential minerals, you can make the water potable. Pure water in big quantities is [poisonous](https://www.youtube.com/watch?v=L-osEc07vMs&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=251)
 </details>
+
+
+<details> 
+<summary>Starlyte</summary>
+
+
+</details>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -261,13 +303,7 @@ Centrifuge:
 - https://www.youtube.com/watch?v=KEXWd3_fM94&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=157
 - https://www.youtube.com/watch?v=EWWUqkEXJUE&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=123
 </details>
-<details> 
-<summary>Reflow hot plate</summary>
 
-Reflow hot plate:
-- https://www.youtube.com/watch?v=C7blZigaaaA&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=154&t=11s
-- https://www.youtube.com/watch?v=9q0mh3y_XBc&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=155
-</details>
 <details> 
 <summary>Haptic touch</summary>
 
@@ -281,13 +317,6 @@ Haptic Feeling:
 <details> 
 <summary>B</summary>
 
-</details>
-<details> 
-<summary>B</summary>
-
-</details>
-<details> 
-<summary>B</summary>
 
 </details>
 
@@ -341,11 +370,6 @@ https://www.youtube.com/watch?v=_muUXPfTgq8&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfz
 
 https://www.youtube.com/watch?v=pUba126uzvU&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=232
 https://www.youtube.com/watch?v=KLEH8RJsYgI&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=235
-
-
-
-
-
 
 
 
@@ -413,6 +437,267 @@ Links:
 
 
 
+
+
+
+
+
+<details> 
+<summary>?> How to make a speaker enclosure <? </summary>
+
+Speaker enclosure links:
+- https://www.youtube.com/watch?v=Df2I4JIQzxs
+- https://www.youtube.com/watch?v=xT1gYZGDx4I&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=13
+- https://www.youtube.com/watch?v=pUgxjNrwvOE&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=57&t=1s
+- https://www.youtube.com/watch?v=GrrxGm18KSY&list=WL&index=127
+- https://www.youtube.com/watch?v=pUgxjNrwvOE&list=WL&index=130
+- https://www.youtube.com/watch?v=XEspOD1NHr0&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=217
+</details>
+
+
+
+<details> 
+<summary>Oxytorch</summary>
+You can make an oxytorch by separring hydrogen and oxygen with electrolisis, and burning it at an higher pressure
+
+Oxytorch:
+- https://www.youtube.com/watch?v=d85OX6yEwE0&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=15
+- https://www.youtube.com/watch?v=7M4yqcO_pPo&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=129&t=23s
+</details>
+
+
+
+<details> 
+<summary>Metal detector</summary>
+
+Metal detection:
+- https://www.youtube.com/watch?v=EcuTsifSgBs&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=80
+- https://www.youtube.com/watch?v=df8jFglzkNg&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=81
+- https://www.youtube.com/watch?v=WQjbAzRL6RQ&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=82
+- https://www.youtube.com/watch?v=7QJrI-9CCIw&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=83
+- https://www.youtube.com/watch?v=FmmYviJ45bM&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=84&t=6s
+- https://www.youtube.com/watch?v=yzrVHEB02Hw&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=85
+- https://bodhi3.wordpress.com/wp-content/uploads/2013/05/metaldetector.pdf
+- https://www.minelab.com/__files/f/11043/KBA_METAL_DETECTOR_BASICS_&_THEORY.pdf
+- https://www.ojp.gov/pdffiles1/nij/193510.pdf
+- https://www.ojp.gov/pdffiles1/nij/184433.pdf
+- https://www.hikvision.com/content/dam/hikvision/products/S000000001/S000002016/S000002037/S000002056/OFR003117/M000019671/User_Manual/NP-SG106-User-Manual.pdf
+- https://ro.scribd.com/document/439637837/PROJECT-REPORT-docx
+//put the : inside the metal detector file
+- https://ro.scribd.com/document/151432587/Metal-Detector
+- https://www.electroschematics.com/homemade-metal-detector/
+- https://www.learningaboutelectronics.com/Articles/How-to-build-a-metal-detector-circuit.php
+- https://www.circuitstoday.com/metal-detector-circuit#google_vignette
+- https://www.nutsvolts.com/magazine/article/build_a_four_transistor_metal_detector
+- https://www.hackster.io/mircemk/diy-simple-sensitive-ib-metal-detector-with-2xne555-ic-14a3bb
+- https://techsawco.com/simple-metal-detector-circuit/
+- https://www.satsleuth.com/Schematics.aspx?Category=Metal
+- https://www.homemade-circuits.com/how-to-make-simple-metal-detector/
+- https://circuitcellar.com/research-design-hub/projects/advanced-metal-detector/
+- https://www.talkingelectronics.com/projects/200TrCcts/MetalDetectors/MetalDetectors-1.html
+- https://fortresstechnology.com.br/wp-content/uploads/2022/06/FORTRESS_MetalDetectionBasics.pdf
+- https://www.allaboutcircuits.com/projects/metal-detector-with-arduino/
+- https://www.diva-portal.org/smash/get/diva2:1198542/FULLTEXT01.pdf
+- https://www.next.gr/sens-detectors/metal-detector-circuits/
+
+</details>
+
+
+
+
+
+<details> 
+<summary>Centrifuge</summary>
+
+Centrifuge:
+- https://www.youtube.com/watch?v=V-CQP5bLD6A&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=26&t=323s
+- https://www.youtube.com/watch?v=sjDpubdTjUU&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=156
+- https://www.youtube.com/watch?v=KEXWd3_fM94&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=157
+- https://www.youtube.com/watch?v=EWWUqkEXJUE&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=123
+</details>
+
+
+
+
+
+<details> 
+<summary>Haptic touch</summary>
+
+Haptic Feeling:
+- https://www.youtube.com/watch?v=iPtgvh6fNdQ
+- https://www.youtube.com/watch?v=j_rErbhxNFM&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=70
+- https://www.youtube.com/watch?v=qfb5_ZKhjqY&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=69
+- https://www.youtube.com/watch?v=UJXLBqG9E_s&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=71
+- https://www.youtube.com/watch?v=Q76dMggUH1M&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=193
+</details>
+
+
+
+
+<details> 
+<summary>Ray tracing and 3D computer graphics</summary>
+
+- https://youtu.be/Qz0KTGYJtUk?si=5mbxZU7GKDcM89sX
+- https://youtu.be/XCyh1y7Zk7I?si=9BFylkpTk0HCFGgf
+
+</details>
+
+
+
+
+
+<details> 
+<summary>Aplication Specific Integrated Circuits (ASIC/`s)</summary>
+
+- ASIC1: https://docs.google.com/document/d/1H3jA7guvXT7toEvUObOQ1viQ6Qz_QSGDiJ5OBS2pDEI/edit#heading=h.ry34bfjf6w62
+- ASIC2: https://app.siliwiz.com/?preset=blank
+- ASIC3: https://www.youtube.com/watch?v=69mdJv6fWXE
+- ASIC4: https://www.youtube.com/watch?v=FMdYuGpPicw&list=WL&index=69&t=19s
+- ASIC5: https://www.youtube.com/watch?v=lq2BpWwcyQM
+- Verilog1: https://www.youtube.com/watch?v=Q99vxvszktI&t=1034s
+- Electronoobs FPGA: https://www.youtube.com/playlist?list=PLsR1AO4QH1AyT3b0pUERjFVShbzEelogi
+- ICEStudio FPGA Great scott: https://www.youtube.com/watch?v=ZNunxg7o8l0
+- Phil`s lab FPGA`s: https://www.youtube.com/playlist?list=PLXSyc11qLa1ZutrEG2XmyWrNz17SSQTdH
+- FPGA2: https://www.youtube.com/watch?v=Wsou_zhCEYQ
+- VERILOG2: https://www.youtube.com/watch?v=aWm9pJ2KobA
+- FPGA3: https://www.youtube.com/playlist?list=PLEBQazB0HUyT1WmMONxRZn9NmQ_9CIKhb
+- Reverse engeneering: https://www.youtube.com/watch?v=ICykppClja8&list=WL&index=177&t=299s
+
+</details>
+
+
+<details> 
+<summary>Field Programable Gate Arreys (FPGA/`s) & Verilog</summary>
+
+Verilog/fpga:
+- https://www.youtube.com/playlist?list=PLn8PRpmsu08pQBgjxYFXSsODEF3Jqmm-y
+- https://www.fpga4fun.com/Opto.html
+- https://www.fpga4student.com/p/fpga-projects.html
+- https://zipcpu.com/tutorial/
+- https://www.cas.mcmaster.ca/~lawford/3TB4/ref/VerilogPresent-v1.3.pdf
+- http://classweb.ece.umd.edu/enee359a/verilog_tutorial.pdf
+- https://www.chipverify.com/tutorials/systemverilog#google_vignette
+- https://www.youtube.com/playlist?list=PL3Soy1ohxlP1TLpcbYXYcVWItRy_XrUk8
+- https://www.javatpoint.com/verilog
+- https://www.youtube.com/watch?v=i0xgt46Q2ts&list=WL&index=115&t=2s
+
+</details>
+
+
+
+
+<details> 
+<summary>Optics</summary>
+
+- Rings lens: https://youtu.be/SS2AbZVdk2A?si=AlZJvmQ0D0xlEcLA
+- Rings basics: https://www.youtube.com/watch?v=DDoryfCXxPI
+- LENSES: https://www.youtube.com/watch?v=u-GAnEcyPVM
+</details>
+
+
+
+
+<details> 
+<summary>AM radio transmitter/reciver</summary>
+
+- https://www.homemade-circuits.com/simplest-am-radio-receiver-with-speaker/
+- https://www.instructables.com/Simple-AM-Radio-Transmitter-Receiver/
+- https://www.wellpcb.com/am-radio-schematic.html
+- https://www.instructables.com/AM-Radio-Transmitter-Op-Amp-Based/
+</details>
+
+
+
+
+
+<details> 
+<summary>Logic Gates and Transistors</summary>
+
+- https://electronics.stackexchange.com/questions/226023/cmos-and-gate-implementation
+- https://electronics.stackexchange.com/questions/620622/why-do-we-need-transmission-gate-for-xor-transistor-level-design
+- https://hackaday.io/project/175774/gallery#b4bdff73509e92bea2cbd55bb8642105
+- https://www.reddit.com/r/beneater/comments/jdyd4z/a_4bit_register_using_npn_transistors/
+- https://www.youtube.com/@GlobalScienceNetwork
+- https://www.eevblog.com/forum/projects/full-adder-on-a-breadboard/
+
+transistors: ---------------
+- https://www.cs.bu.edu/~best/courses/modules/Transistors2Gates/
+- http://hyperphysics.phy-astr.gsu.edu/hbase/Electronic/trangate.html#c1
+- https://leetsacademy.blogspot.com/2017/04/logic-gates-condition-using-transistor.html
+- https://pages.cs.wisc.edu/~sohi/cs252/Fall2012/lectures/lec03_digital_logic.pdf
+- https://www.instructables.com/Dual-Logic-Transistor-Gates/
+
+
+</details>
+
+
+
+<details> 
+<summary>Stylophone</summary>
+
+- https://www.youtube.com/watch?v=sNcSVarygp8&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=87
+- https://www.youtube.com/watch?v=IhXfpPWdqs4&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=88
+- https://youtube.com/watch?v=LMJFWbm__eQ&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=89
+- https://www.youtube.com/watch?v=th4LBWtQexE&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=90
+
+</details>
+
+
+
+
+
+
+
+
+
+
+Helicopters & drones:
+- https://www.youtube.com/watch?v=EMaR7PznE_s&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=31
+- https://www.youtube.com/watch?v=aRotBcoHuX4&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=32
+- https://www.youtube.com/watch?v=6B-GIVMU340&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=33
+- https://www.youtube.com/watch?v=d80oXSCcHTk&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=332&t=43s
+- https://www.youtube.com/watch?v=7xPIISLNp8Q&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=333
+- https://www.youtube.com/watch?v=2tdnqZgKa0E&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=334
+- https://www.youtube.com/watch?v=zY68Nf9Cobs&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=335&t=14s
+- https://www.youtube.com/watch?v=AZUkmMksnSI
+
+
+
+Fligth controller:
+- https://www.youtube.com/watch?v=rLDqQ2L_mUQ&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=247
+
+
+
+[legislatie zbor cu drona in ROMANIA](https://www.youtube.com/watch?v=lWt6r363AkY&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=236)
+[legislatie zbor cu drona in RO + EU](https://www.youtube.com/watch?v=P1GxJ2GM1RE&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=238)
+[drone regulations in EU 1](https://www.youtube.com/watch?v=YVvkAG-9UJE&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=239&t=12s)
+[drone regulations in EU 2](https://www.youtube.com/watch?v=Cb6jF1VytRk&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=240)
+[drone regulations in EU 3](https://www.youtube.com/watch?v=rgn8VKrG6pw&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=241)
+[drone regulations in EU 4](https://www.youtube.com/watch?v=rekcJuTpZb0&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=242)
+[drone regulations in EU 5](https://www.youtube.com/watch?v=KZoaMVEDjmE&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=243&t=347s)
+[legislatie zbor cu drona in RO](https://www.youtube.com/watch?v=MWd5waix_OU&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=244&t=560s)
+[drone regulations in EU 6](https://www.youtube.com/watch?v=UZfZWETPYAc&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=245&t=173s)
+[drone regulations in EU 7](https://www.youtube.com/watch?v=vHXszLsQMvs&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=246)
+
+
+
+
+
+
+
+
+
+
+
+https://www.youtube.com/watch?v=jFUBblZgXwU&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=212
+https://www.youtube.com/watch?v=0a00gb0n_po&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=213
+https://www.youtube.com/watch?v=UkPLu6mgdWA&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=227
+https://www.youtube.com/watch?v=_muUXPfTgq8&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=226
+
+
+
+https://www.youtube.com/watch?v=pUba126uzvU&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=232
+https://www.youtube.com/watch?v=KLEH8RJsYgI&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=235
 
 
 

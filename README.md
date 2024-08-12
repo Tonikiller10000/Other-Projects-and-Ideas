@@ -53,19 +53,19 @@ Have fun and [reuse](https://www.youtube.com/shorts/1bMbADiztPY).
 
 <table>
   <tr>
-    <td><img src="c2" ></td>
-    <td><img src="c3" ></td>
-    <td><img src="c4" ></td> 
+    <td><img src="https://github.com/Tonikiller10000/Other-Projects-and-Ideas/blob/main/ProjectsAndIdeeas/Clay/c2.jpg" ></td>
+    <td><img src="https://github.com/Tonikiller10000/Other-Projects-and-Ideas/blob/main/ProjectsAndIdeeas/Clay/c3.jpg" ></td>
+    <td><img src="https://github.com/Tonikiller10000/Other-Projects-and-Ideas/blob/main/ProjectsAndIdeeas/Clay/c4.jpg" ></td> 
   </tr>
 </table>
 <table>
   <tr>
-    <td><img src="c1" ></td>
-    <td><img src="c5" ></td>  
-    <td><img src="c6" ></td>
-    <td><img src="c7" ></td> 
-    <td><img src="c8" ></td>  
-    <td><img src="c9" ></td>     
+    <td><img src="https://github.com/Tonikiller10000/Other-Projects-and-Ideas/blob/main/ProjectsAndIdeeas/Clay/c1.jpg" ></td>
+    <td><img src="https://github.com/Tonikiller10000/Other-Projects-and-Ideas/blob/main/ProjectsAndIdeeas/Clay/c5.jpg" ></td>  
+    <td><img src="https://github.com/Tonikiller10000/Other-Projects-and-Ideas/blob/main/ProjectsAndIdeeas/Clay/c6.jpg" ></td>
+    <td><img src="https://github.com/Tonikiller10000/Other-Projects-and-Ideas/blob/main/ProjectsAndIdeeas/Clay/c7.jpg" ></td> 
+    <td><img src="https://github.com/Tonikiller10000/Other-Projects-and-Ideas/blob/main/ProjectsAndIdeeas/Clay/c8.jpg" ></td>  
+    <td><img src="https://github.com/Tonikiller10000/Other-Projects-and-Ideas/blob/main/ProjectsAndIdeeas/Clay/c9.jpg" ></td>     
   </tr>
 </table>
 
@@ -81,12 +81,34 @@ If you separate in a container, pure water(H2O) and /"salty/" water with a membr
 
 <details> 
 <summary>Starlyte</summary>
-
-
+<table>
+  <tr>
+    <td>
+    Starlyte is a verry heat ressistent matherial witch can be mad with household ingredients.
+    I tried making it, but it [didn/`t worked well](https://github.com/Tonikiller10000/Other-Projects-and-Ideas/blob/main/ProjectsAndIdeeas/Starlyte/3.mp4) at all. May be my recipe a little wrong, but after 30 mins of plaing arround with it, I [couldn\`t make it work](https://github.com/Tonikiller10000/Other-Projects-and-Ideas/blob/main/ProjectsAndIdeeas/Starlyte/2.mp4).
+    I may try it again in the far future.
+    </td>
+    <td><img src="https://github.com/Tonikiller10000/Other-Projects-and-Ideas/blob/main/ProjectsAndIdeeas/Starlyte/1.jpg" ></td>
+  </tr>
+</table>
 </details>
 
 
 
+
+<details> 
+<summary>Icecream Plate</summary>
+
+I tried to make [this](https://youtu.be/LPOWmK9EWk0?si=V09L9m4uheya51iG) Icecream plate with some peltier plates, but unfortunetly that didn\`t work. It was cooling too slow, and to little.
+I even used 2 peltier plates with thermal paste between and a computer heatsing with fan connected, but it [didn\`t worked](https://github.com/Tonikiller10000/Other-Projects-and-Ideas/blob/main/ProjectsAndIdeeas/PeltierPlate_IceCreamMachine/f.mp4). I will try it again in the future with a mechanical method of cooling (compressor).
+<table>
+  <tr>
+    <td><img src="https://github.com/Tonikiller10000/Other-Projects-and-Ideas/blob/main/ProjectsAndIdeeas/PeltierPlate_IceCreamMachine/1.jpg" ></td>
+    <td><img src="https://github.com/Tonikiller10000/Other-Projects-and-Ideas/blob/main/ProjectsAndIdeeas/PeltierPlate_IceCreamMachine/2.jpg" ></td>
+    <td><img src="https://github.com/Tonikiller10000/Other-Projects-and-Ideas/blob/main/ProjectsAndIdeeas/PeltierPlate_IceCreamMachine/3.jpg" ></td> 
+  </tr>
+</table>
+</details>
 
 
 

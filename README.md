@@ -139,12 +139,14 @@ I even used 2 peltier plates with thermal paste in between and a computer heatsi
 
 <details> 
 <summary>Cool phisiscs toys</summary>
+
 The first one is a "perpetual motion" device from Iron Man 2 movie witch is named "swinging sticks" and looks verry cool to have on the desk.
 The second one is a "Newtons`s Cradle" and is also cool to have on a shelf.
 The third one are 2 armonic forks witch resonate at the same frequency, and becouse of that, by hitting the first one to start resonating, the second one will start too.
 The forth one is a "propulsion device" witch works by moving the air inside and out of the bottles when they are vibrating at the resonat frequency.
 The fifth one, also demonstrates the resonant frequency by generating it with the phone and making the bottle vigrate.
 Forth and fifth are not good decoratives, but are preety cool phisics experiments.
+[free energy ramp ball].......................
 <table>
   <tr>
     <td><img src="https://github.com/Tonikiller10000/Other-Projects-and-Ideas/blob/main/ProjectsAndIdeeas/Other/mention1.png" ></td>
@@ -155,6 +157,8 @@ Forth and fifth are not good decoratives, but are preety cool phisics experiment
   </tr>
 </table>
 </details>
+
+
 
 
 
@@ -193,10 +197,44 @@ If you want to make some speakers, here is how to make the [perfect](https://www
 
 
 <details> 
-<summary>Haptic touch</summary>
+  <summary>Haptic touch</summary>
 
   By haptic sensing, I don`t mean the [old motor gloves](https://www.youtube.com/watch?v=iPtgvh6fNdQ). By haptic touch I mean technology like [this](https://www.youtube.com/watch?v=j_rErbhxNFM&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=70) being [aplied](https://www.youtube.com/watch?v=UJXLBqG9E_s&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=71), or futuristic designs like [this](https://www.youtube.com/watch?v=Q76dMggUH1M&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=193) or any try to make [something new](https://www.youtube.com/watch?v=qfb5_ZKhjqY&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=69).
 </details>
+
+
+
+
+
+
+
+<details> 
+  <summary>Jet Engine</summary>
+
+  If you want to make a [Jet Engine](https://www.youtube.com/watch?v=Is3HRNNZxc8&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=48), this is the [channel](https://www.youtube.com/@integza) that you are looking for.
+</details>
+
+
+
+
+
+
+
+<details> 
+  <summary>Stylophone</summary>
+
+  Here are some links about stylophones:
+  - [stylocard](https://mitxela.com/projects/stylocard)
+  - https://www.youtube.com/watch?v=sNcSVarygp8&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=87
+  - https://www.youtube.com/watch?v=IhXfpPWdqs4&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=88
+  - https://youtube.com/watch?v=LMJFWbm__eQ&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=89
+  - https://www.youtube.com/watch?v=th4LBWtQexE&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=90
+</details>
+
+
+
+
+
 
 
 
@@ -255,19 +293,6 @@ Hardware design:
 
 </details>
 
-<details> 
-<summary>Jet Engine</summary>
-
-If you want to make a [Jet Engine](https://www.youtube.com/watch?v=Is3HRNNZxc8&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=48), this is the [channel](https://www.youtube.com/@integza) that you are looking for.
-</details>
-
-
-
-
-
-
-
-
 
 
 
@@ -321,6 +346,14 @@ Electrospinning:
 </details>
 
 <details> 
+
+
+
+
+
+
+
+
 <summary>Oxytorch</summary>
 You can make an oxytorch by separring hydrogen and oxygen with electrolisis, and burning it at an higher pressure
 
@@ -517,28 +550,6 @@ Links:
 
 
 
-<details> 
-<summary>?> How to make a speaker enclosure <? </summary>
-
-Speaker enclosure links:
-- https://www.youtube.com/watch?v=Df2I4JIQzxs
-- https://www.youtube.com/watch?v=xT1gYZGDx4I&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=13
-- https://www.youtube.com/watch?v=pUgxjNrwvOE&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=57&t=1s
-- https://www.youtube.com/watch?v=GrrxGm18KSY&list=WL&index=127
-- https://www.youtube.com/watch?v=pUgxjNrwvOE&list=WL&index=130
-- https://www.youtube.com/watch?v=XEspOD1NHr0&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=217
-</details>
-
-
-
-<details> 
-<summary>Oxytorch</summary>
-You can make an oxytorch by separring hydrogen and oxygen with electrolisis, and burning it at an higher pressure
-
-Oxytorch:
-- https://www.youtube.com/watch?v=d85OX6yEwE0&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=15
-- https://www.youtube.com/watch?v=7M4yqcO_pPo&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=129&t=23s
-</details>
 
 
 
@@ -575,35 +586,6 @@ Metal detection:
 - https://www.diva-portal.org/smash/get/diva2:1198542/FULLTEXT01.pdf
 - https://www.next.gr/sens-detectors/metal-detector-circuits/
 
-</details>
-
-
-
-
-
-<details> 
-<summary>Centrifuge</summary>
-
-Centrifuge:
-- https://www.youtube.com/watch?v=V-CQP5bLD6A&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=26&t=323s
-- https://www.youtube.com/watch?v=sjDpubdTjUU&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=156
-- https://www.youtube.com/watch?v=KEXWd3_fM94&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=157
-- https://www.youtube.com/watch?v=EWWUqkEXJUE&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=123
-</details>
-
-
-
-
-
-<details> 
-<summary>Haptic touch</summary>
-
-Haptic Feeling:
-- https://www.youtube.com/watch?v=iPtgvh6fNdQ
-- https://www.youtube.com/watch?v=j_rErbhxNFM&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=70
-- https://www.youtube.com/watch?v=qfb5_ZKhjqY&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=69
-- https://www.youtube.com/watch?v=UJXLBqG9E_s&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=71
-- https://www.youtube.com/watch?v=Q76dMggUH1M&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=193
 </details>
 
 
@@ -707,15 +689,7 @@ transistors: ---------------
 
 
 
-<details> 
-<summary>Stylophone</summary>
 
-- https://www.youtube.com/watch?v=sNcSVarygp8&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=87
-- https://www.youtube.com/watch?v=IhXfpPWdqs4&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=88
-- https://youtube.com/watch?v=LMJFWbm__eQ&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=89
-- https://www.youtube.com/watch?v=th4LBWtQexE&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=90
-
-</details>
 
 
 
@@ -815,5 +789,403 @@ Datasheets:
 https://www.mouser.com/datasheet/2/1081/SC_001224_DS_1_ENS160_Datasheet_Rev_0_95-2258311.pdf
 http://www.aosong.com/userfiles/files/media/AHT21%E4%BA%A7%E5%93%81%E8%A7%84%E6%A0%BC%E4%B9%A6(%E8%8B%B1%E6%96%87%E7%89%88)%20A3.pdf
 https://sensirion.com/media/documents/5FE8673C/61E96F50/Sensirion_Gas_Sensors_Datasheet_SGP41.pdf
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+https://youtube.com/playlist?list=PLnMKNibPkDnHZyJtMRpWSs41CWhPouRwq&si=9lBe6EzjdbaaY6fG
+https://coil32.net/pcb-coil.html
+Music:
+https://www.youtube.com/watch?v=JAmw-TTG2Ds&list=WL&index=265
+
+
+
+
+
+
+
+1 2 3 4 5 6
+...
+
+
+AM radio transmitter/reciver:
+https://www.homemade-circuits.com/simplest-am-radio-receiver-with-speaker/
+https://www.instructables.com/Simple-AM-Radio-Transmitter-Receiver/
+https://www.wellpcb.com/am-radio-schematic.html
+https://www.instructables.com/AM-Radio-Transmitter-Op-Amp-Based/
+
+
+stm32wb55xx datasheet: https://www.st.com/resource/en/datasheet/stm32wb55cc.pdf
+stm32f103xx datasheet: https://eu.mouser.com/datasheet/2/389/stm32f103c4-1851082.pdf
+STM32F103 - PDF Documentation: https://www.st.com/en/microcontrollers-microprocessors/stm32f103/documentation.html
+STM32CubeMX download:https://www.st.com/en/development-tools/stm32cubemx.html
+
+
+stm32 programming tutorial1: https://www.youtube.com/playlist?list=PLmXXQ1iFwiyJFM2NJW1ybWX5Fu_9Oo7p1
+stm32 tutorial1: https://www.youtube.com/watch?v=wLwKgMBWhpY&t=233s
+
+Fusion360: https://www.youtube.com/playlist?list=PL0fZjEQc8oaMEkOGcNvueT8lAZvcoKuie
+
+ESP32 delay1??: https://community.platformio.org/t/how-to-delay-microseconds-on-esp32-under-a-free-rtos-task/29540/7
+ESP32 delay2??: https://esp32.com/viewtopic.php?t=29883
+ESP32 delay3??: https://www.esp32.com/viewtopic.php?f=13&t=2214
+ESP32 delay4??: https://www.esp32.com/viewtopic.php?t=16100
+ESP32 delay5??: https://esp32.com/viewtopic.php?t=16861
+ESP32 delay6??: https://www.reddit.com/r/esp32/comments/i07em9/need_to_have_sub_microsecond_delay_precision/
+ESP32 delay7??: https://esp32developer.com/programming-in-c-c/delays/delays
+ESP32 delay8??: https://www.esp32.com/viewtopic.php?t=16100
+ESP32 delay9??: https://esp32.com/viewtopic.php?t=16861
+ESP32 powerconsumption: https://lastminuteengineers.com/esp32-sleep-modes-power-consumption/?utm_content=cmp-true
+
+
+## Other interesting projects:
+
+
+
+
+[Smartwatch Example](https://circuitdigest.com/microcontroller-projects/diy-smartwatch-using-esp32-final-part)
+ESP32 OTA: https://www.youtube.com/watch?v=VyCG1MHdw3g&list=RDCMUCDGAg1pqcy8IScMqHHTy9Gg&index=28
+robochalange linefollower rules:https://robochallenge.ro/regulation/line-follower
+
+
+[STM product selector](https://www.st.com/content/st_com/en/stm32-mcu-product-selector.html)
+[STM tutorial electronoobs](https://electronoobs.com/eng_arduino_tut152.php)
+[IC1 datasheet](https://www.st.com/resource/en/datasheet/stm32wb5mmg.pdf)
+[IC2 datasheet](https://www.st.com/resource/en/datasheet/stm32wb09ke.pdf)
+[IC3 datasheet](https://www.st.com/resource/en/datasheet/stm32wb55cc.pdf)
+[IC4 datasheet](https://www.st.com/resource/en/datasheet/stm32wba52ce.pdf)
+
+[STM32F103 github](https://github.com/dhylands/stm32-test/tree/master/board-STM32F103-Mini)
+[STM32F103 about](https://stm32-base.org/boards/STM32F103C8T6-Blue-Pill.html)
+[STM32F103 general](https://mischianti.org/stm32f103c6t6-high-resolution-pinout-and-specs/)
+[STM32F103 electronoobs](https://electronoobs.com/eng_arduino_tut152.php)
+[STM32F103 LANDBOARDS](https://land-boards.com/blwiki/index.php?title=STM32_Blue_Pill#Blue_Pill_Card_Schematic)
+
+
+
+
+Robochalange remote:
+[Start switch website](https://p1r.se/startmodule/)
+[Start switch github](https://github.com/p1rse/robot-sumo-start-module/)
+[IR Receiver Diode - TSOP38238](https://www.sparkfun.com/products/10266)
+[schematic1](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnkNo1QEsxSPMNj7rN0opPGzlpkEMgxas9PnXUh-xvVR3l7UK27BbSvRroJmsxzwf3StBiDH0k4m-aEXX_4qJKeG5T4bKsfCBbcjgoykJYrBEhg5JI-Mr95yexPMCzkTw7kaGDIzET8ME/s1600/1235.png)
+[schematic2](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLlN9CDAmP0rq2BlWM0Xdsypyy7NfGZpMYkufZPUAMmgCRdU-KhBC8AvPr7iOOQAwod2Hw66K_vuib1FNqDIHNemtnMvlSue2krN2hfp39g73NuTcx5fEXUF8i5MbJ3re-paKH2Z_Cgq0/s1600/1234.png)
+[Q&A](https://robochallenge.ro/faq)
+[MORE](https://destroyer3000.blogspot.com/2013/03/start-module-implement-yourself.html)
+
+
+Air Quality Module:
+
+SGP41 datasheet: https://sensirion.com/media/documents/5FE8673C/61E96F50/Sensirion_Gas_Sensors_Datasheet_SGP41.pdf
+SGP41 design guige: https://sensirion.com/media/documents/C87B1A6C/616452A3/Sensirion_Gas_Sensors_Datasheet_GAS_SGP4x_Design-In_Guide_D1.pdf
+SGP41 github_1: https://github.com/Sensirion/arduino-i2c-sgp41
+SGP41 github_2: https://github.com/Sensirion/arduino-gas-index-algorithm
+SENSIRION Website: https://sensirion.com/products/catalog/SGP41/
+SGP41 tutorial: https://wiki.seeedstudio.com/grove-smart-air-quality-sensor-sgp41/
+
+
+
+MICS5524 tutorial: https://wiki.dfrobot.com/Fermion__MEMS_Gas_Sensor___MiCS-5524_SKU_SEN0440
+IC MICS5524 datasheet: https://img.dfrobot.com.cn/wiki/5b973267c87e6f19943ab3ad/86011e31a53db4f1bb6a3978de97a135.pdf
+SEN0440 module datasheet: https://www.mouser.com/pdfDocs/ProductOverview_DFRobot_SEN0440.pdf?_gl=1*129r3r6*_ga*MTY1NDc4ODE4Ny4xNzA2MTMzODM1*_ga_15W4STQT4T*MTcxMjk5MzkyMi40Ni4wLjE3MTI5OTM5MjMuNTkuMC4w
+
+
+
+
+
+
+
+Music:
+[](https://www.youtube.com/watch?v=nF_OKrVmQM0&list=WL&index=136)
+
+
+LORA: https://www.youtube.com/watch?v=dxYY097QNs0
+
+
+Optics:
+Rings lens: https://youtu.be/SS2AbZVdk2A?si=AlZJvmQ0D0xlEcLA
+Rings basics: https://www.youtube.com/watch?v=DDoryfCXxPI
+LENSES: https://www.youtube.com/watch?v=u-GAnEcyPVM
+
+
+
+Small linefollower with op amp:https://www.youtube.com/watch?v=zZmvL0TkllI&list=WL&index=15&t=25s
+
+ASIC1: https://docs.google.com/document/d/1H3jA7guvXT7toEvUObOQ1viQ6Qz_QSGDiJ5OBS2pDEI/edit#heading=h.ry34bfjf6w62
+ASIC2: https://app.siliwiz.com/?preset=blank
+ASIC3: https://www.youtube.com/watch?v=69mdJv6fWXE
+ASIC4: https://www.youtube.com/watch?v=FMdYuGpPicw&list=WL&index=69&t=19s
+ASIC5: https://www.youtube.com/watch?v=lq2BpWwcyQM
+Verilog1: https://www.youtube.com/watch?v=Q99vxvszktI&t=1034s
+Electronoobs FPGA: https://www.youtube.com/playlist?list=PLsR1AO4QH1AyT3b0pUERjFVShbzEelogi
+ICEStudio FPGA Great scott: https://www.youtube.com/watch?v=ZNunxg7o8l0
+Phil`s lab FPGA`s: https://www.youtube.com/playlist?list=PLXSyc11qLa1ZutrEG2XmyWrNz17SSQTdH
+FPGA2: https://www.youtube.com/watch?v=Wsou_zhCEYQ
+VERILOG2: https://www.youtube.com/watch?v=aWm9pJ2KobA
+FPGA3: https://www.youtube.com/playlist?list=PLEBQazB0HUyT1WmMONxRZn9NmQ_9CIKhb
+Reverse engeneering: https://www.youtube.com/watch?v=ICykppClja8&list=WL&index=177&t=299s
+
+Verilog/fpga:
+https://www.youtube.com/playlist?list=PLn8PRpmsu08pQBgjxYFXSsODEF3Jqmm-y
+https://www.fpga4fun.com/Opto.html
+https://www.fpga4student.com/p/fpga-projects.html
+https://zipcpu.com/tutorial/
+https://www.cas.mcmaster.ca/~lawford/3TB4/ref/VerilogPresent-v1.3.pdf
+http://classweb.ece.umd.edu/enee359a/verilog_tutorial.pdf
+https://www.chipverify.com/tutorials/systemverilog#google_vignette
+https://www.youtube.com/playlist?list=PL3Soy1ohxlP1TLpcbYXYcVWItRy_XrUk8
+https://www.javatpoint.com/verilog
+https://www.youtube.com/watch?v=i0xgt46Q2ts&list=WL&index=115&t=2s
+
+OP Amps1: https://www.youtube.com/watch?v=jHLQjusZP1Y
+OP Amps2: https://www.youtube.com/watch?v=JLVGeyUeQrA
+OP Amps3: https://youtu.be/kitY9FFFNa4?si=T0teV7MBQlR8uU-g
+
+Smartwatch whatsapp calls1: https://randomnerdtutorials.com/esp32-send-messages-whatsapp/
+Smartwatch whatsapp calls2: https://randomnerdtutorials.com/micropython-whatsapp-esp32-esp826/
+Smartwatch whatsapp calls3: https://github.com/hafidhh/Callmebot-ESP-Client#-description
+Smartwatch whatsapp calls4: https://www.reddit.com/r/esp32/comments/p5aezt/push_a_button_to_record_a_voice_message_which_is/
+
+
+PCB motor: https://www.youtube.com/watch?v=CDhlx_VMpCc&t=3s
+pcb coil CarlBugeja: https://www.youtube.com/@CarlBugeja
+coils: https://www.circuitbasics.com/what-is-an-inductor/
+PCB Motor2: https://www.youtube.com/watch?v=NX7GHqq28uU&list=WL&index=8
+
+
+DRONE1: https://www.youtube.com/watch?v=N_XneaFmOmU&list=WL&index=50
+https://www.youtube.com/watch?v=DeSDjjicGWY&list=WL&index=94
+
+PID: https://www.youtube.com/playlist?list=PLn8PRpmsu08pQBgjxYFXSsODEF3Jqmm-y
+
+Music:
+https://www.youtube.com/watch?v=JAmw-TTG2Ds&list=WL&index=265
+
+
+
+
+
+
+
+
+Arduino drag and drop1: https://hackaday.com/2019/05/29/drag-and-drop-files-on-select-arduino-boards/
+Arduino drag and drop2: https://github.com/adafruit/Adafruit_TinyUSB_Arduino
+Arduino disk drive: https://www.reddit.com/r/arduino/comments/w4o8wn/esb32s3_nand_sd_storage_usb_msc_arduino_that/
+
+Magnetic Rottary encoder: https://github.com/ahmsville/Magnetic_rotary_encoding
+
+
+
+Higher Ghz freguencies for wireless power: https://www.researchgate.net/topic/Phased-Array~Wireless-Power-Transfer/publications
+Github traffic ligth link: https://hotcore.info/babki/traffic-light-circuit-diagram.html
+
+
+
+watch wrist: https://prisma.watch/watches/size-wrist/
+
+coil formulas: https://www.electronics-tutorials.ws/inductor/inductance.html
+Arduino tutorial: https://youtube.com/playlist?list=PLYutciIGBqC2HpO0gHoMoAgLhz5n6OoZx&si=6QKKEmos8cy7JVqG
+
+cellmap: https://www.cellmapper.net/map?MCC=226&MNC=5&type=LTE&latitude=-3.4566022650515293&longitude=7.064009686408099&zoom=6.369671292334867&showTowers=true&showIcons=true&showTowerLabels=true&clusterEnabled=true&tilesEnabled=true&showOrphans=false&showNoFrequencyOnly=false&showFrequencyOnly=false&showBandwidthOnly=false&DateFilterType=Last&showHex=false&showVerifiedOnly=false&showUnverifiedOnly=false&showLTECAOnly=false&showENDCOnly=false&showBand=0&showSectorColours=true&mapType=roadmap&darkMode=false&imperialUnits=false
+arduino eeprom: https://docs.arduino.cc/learn/programming/eeprom-guide/
+arduino-sd card: https://arduino.stackexchange.com/questions/84630/proper-micro-sd-card-schematic
+intel developer tehnical sheets: https://www.intel.com/content/www/us/en/developer/articles/technical/intel-sdm.html
+optics: https://opg.optica.org/oe/fulltext.cfm?uri=oe-30-9-15096&id=471568
+DRAM: https://hackaday.io/project/175774-homebrew-dynamic-ram-with-discrete-mosfets
+coilgun1: https://youtube.com/playlist?list=PLKl_Ihtuj1fpWz5WA09WJIgf677wJ2ihX&si=pw_s7M9z9sdtHSva
+
+
+
+transistors:
+https://www.cs.bu.edu/~best/courses/modules/Transistors2Gates/
+http://hyperphysics.phy-astr.gsu.edu/hbase/Electronic/trangate.html#c1
+https://leetsacademy.blogspot.com/2017/04/logic-gates-condition-using-transistor.html
+https://pages.cs.wisc.edu/~sohi/cs252/Fall2012/lectures/lec03_digital_logic.pdf
+https://www.instructables.com/Dual-Logic-Transistor-Gates/
+
+bioimpedance/ gesture recognition:
+https://www.researchgate.net/publication/354345374_Bioimpedance_Sensors_A_Tutorial
+https://pdf.sciencedirectassets.com/280203/1-s2.0-S1877050922X00136/1-s2.0-S1877050922015927/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjELL%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQCVdXNDNcIX4G49fO0JCEwjMUYWIcwPRuoHRNqCex7LJwIgfeG52IH7mzJDtGm7u%2ByIC9uViXFBv9tQQu0Vm5LubBMqswUIOxAFGgwwNTkwMDM1NDY4NjUiDOs3sVT8lR5qFNS3KyqQBQ1hV9d%2BziHmdYzF2loMcLbAXn3QSpJEdP%2F6CC%2F7BzuGuKKi6xe7MXa7Ir9KaoA4dY2dSXX3vQabnQ9gXJmNVndbDyP37yGj6kBjoRTLb7gZGhVyRkAHVKJFlXTfdFjEWwk9DRHfjfSlScvlDgTGRm%2B%2BRxNpj4uPtHLcKOfgoju7NNYNAAAoHFUlCRCbwSYk4nUisWB6MKS1pePY1sfp36tQIH27vhogWf80s50Zy9u8jyQP33RkhYVSBX%2BiUv6cX4H96ulsSEkODYiOjbrf5sGUWuFrskgajKjqArECRv7qocX3qaCLkZEoqO7fJiFAYTje1mY%2FFlmlESL6HmZ5QTnxBLiDCzruyn5AT8hklA4q0UFbCYvB4wHfnrJpVd5LT77Z1Tb8QPs8dLQlJgQCH2tBWiJTe4UoYwqNsdgTLis%2Bl79XYSp%2BwpnOwVkiKVY5i%2F%2FzrHEH5iNkhAW8vSiNCDo2PlhrCfDxD6ijF2truYkOySqcWUWInY7HVta4PaNCwg6zeVoOipc9pf2vbVHVeugnR1M6tnnmsYpKspw%2BeoStciLoWUFSQiVK03N%2FwwUNm9iZ7f9jkxIdSfjYg0EVpQ5km9nhmyiDtDTzMBxCVQ5cNeFl%2BXW1jN%2FmxuqdFc3Zc84jYw%2BDh5z4JRPjqSujF6woeprvrt0NBCHAEpwBJUBjNjNWAQZV7e%2B28TqutwFMjUwq5mbA64MXryBNeMD0SK%2Fl9oFKLIHcEeICnArnrDXzVbm11CBFfygbYSNsR21ZytN6tkuDHD97OAgGLiCc9aJ6OsnvuqO0eI4muu03Qi2sMsgpuR5HPcC88jJgOuXrxTTb%2BmHGnPgsBtal3sNpoj55qdwnPNWIJFv0m6otAA5vMJTZ5LIGOrEBQmhZmOtbdpF9E2o03B1RkYjrrJraYWbu%2FFOYB8we1OcpzXW4i%2F7eJLeCgEhD%2Fe7%2FnN2jK9d%2BKyClPMjgJqbgNR%2BLdgGg3CI%2FFC5D30wFkkfYMKxYgaQpKHp%2BKMIePdOmOKqEKzWJpskwoKu9wW2J3ZTNfErXInYqOTYJ8cIfGXRc%2FW%2FzBt%2FaPiohQWp2%2F5xcSGV4aNo2UeOxFLqo%2BDDNmOZSpUPPhUzH8Qr1RWpCiABM&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240531T025414Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYXRRDTUWU%2F20240531%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=1244d1e1328d9f976b242e4926a5ac8845ba3cd9bd40dff7ecd6b331142369a1&hash=6478c5da9ac9371f19eb76c39adcaff5edc96b698db196f051d4c1088e067d5e&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S1877050922015927&tid=spdf-6d2f88b7-dceb-4092-9dab-a8a8ba5a359b&sid=3064258034b9d541727a0aa189e50a4404dcgxrqb&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=16085e5901540e0b57&rr=88c3ad9a88cc65dc&cc=ro
+https://www.linkedin.com/pulse/building-hand-gesture-recognition-sensor-comprehensive-guide
+https://www.youtube.com/watch?v=DJ77HHtOL-8
+
+logic gates transistors: 
+https://electronics.stackexchange.com/questions/226023/cmos-and-gate-implementation
+https://electronics.stackexchange.com/questions/620622/why-do-we-need-transmission-gate-for-xor-transistor-level-design
+https://hackaday.io/project/175774/gallery#b4bdff73509e92bea2cbd55bb8642105
+https://www.reddit.com/r/beneater/comments/jdyd4z/a_4bit_register_using_npn_transistors/
+https://www.youtube.com/@GlobalScienceNetwork
+https://www.eevblog.com/forum/projects/full-adder-on-a-breadboard/
+
+
+
+
+
+
+
+esp BT: https://electropeak.com/learn/esp32-setup-wifi-connection-using-bluetooth/
+
+
+
+
+
+
+https://github.com/CarlBugeja/PCB-Motor-v4
+https://www.youtube.com/watch?v=NX7GHqq28uU
+animal repeller: https://blog.birdgard.es/the-best-ultrasonic-animal-repellers/
+ray tracing: https://www.realtimerendering.com/raytracing/An-Introduction-to-Ray-Tracing-The-Morgan-Kaufmann-Series-in-Computer-Graphics-.pdf
+arduino eeprom: https://docs.arduino.cc/learn/programming/eeprom-guide/
+https://lastminuteengineers.com/sim800l-gsm-module-arduino-tutorial/#google_vignette
+
+
+
+
+
+
+
+https://bodhi3.wordpress.com/wp-content/uploads/2013/05/metaldetector.pdf
+https://www.minelab.com/__files/f/11043/KBA_METAL_DETECTOR_BASICS_&_THEORY.pdf
+https://www.ojp.gov/pdffiles1/nij/193510.pdf
+https://www.ojp.gov/pdffiles1/nij/184433.pdf
+https://www.hikvision.com/content/dam/hikvision/products/S000000001/S000002016/S000002037/S000002056/OFR003117/M000019671/User_Manual/NP-SG106-User-Manual.pdf
+https://ro.scribd.com/document/439637837/PROJECT-REPORT-docx
+//put the : inside the metal detector file
+https://ro.scribd.com/document/151432587/Metal-Detector
+https://www.electroschematics.com/homemade-metal-detector/
+https://www.learningaboutelectronics.com/Articles/How-to-build-a-metal-detector-circuit.php
+https://www.circuitstoday.com/metal-detector-circuit#google_vignette
+https://www.nutsvolts.com/magazine/article/build_a_four_transistor_metal_detector
+https://www.hackster.io/mircemk/diy-simple-sensitive-ib-metal-detector-with-2xne555-ic-14a3bb
+https://techsawco.com/simple-metal-detector-circuit/
+https://www.satsleuth.com/Schematics.aspx?Category=Metal
+https://www.homemade-circuits.com/how-to-make-simple-metal-detector/
+https://circuitcellar.com/research-design-hub/projects/advanced-metal-detector/
+https://www.talkingelectronics.com/projects/200TrCcts/MetalDetectors/MetalDetectors-1.html
+https://fortresstechnology.com.br/wp-content/uploads/2022/06/FORTRESS_MetalDetectionBasics.pdf
+https://www.allaboutcircuits.com/projects/metal-detector-with-arduino/
+https://www.diva-portal.org/smash/get/diva2:1198542/FULLTEXT01.pdf
+https://www.next.gr/sens-detectors/metal-detector-circuits/
+
+
+https://generalguitargadgets.com/how-to-build-it/technical-help/schematics/
+https://www.youtube.com/@DiyguitarpedalsAu/videos
+
+https://www.circuitbasics.com/what-are-am-radios/
+https://www.circuits-diy.com/simple-am-receiver-circuit/
+https://www.circuitbasics.com/amplitude-modulated-transmitters/
+https://www.youtube.com/watch?v=3I_e7gIyfQg
+https://circuit-zone.com/index.php?cat=am-radio
+
+
+
+
+https://youtube.com/playlist?list=PLaBr_WzeIAixidGwqfcrQlwKZX4RZ2E7D&si=YnpgZVkrEu1c8Eh1
+https://github.com/atomic14/kicad-coil-plugins?tab=readme-ov-file
+
+https://www.electronicshub.org/schmitt-trigger-basics/
+https://electronics.stackexchange.com/questions/171210/understanding-a-2-transistor-oscillator
+
+
+
+https://deepbluembedded.com/esp32-bluetooth-classic-with-arduino-complete-guide/?utm_content=cmp-true#google_vignette
+https://www.instructables.com/ESP32-BLE-Android-App-Arduino-IDE-AWESOME/
+https://www.instructables.com/ESP32-Mic-Testing-With-INMP441-and-DumbDisplay/
+https://www.youtube.com/watch?v=qq2FRv0lCPw&t=25s
+https://www.youtube.com/watch?v=pPh3_ciEmzs&t=380s
+https://www.youtube.com/watch?v=7Hn4UFi9wvs
+https://www.youtube.com/watch?v=qmruNKeIN-o
+http://wiki.openmusiclabs.com/wiki/OpenMusicLabsWiki
+https://github.com/alf45tar/Pedalino
+https://github.com/espressif/esp-adf
+https://github.com/pschatzmann/arduino-audio-tools
+https://www.esp32.com/viewtopic.php?t=22755
+
+
+
+https://www.youtube.com/watch?v=5nTagij5wGY&list=WL&index=436
+
+https://www.sensortips.com/featured/how-can-a-machine-recognize-hand-gestures-faq/
+https://userpages.umbc.edu/~nroy/courses/fall2018/cmisr/papers/Finger_watch_HotMobile2015.pdf
+https://www.mdpi.com/2072-666X/10/10/692
+https://github.com/rheslip/Motivation-Radio-BLEMIDI
+
+https://www.st.com/resource/en/datasheet/stm32wb55cc.pdf
+https://www.st.com/resource/en/datasheet/mlpf-wb-01e3.pdf
+KEIL for stm32 programming alternative: https://www.youtube.com/playlist?list=PLtVUYRe-Z-mfKO0lg_-MBvwWl6VjWT8Dt
+
+https://en.wikipedia.org/wiki/Photochromic_lens
+
+https://embeddedprojects101.com/custom-stm32-development-board/
+
+
+
+
+
+
+
+
+https://www.ermicro.com/blog/?p=1908
+
+https://howtomechatronics.com/how-it-works/555-timer-ic-working-principle-block-diagram-circuit-schematics/#google_vignette
+
+
+
+
+
+https://hal.science/hal-01409233/file/CambridgeWPT_journal_preprint_5Oct2015.pdf
+https://www.google.com/search?q=electromagnet+coil%2C+series+vs+paralel&sca_esv=6269066d21daebf6&sca_upv=1&sxsrf=ADLYWIKO0LOTcSkkfk2Tz-CFaQD0sf_R0Q%3A1720271885322&ei=DUSJZrGzE5Dui-gP_NOkqA8&ved=0ahUKEwjx7ZCVwJKHAxUQ9wIHHfwpCfUQ4dUDCA8&uact=5&oq=electromagnet+coil%2C+series+vs+paralel&gs_lp=Egxnd3Mtd2l6LXNlcnAiJWVsZWN0cm9tYWduZXQgY29pbCwgc2VyaWVzIHZzIHBhcmFsZWwyCBAhGKABGMMEMggQIRigARjDBEi-NlAAWMAzcAV4AZABAJgBgAGgAaMSqgEEMi4xObgBA8gBAPgBAZgCGKACmhHCAggQABiABBiiBMICChAhGKABGMMEGAqYAwDiAwUSATEgQJIHBDYuMTigB7hQ&sclient=gws-wiz-serp
+http://performancemagnetics.com/images/BLDC_Generator_Design_Methodology_Performance_Magnetics_revI-2.pdf
+https://www.usna.edu/ESRDC/_files/documents/Vault/References/A%20brushless%20exciter%20model%20incorporating%20multiple%20rectifier%20modes%20and%20Preisachs%20hysteresis%20theory.pdf
+https://www.allaboutcircuits.com/tools/trace-resistance-calculator/
+https://electronics.stackexchange.com/questions/501516/calculate-resistance-of-coil-inductor-made-of-pcb-traces
+
+http://www.stevegs.com/music/stylophone/
+https://www.instructables.com/A-Stylophone/
+
+https://www.wtsoundic.com/voice-ic/
+
+
+https://www.youtube.com/@NesHacker
+
+https://www.youtube.com/playlist?list=PLtVUYRe-Z-mcjXXFBte61L8SjyI377VNq
+https://www.youtube.com/playlist?list=PLmXXQ1iFwiyJFM2NJW1ybWX5Fu_9Oo7p1
+https://youtube.com/playlist?list=PLERTijJOmYrA6iGZaWGyEJXpjzY0lRTC3&si=F1kre_QOrw3fhoiY
+https://www.youtube.com/playlist?list=PLmY3zqJJdVeNIZ8z_yw7Db9ej3FVG0iLy
+https://youtube.com/playlist?list=PLLHCjBf3JujDqQLd_6g1K4K7JD5uqig-2&si=QBfavs6NtdLQHKBX
+
+https://ps.buckeyepowersales.com/wp-content/uploads/2021/06/BPS_113_Generator_101_Part4.pdf
+https://www.nagwa.com/en/videos/396146972902/
+
+
+https://www.rcciit.org/students_projects/projects/ee/2023/GR2.pdf
+https://www.circuits-diy.com/wireless-gadgets-charger-circuit/
+https://www.circuits-diy.com/wireless-led-circuit/
+
+
+https://youtube.com/playlist?list=PLfExI9i0v1smd_mUgoib94t8KKap0X-zh&si=bRWUGNtiq3-EAwUm
+
+
+
+https://www.electrosmash.com/mxr-distortion-plus-analysis
+tudorsupica/TDS2
+https://effdubaudio.com/electra-distortion-schematic-and-layouts/
+https://www.youtube.com/watch?v=RXIqUyW2syU
+
+
+
+
+
 
 

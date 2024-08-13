@@ -34,14 +34,14 @@ You can read more in this papers:
 <details> 
 <summary>Capacitive touch </summary>
 
-Here are some examples of what it is and how it works:
+With capacitive touch you can make [musical instruments](https://www.youtube.com/watch?v=3xUH_vCHk9A), keyboards and all king of projects.
+Here are multiple links with projects and tutorials with capacitive sensing:
 - https://www.youtube.com/watch?v=DxWZUTnEvhs
-- https://www.youtube.com/watch?v=FjcVGP6vktM
 - https://www.youtube.com/watch?v=X7U_6wZqxro
+- https://www.youtube.com/watch?v=FjcVGP6vktM
 - https://www.youtube.com/watch?v=gxLzgeiJQbE
 - https://www.youtube.com/watch?v=mWR9Q_pTagw
-- https://www.youtube.com/watch?v=3xUH_vCHk9A
-- https://www.youtube.com/watch?v=FjcVGP6vktM&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=195
+
 </details>
 
 <details> 
@@ -60,9 +60,9 @@ Have fun and [reuse](https://www.youtube.com/shorts/1bMbADiztPY).
 </table>
 <table>
   <tr>
-    <td><img src="https://github.com/Tonikiller10000/Other-Projects-and-Ideas/blob/main/ProjectsAndIdeeas/Clay/c5.jpg" ></td>  
     <td><img src="https://github.com/Tonikiller10000/Other-Projects-and-Ideas/blob/main/ProjectsAndIdeeas/Clay/c6.jpg" ></td>
     <td><img src="https://github.com/Tonikiller10000/Other-Projects-and-Ideas/blob/main/ProjectsAndIdeeas/Clay/c7.jpg" ></td> 
+    <td><img src="https://github.com/Tonikiller10000/Other-Projects-and-Ideas/blob/main/ProjectsAndIdeeas/Clay/c5.jpg" ></td>  
     <td><img src="https://github.com/Tonikiller10000/Other-Projects-and-Ideas/blob/main/ProjectsAndIdeeas/Clay/c1.jpg" ></td>
     <td><img src="https://github.com/Tonikiller10000/Other-Projects-and-Ideas/blob/main/ProjectsAndIdeeas/Clay/c8.jpg" ></td>  
     <td><img src="https://github.com/Tonikiller10000/Other-Projects-and-Ideas/blob/main/ProjectsAndIdeeas/Clay/c9.jpg" ></td>     

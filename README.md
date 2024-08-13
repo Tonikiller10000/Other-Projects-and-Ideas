@@ -113,7 +113,24 @@ I even used 2 peltier plates with thermal paste between and a computer heatsing 
 
 
 
-
+<details> 
+<summary>Cool phisiscs toys</summary>
+The first one is a "perpetual motion" device from Iron Man 2 movie witch is named "swinging sticks" and looks verry cool to have on the desk.
+The second one is a "Newtons`s Cradle" and is also cool to have on a shelf.
+The third one are 2 armonic forks witch resonate at the same frequency, and becouse of that, by hitting the first one to start resonating, the second one will start too.
+The forth one is a "propulsion device" witch works by moving the air inside and out of the bottles when they are vibrating at the resonat frequency.
+The fifth one, also demonstrates the resonant frequency by generating it with the phone and making the bottle vigrate.
+Forth and fifth are not good decoratives, but are preety cool phisics experiments.
+<table>
+  <tr>
+    <td><img src="https://github.com/Tonikiller10000/Other-Projects-and-Ideas/blob/main/ProjectsAndIdeeas/Other/mention1.png" ></td>
+    <td><img src="https://github.com/Tonikiller10000/Other-Projects-and-Ideas/blob/main/ProjectsAndIdeeas/Other/mention22.png" ></td>
+    <td><img src="https://github.com/Tonikiller10000/Other-Projects-and-Ideas/blob/main/ProjectsAndIdeeas/Other/mention3.png" ></td>
+    <td><img src="https://github.com/Tonikiller10000/Other-Projects-and-Ideas/blob/main/ProjectsAndIdeeas/Other/mention31.png" ></td>
+    <td><img src="https://github.com/Tonikiller10000/Other-Projects-and-Ideas/blob/main/ProjectsAndIdeeas/Other/mention32.png" ></td>
+  </tr>
+</table>
+</details>
 
 
 

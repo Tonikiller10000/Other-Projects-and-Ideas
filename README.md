@@ -108,7 +108,7 @@ For now you have 5 mentions and 4 projects to look into.
     I tried making it, but it [didn\`t worked well](https://github.com/Tonikiller10000/Other-Projects-and-Ideas/blob/main/ProjectsAndIdeeas/Starlyte/3.mp4) at all. May be my recipe a little wrong, but after 30 mins of plaing arround with it, I [couldn\`t make it work](https://github.com/Tonikiller10000/Other-Projects-and-Ideas/blob/main/ProjectsAndIdeeas/Starlyte/2.mp4).
     I may try it again in the far future.
       </td>
-      <td><img src="https://github.com/Tonikiller10000/Other-Projects-and-Ideas/blob/main/ProjectsAndIdeeas/Starlyte/1.jpg"  width = 220></td>
+      <td><img src="https://github.com/Tonikiller10000/Other-Projects-and-Ideas/blob/main/ProjectsAndIdeeas/Starlyte/1.jpg"  height = 220 width= 250></td>
     </tr>
   </table>
 </details>
@@ -122,7 +122,7 @@ For now you have 5 mentions and 4 projects to look into.
 <summary>Icecream Plate</summary>
 
 I tried to make [this](https://youtu.be/LPOWmK9EWk0?si=V09L9m4uheya51iG) Icecream plate with some peltier plates, but unfortunetly that didn\`t work. It was cooling too slow, and to little.
-I even used 2 peltier plates with thermal paste between and a computer heatsing with fan connected, but it [didn\`t worked](https://github.com/Tonikiller10000/Other-Projects-and-Ideas/blob/main/ProjectsAndIdeeas/PeltierPlate_IceCreamMachine/f.mp4). I will try it again in the future with a mechanical method of cooling (compressor).
+I even used 2 peltier plates with thermal paste in between and a computer heatsink with the fan connected for more cooling, but it [didn\`t worked](https://github.com/Tonikiller10000/Other-Projects-and-Ideas/blob/main/ProjectsAndIdeeas/PeltierPlate_IceCreamMachine/f.mp4). I will try it again in the future with a mechanical method of cooling (compressor).
 <table>
   <tr>
     <td><img src="https://github.com/Tonikiller10000/Other-Projects-and-Ideas/blob/main/ProjectsAndIdeeas/PeltierPlate_IceCreamMachine/3.jpg" ></td> 
@@ -162,9 +162,9 @@ Forth and fifth are not good decoratives, but are preety cool phisics experiment
 
 
 <details> 
-  <summary>If you want to make some speakers, this is how to make the enclosure. </summary>
+  <summary>Speaker Enclosure </summary>
 
-  Here are some links about the [perfect](https://www.youtube.com/watch?v=pUgxjNrwvOE&list=WL&index=130) speaker enclosure for your speaker:
+If you want to make some speakers, here is how to make the [perfect](https://www.youtube.com/watch?v=pUgxjNrwvOE&list=WL&index=130) enclosure:
   - https://www.youtube.com/watch?v=Df2I4JIQzxs
   - https://www.youtube.com/watch?v=xT1gYZGDx4I&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=13
   - https://www.youtube.com/watch?v=GrrxGm18KSY&list=WL&index=127
@@ -181,6 +181,7 @@ Forth and fifth are not good decoratives, but are preety cool phisics experiment
   <summary>Satelite</summary>
 
   A satelite is an [computer](https://www.youtube.com/watch?v=1I3dKEriVl8&list=WL&index=86) left in space witch send and recive data from earth.
+  It has various sensors to collect data from outer space, and also from the earth. They are used in space descovery, device localization, metheorologic data gathering and much more.
   - https://www.youtube.com/watch?v=5voQfQOTem8&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=161
   - https://www.youtube.com/watch?v=30XpSozOZII&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=21
 </details>
@@ -194,7 +195,7 @@ Forth and fifth are not good decoratives, but are preety cool phisics experiment
 <details> 
 <summary>Haptic touch</summary>
 
-  By haptic sensing, I don`t mean at the [old motor gloves](https://www.youtube.com/watch?v=iPtgvh6fNdQ), or a bit of [air movement](https://www.youtube.com/watch?v=qfb5_ZKhjqY&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=69). By haptic touch I mean technology like [this](https://www.youtube.com/watch?v=j_rErbhxNFM&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=70) being [aplied](https://www.youtube.com/watch?v=UJXLBqG9E_s&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=71), or futuristic designs like [this](https://www.youtube.com/watch?v=Q76dMggUH1M&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=193).
+  By haptic sensing, I don`t mean the [old motor gloves](https://www.youtube.com/watch?v=iPtgvh6fNdQ). By haptic touch I mean technology like [this](https://www.youtube.com/watch?v=j_rErbhxNFM&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=70) being [aplied](https://www.youtube.com/watch?v=UJXLBqG9E_s&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=71), or futuristic designs like [this](https://www.youtube.com/watch?v=Q76dMggUH1M&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=193) or any try to make [something new](https://www.youtube.com/watch?v=qfb5_ZKhjqY&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=69).
 </details>
 
 

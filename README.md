@@ -759,39 +759,6 @@ https://www.youtube.com/watch?v=KLEH8RJsYgI&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfz
 
 
 
-AIR QUALITY SENSOR:
-
-
-I searched on the internet and I bouth a few cheap sensors to test and make a air purifier with few of them, and others to use in various projects.
-- ZP16 air quality detection module datasheet has only 6 pages (https://www.winsen-sensor.com/d/files/manual/zp16.pdf) and when I asked the winsen ic producer for a programming documentation, they
-sent me the same datasheet with a newer version witch was exactly the same. Because of the poor documentation on it, I chosed not to use it. 6$ for 2 boards were wasted.
-- SGP41 Air Quality Sensor for VOC and NOx Measurements 1x6$  (https://sensirion.com/media/documents/5FE8673C/61E96F50/Sensirion_Gas_Sensors_Datasheet_SGP41.pdf) 
-needs a driver  (tested with arduino 5v and worked? ... max 3.3//....)
-- MiCS-5524 MOS sensor 6$ (https://cdn-shop.adafruit.com/product-files/3199/MiCS-5524.pdf) has also a small datasheet of 6 pages, and was unused.
-
-MQ sensors are not verry precise and fast at detecting their specific gass, so those ware not uset too.
-https://forum.arduino.cc/t/abnormal-mq-2-gas-sensor-reading/1145215
-https://lastminuteengineers.com/mq2-gas-senser-arduino-tutorial/#google_vignette
-https://github.com/miguel5612/MQSensorsLib
-https://circuitdigest.com/microcontroller-projects/interfacing-mq2-gas-sensor-with-arduino
-
-ENS160 :
-
-https://www.youtube.com/watch?v=jN4cOX67-8c
-https://wiki.dfrobot.com/Multi_function_Environmental_Module_ENS160_BME280_SKU_SEN0335
-https://github.com/sciosense/ENS160_driver/tree/master
-
-
-
-
-
-Datasheets:
-https://www.mouser.com/datasheet/2/1081/SC_001224_DS_1_ENS160_Datasheet_Rev_0_95-2258311.pdf
-http://www.aosong.com/userfiles/files/media/AHT21%E4%BA%A7%E5%93%81%E8%A7%84%E6%A0%BC%E4%B9%A6(%E8%8B%B1%E6%96%87%E7%89%88)%20A3.pdf
-https://sensirion.com/media/documents/5FE8673C/61E96F50/Sensirion_Gas_Sensors_Datasheet_SGP41.pdf
-
-
-
 
 
 
@@ -876,30 +843,8 @@ robochalange linefollower rules:https://robochallenge.ro/regulation/line-followe
 
 
 
-Robochalange remote:
-[Start switch website](https://p1r.se/startmodule/)
-[Start switch github](https://github.com/p1rse/robot-sumo-start-module/)
-[IR Receiver Diode - TSOP38238](https://www.sparkfun.com/products/10266)
-[schematic1](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnkNo1QEsxSPMNj7rN0opPGzlpkEMgxas9PnXUh-xvVR3l7UK27BbSvRroJmsxzwf3StBiDH0k4m-aEXX_4qJKeG5T4bKsfCBbcjgoykJYrBEhg5JI-Mr95yexPMCzkTw7kaGDIzET8ME/s1600/1235.png)
-[schematic2](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLlN9CDAmP0rq2BlWM0Xdsypyy7NfGZpMYkufZPUAMmgCRdU-KhBC8AvPr7iOOQAwod2Hw66K_vuib1FNqDIHNemtnMvlSue2krN2hfp39g73NuTcx5fEXUF8i5MbJ3re-paKH2Z_Cgq0/s1600/1234.png)
-[Q&A](https://robochallenge.ro/faq)
-[MORE](https://destroyer3000.blogspot.com/2013/03/start-module-implement-yourself.html)
 
 
-Air Quality Module:
-
-SGP41 datasheet: https://sensirion.com/media/documents/5FE8673C/61E96F50/Sensirion_Gas_Sensors_Datasheet_SGP41.pdf
-SGP41 design guige: https://sensirion.com/media/documents/C87B1A6C/616452A3/Sensirion_Gas_Sensors_Datasheet_GAS_SGP4x_Design-In_Guide_D1.pdf
-SGP41 github_1: https://github.com/Sensirion/arduino-i2c-sgp41
-SGP41 github_2: https://github.com/Sensirion/arduino-gas-index-algorithm
-SENSIRION Website: https://sensirion.com/products/catalog/SGP41/
-SGP41 tutorial: https://wiki.seeedstudio.com/grove-smart-air-quality-sensor-sgp41/
-
-
-
-MICS5524 tutorial: https://wiki.dfrobot.com/Fermion__MEMS_Gas_Sensor___MiCS-5524_SKU_SEN0440
-IC MICS5524 datasheet: https://img.dfrobot.com.cn/wiki/5b973267c87e6f19943ab3ad/86011e31a53db4f1bb6a3978de97a135.pdf
-SEN0440 module datasheet: https://www.mouser.com/pdfDocs/ProductOverview_DFRobot_SEN0440.pdf?_gl=1*129r3r6*_ga*MTY1NDc4ODE4Ny4xNzA2MTMzODM1*_ga_15W4STQT4T*MTcxMjk5MzkyMi40Ni4wLjE3MTI5OTM5MjMuNTkuMC4w
 
 
 

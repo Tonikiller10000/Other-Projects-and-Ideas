@@ -60,10 +60,10 @@ Have fun and [reuse](https://www.youtube.com/shorts/1bMbADiztPY).
 </table>
 <table>
   <tr>
-    <td><img src="https://github.com/Tonikiller10000/Other-Projects-and-Ideas/blob/main/ProjectsAndIdeeas/Clay/c6.jpg" ></td>
-    <td><img src="https://github.com/Tonikiller10000/Other-Projects-and-Ideas/blob/main/ProjectsAndIdeeas/Clay/c7.jpg" ></td> 
-    <td><img src="https://github.com/Tonikiller10000/Other-Projects-and-Ideas/blob/main/ProjectsAndIdeeas/Clay/c5.jpg" ></td>  
     <td><img src="https://github.com/Tonikiller10000/Other-Projects-and-Ideas/blob/main/ProjectsAndIdeeas/Clay/c1.jpg" ></td>
+    <td><img src="https://github.com/Tonikiller10000/Other-Projects-and-Ideas/blob/main/ProjectsAndIdeeas/Clay/c5.jpg" ></td> 
+    <td><img src="https://github.com/Tonikiller10000/Other-Projects-and-Ideas/blob/main/ProjectsAndIdeeas/Clay/c6.jpg" ></td>  
+    <td><img src="https://github.com/Tonikiller10000/Other-Projects-and-Ideas/blob/main/ProjectsAndIdeeas/Clay/c7.jpg" ></td>
     <td><img src="https://github.com/Tonikiller10000/Other-Projects-and-Ideas/blob/main/ProjectsAndIdeeas/Clay/c8.jpg" ></td>  
     <td><img src="https://github.com/Tonikiller10000/Other-Projects-and-Ideas/blob/main/ProjectsAndIdeeas/Clay/c9.jpg" ></td>     
   </tr>
@@ -74,7 +74,7 @@ Have fun and [reuse](https://www.youtube.com/shorts/1bMbADiztPY).
 <details> 
 <summary>Osmosis</summary>
 
-If you separate in a container, pure water(H2O) and /"salty/" water with a membrane with holes big enouch that only water molecules can pass truth it, the pure water will flow to the /"salty/" water [video1](https://www.youtube.com/watch?v=4RDA_B_dRQ0&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=259), [video2](https://www.youtube.com/watch?v=vCJVXYmXkzM&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=252&t=174s). This process is called <b>osmosis</b>. By presurasing the /"salty/" water, you can push it trouth the filter, so only the water molecules to go trouth the filter, making pure water. This process named <b>reverse osmosis</b> is used in city water purrifiers. By combining the pure water with some esential minerals, you can make the water potable. Pure water in big quantities is [poisonous](https://www.youtube.com/watch?v=L-osEc07vMs&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=251)
+If you separate in a container, pure water(H2O) and /"salty/" water with a membrane with holes big enouch that only water molecules can pass truth it, the pure water will flow to the /"salty/" water [video1](https://www.youtube.com/watch?v=4RDA_B_dRQ0&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=259), [video2](https://www.youtube.com/watch?v=vCJVXYmXkzM&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=252&t=174s). This process is called <b>osmosis</b>. By presurasing the /"salty/" water, you can push it trouth the filter, so only the water molecules to go trouth the filter, making pure water. This process named <b>reverse osmosis</b> is used in city water purrifiers. By combining the pure water with some esential minerals, you can make the water potable. Pure water in big quantities is [poisonous](https://www.youtube.com/watch?v=L-osEc07vMs&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=251).
 </details>
 
 
@@ -84,11 +84,11 @@ If you separate in a container, pure water(H2O) and /"salty/" water with a membr
   <tr>
     <td> 
 
-    Starlyte is a verry heat ressistent matherial witch can be mad with household ingredients.
+  Starlyte is a verry heat ressistent matherial witch can be mad with household ingredients.
   I tried making it, but it [didn\`t worked well](https://github.com/Tonikiller10000/Other-Projects-and-Ideas/blob/main/ProjectsAndIdeeas/Starlyte/3.mp4) at all. May be my recipe a little wrong, but after 30 mins of plaing arround with it, I [couldn\`t make it work](https://github.com/Tonikiller10000/Other-Projects-and-Ideas/blob/main/ProjectsAndIdeeas/Starlyte/2.mp4).
   I may try it again in the far future.
     </td>
-    <td><img src="https://github.com/Tonikiller10000/Other-Projects-and-Ideas/blob/main/ProjectsAndIdeeas/Starlyte/1.jpg" ></td>
+    <td><img src="https://github.com/Tonikiller10000/Other-Projects-and-Ideas/blob/main/ProjectsAndIdeeas/Starlyte/1.jpg"  height = 220></td>
   </tr>
 </table>
 </details>

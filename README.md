@@ -69,7 +69,6 @@ Have fun and [reuse](https://www.youtube.com/shorts/1bMbADiztPY).
   </tr>
 </table>
 
-
 </details>
 
 <details> 
@@ -83,10 +82,11 @@ If you separate in a container, pure water(H2O) and /"salty/" water with a membr
 <summary>Starlyte</summary>
 <table>
   <tr>
-    <td>
-    Starlyte is a verry heat ressistent matherial witch can be mad with household ingredients.
-    I tried making it, but it [didn/`t worked well](https://github.com/Tonikiller10000/Other-Projects-and-Ideas/blob/main/ProjectsAndIdeeas/Starlyte/3.mp4) at all. May be my recipe a little wrong, but after 30 mins of plaing arround with it, I [couldn\`t make it work](https://github.com/Tonikiller10000/Other-Projects-and-Ideas/blob/main/ProjectsAndIdeeas/Starlyte/2.mp4).
-    I may try it again in the far future.
+    <td> 
+
+  Starlyte is a verry heat ressistent matherial witch can be mad with household ingredients.
+  I tried making it, but it [didn/`t worked well](https://github.com/Tonikiller10000/Other-Projects-and-Ideas/blob/main/ProjectsAndIdeeas/Starlyte/3.mp4) at all. May be my recipe a little wrong, but after 30 mins of plaing arround with it, I [couldn\`t make it work](https://github.com/Tonikiller10000/Other-Projects-and-Ideas/blob/main/ProjectsAndIdeeas/Starlyte/2.mp4).
+  I may try it again in the far future.
     </td>
     <td><img src="https://github.com/Tonikiller10000/Other-Projects-and-Ideas/blob/main/ProjectsAndIdeeas/Starlyte/1.jpg" ></td>
   </tr>
@@ -103,9 +103,9 @@ I tried to make [this](https://youtu.be/LPOWmK9EWk0?si=V09L9m4uheya51iG) Icecrea
 I even used 2 peltier plates with thermal paste between and a computer heatsing with fan connected, but it [didn\`t worked](https://github.com/Tonikiller10000/Other-Projects-and-Ideas/blob/main/ProjectsAndIdeeas/PeltierPlate_IceCreamMachine/f.mp4). I will try it again in the future with a mechanical method of cooling (compressor).
 <table>
   <tr>
-    <td><img src="https://github.com/Tonikiller10000/Other-Projects-and-Ideas/blob/main/ProjectsAndIdeeas/PeltierPlate_IceCreamMachine/1.jpg" ></td>
     <td><img src="https://github.com/Tonikiller10000/Other-Projects-and-Ideas/blob/main/ProjectsAndIdeeas/PeltierPlate_IceCreamMachine/2.jpg" ></td>
     <td><img src="https://github.com/Tonikiller10000/Other-Projects-and-Ideas/blob/main/ProjectsAndIdeeas/PeltierPlate_IceCreamMachine/3.jpg" ></td> 
+    <td><img src="https://github.com/Tonikiller10000/Other-Projects-and-Ideas/blob/main/ProjectsAndIdeeas/PeltierPlate_IceCreamMachine/1.jpg" ></td>
   </tr>
 </table>
 </details>
@@ -126,8 +126,8 @@ Forth and fifth are not good decoratives, but are preety cool phisics experiment
     <td><img src="https://github.com/Tonikiller10000/Other-Projects-and-Ideas/blob/main/ProjectsAndIdeeas/Other/mention1.png" ></td>
     <td><img src="https://github.com/Tonikiller10000/Other-Projects-and-Ideas/blob/main/ProjectsAndIdeeas/Other/mention22.png" ></td>
     <td><img src="https://github.com/Tonikiller10000/Other-Projects-and-Ideas/blob/main/ProjectsAndIdeeas/Other/mention3.png" ></td>
-    <td><img src="https://github.com/Tonikiller10000/Other-Projects-and-Ideas/blob/main/ProjectsAndIdeeas/Other/mention31.png" ></td>
     <td><img src="https://github.com/Tonikiller10000/Other-Projects-and-Ideas/blob/main/ProjectsAndIdeeas/Other/mention32.png" ></td>
+    <td><img src="https://github.com/Tonikiller10000/Other-Projects-and-Ideas/blob/main/ProjectsAndIdeeas/Other/mention33.png" ></td>
   </tr>
 </table>
 </details>

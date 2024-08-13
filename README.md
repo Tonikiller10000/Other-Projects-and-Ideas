@@ -746,3 +746,38 @@ https://www.youtube.com/watch?v=KLEH8RJsYgI&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfz
 
 
 
+
+
+
+AIR QUALITY SENSOR:
+
+
+I searched on the internet and I bouth a few cheap sensors to test and make a air purifier with few of them, and others to use in various projects.
+- ZP16 air quality detection module datasheet has only 6 pages (https://www.winsen-sensor.com/d/files/manual/zp16.pdf) and when I asked the winsen ic producer for a programming documentation, they
+sent me the same datasheet with a newer version witch was exactly the same. Because of the poor documentation on it, I chosed not to use it. 6$ for 2 boards were wasted.
+- SGP41 Air Quality Sensor for VOC and NOx Measurements 1x6$  (https://sensirion.com/media/documents/5FE8673C/61E96F50/Sensirion_Gas_Sensors_Datasheet_SGP41.pdf) 
+needs a driver  (tested with arduino 5v and worked? ... max 3.3//....)
+- MiCS-5524 MOS sensor 6$ (https://cdn-shop.adafruit.com/product-files/3199/MiCS-5524.pdf) has also a small datasheet of 6 pages, and was unused.
+
+MQ sensors are not verry precise and fast at detecting their specific gass, so those ware not uset too.
+https://forum.arduino.cc/t/abnormal-mq-2-gas-sensor-reading/1145215
+https://lastminuteengineers.com/mq2-gas-senser-arduino-tutorial/#google_vignette
+https://github.com/miguel5612/MQSensorsLib
+https://circuitdigest.com/microcontroller-projects/interfacing-mq2-gas-sensor-with-arduino
+
+ENS160 :
+
+https://www.youtube.com/watch?v=jN4cOX67-8c
+https://wiki.dfrobot.com/Multi_function_Environmental_Module_ENS160_BME280_SKU_SEN0335
+https://github.com/sciosense/ENS160_driver/tree/master
+
+
+
+
+
+Datasheets:
+https://www.mouser.com/datasheet/2/1081/SC_001224_DS_1_ENS160_Datasheet_Rev_0_95-2258311.pdf
+http://www.aosong.com/userfiles/files/media/AHT21%E4%BA%A7%E5%93%81%E8%A7%84%E6%A0%BC%E4%B9%A6(%E8%8B%B1%E6%96%87%E7%89%88)%20A3.pdf
+https://sensirion.com/media/documents/5FE8673C/61E96F50/Sensirion_Gas_Sensors_Datasheet_SGP41.pdf
+
+

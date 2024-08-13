@@ -19,79 +19,101 @@ For now you have 5 mentions and 4 projects to look into.
 - [Segment displays](https://youtu.be/B887D3PVYqs?si=KS5QnkuYI9ruFV4f)
 
 
+
+
+
+
 ## Projects:
 <details> 
-<summary>Sonoluminescence </summary>
+  <summary>Sonoluminescence </summary>
 
-[Sonoluminescence](https://en.wikipedia.org/wiki/Sonoluminescence) is a process in witch you can \"transform\" sound into ligth. 
-It works by creating a fast colapsing air buble in the water witch, because of the verry high pressure can reach almost 12000 celsius degrees and produce ligth.
-With this, you can make a \"star in a jar\" like [this](https://www.youtube.com/watch?v=puVxGnl_3y8) guy, or like [this](https://www.youtube.com/watch?v=0TVZd8dZysY&list=WL&index=284) guy. Other way "conserving" power is heating rare gases with electrons like [this](https://www.youtube.com/watch?v=VTBZ0VwIgs8&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=119).
-You can read more in this papers:
-- http://techmind.org/sl/
-- https://pubs.aip.org/asa/jasa/article/138/4/2181/899097/Resource-Paper-Sonoluminescence
+  [Sonoluminescence](https://en.wikipedia.org/wiki/Sonoluminescence) is a process in witch you can \"transform\" sound into ligth. 
+  It works by creating a fast colapsing air buble in the water witch, because of the verry high pressure can reach almost 12000 celsius degrees and produce ligth.
+  With this, you can make a \"star in a jar\" like [this](https://www.youtube.com/watch?v=puVxGnl_3y8) guy, or like [this](https://www.youtube.com/watch?v=0TVZd8dZysY&list=WL&index=284) guy. Other way "conserving" power is heating rare gases with electrons like [this](https://www.youtube.com/watch?v=VTBZ0VwIgs8&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=119).
+  You can read more in this papers:
+  - http://techmind.org/sl/
+  - https://pubs.aip.org/asa/jasa/article/138/4/2181/899097/Resource-Paper-Sonoluminescence
 </details>
 
-<details> 
-<summary>Capacitive touch </summary>
 
-With capacitive touch you can make [musical instruments](https://www.youtube.com/watch?v=3xUH_vCHk9A), keyboards and all king of projects.
-Here are multiple links with projects and tutorials with capacitive sensing:
-- https://www.youtube.com/watch?v=DxWZUTnEvhs
-- https://www.youtube.com/watch?v=X7U_6wZqxro
-- https://www.youtube.com/watch?v=FjcVGP6vktM
-- https://www.youtube.com/watch?v=gxLzgeiJQbE
-- https://www.youtube.com/watch?v=mWR9Q_pTagw
 
-</details>
 
-<details> 
-<summary>Start a Pottery Journei /   Make Clay </summary>
-
-If you don`t want to pay for \"[magic dirt](https://www.youtube.com/watch?v=ca20JkKFAcE)\",  make it yourself.
-Go in the forest or other dirty places and search for sticky soil (look for tire marks, yellow color soil, mud, ...). Filter it until you remain with particles smaller than 2um, add some more [ingredients](https://www.youtube.com/watch?v=HbLdNKM9y68&list=WL&index=125) and start making vases and other kinks of yours.  
-Have fun and [reuse](https://www.youtube.com/shorts/1bMbADiztPY). 
-
-<table>
-  <tr>
-    <td><img src="https://github.com/Tonikiller10000/Other-Projects-and-Ideas/blob/main/ProjectsAndIdeeas/Clay/c2.jpg" ></td>
-    <td><img src="https://github.com/Tonikiller10000/Other-Projects-and-Ideas/blob/main/ProjectsAndIdeeas/Clay/c3.jpg" ></td>
-    <td><img src="https://github.com/Tonikiller10000/Other-Projects-and-Ideas/blob/main/ProjectsAndIdeeas/Clay/c4.jpg" ></td> 
-  </tr>
-</table>
-<table>
-  <tr>
-    <td><img src="https://github.com/Tonikiller10000/Other-Projects-and-Ideas/blob/main/ProjectsAndIdeeas/Clay/c1.jpg" ></td>
-    <td><img src="https://github.com/Tonikiller10000/Other-Projects-and-Ideas/blob/main/ProjectsAndIdeeas/Clay/c5.jpg" ></td> 
-    <td><img src="https://github.com/Tonikiller10000/Other-Projects-and-Ideas/blob/main/ProjectsAndIdeeas/Clay/c6.jpg" ></td>  
-    <td><img src="https://github.com/Tonikiller10000/Other-Projects-and-Ideas/blob/main/ProjectsAndIdeeas/Clay/c7.jpg" ></td>
-    <td><img src="https://github.com/Tonikiller10000/Other-Projects-and-Ideas/blob/main/ProjectsAndIdeeas/Clay/c8.jpg" ></td>  
-    <td><img src="https://github.com/Tonikiller10000/Other-Projects-and-Ideas/blob/main/ProjectsAndIdeeas/Clay/c9.jpg" ></td>     
-  </tr>
-</table>
-
-</details>
-
-<details> 
-<summary>Osmosis</summary>
-
-If you separate in a container, pure water(H2O) and /"salty/" water with a membrane with holes big enouch that only water molecules can pass truth it, the pure water will flow to the /"salty/" water [video1](https://www.youtube.com/watch?v=4RDA_B_dRQ0&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=259), [video2](https://www.youtube.com/watch?v=vCJVXYmXkzM&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=252&t=174s). This process is called <b>osmosis</b>. By presurasing the /"salty/" water, you can push it trouth the filter, so only the water molecules to go trouth the filter, making pure water. This process named <b>reverse osmosis</b> is used in city water purrifiers. By combining the pure water with some esential minerals, you can make the water potable. Pure water in big quantities is [poisonous](https://www.youtube.com/watch?v=L-osEc07vMs&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=251).
-</details>
 
 
 <details> 
-<summary>Starlyte</summary>
-<table>
-  <tr>
-    <td> 
+  <summary>Capacitive touch </summary>
 
-  Starlyte is a verry heat ressistent matherial witch can be mad with household ingredients.
-  I tried making it, but it [didn\`t worked well](https://github.com/Tonikiller10000/Other-Projects-and-Ideas/blob/main/ProjectsAndIdeeas/Starlyte/3.mp4) at all. May be my recipe a little wrong, but after 30 mins of plaing arround with it, I [couldn\`t make it work](https://github.com/Tonikiller10000/Other-Projects-and-Ideas/blob/main/ProjectsAndIdeeas/Starlyte/2.mp4).
-  I may try it again in the far future.
-    </td>
-    <td><img src="https://github.com/Tonikiller10000/Other-Projects-and-Ideas/blob/main/ProjectsAndIdeeas/Starlyte/1.jpg"  height = 220></td>
-  </tr>
-</table>
+  With capacitive touch you can make [musical instruments](https://www.youtube.com/watch?v=3xUH_vCHk9A), keyboards and all king of projects.
+  Here are multiple links with projects and tutorials with capacitive sensing:
+  - https://www.youtube.com/watch?v=DxWZUTnEvhs
+  - https://www.youtube.com/watch?v=X7U_6wZqxro
+  - https://www.youtube.com/watch?v=FjcVGP6vktM
+  - https://www.youtube.com/watch?v=gxLzgeiJQbE
+  - https://www.youtube.com/watch?v=mWR9Q_pTagw
+
 </details>
+
+
+
+
+
+
+<details> 
+  <summary>Start a Pottery Journei /   Make Clay </summary>
+
+  If you don`t want to pay for \"[magic dirt](https://www.youtube.com/watch?v=ca20JkKFAcE)\",  make it yourself.
+  Go in the forest or other dirty places and search for sticky soil (look for tire marks, yellow color soil, mud, ...). Filter it until you remain with particles smaller than 2um, add some more [ingredients](https://www.youtube.com/watch?v=HbLdNKM9y68&list=WL&index=125) and start making vases and other kinks of yours.  
+  Have fun and [reuse](https://www.youtube.com/shorts/1bMbADiztPY). 
+  <table>
+    <tr>
+      <td><img src="https://github.com/Tonikiller10000/Other-Projects-and-Ideas/blob/main/ProjectsAndIdeeas/Clay/c2.jpg" ></td>
+      <td><img src="https://github.com/Tonikiller10000/Other-Projects-and-Ideas/blob/main/ProjectsAndIdeeas/Clay/c3.jpg" ></td>
+      <td><img src="https://github.com/Tonikiller10000/Other-Projects-and-Ideas/blob/main/ProjectsAndIdeeas/Clay/c4.jpg" ></td> 
+    </tr>
+  </table>
+  <table>
+    <tr>
+      <td><img src="https://github.com/Tonikiller10000/Other-Projects-and-Ideas/blob/main/ProjectsAndIdeeas/Clay/c1.jpg" ></td>
+      <td><img src="https://github.com/Tonikiller10000/Other-Projects-and-Ideas/blob/main/ProjectsAndIdeeas/Clay/c5.jpg" ></td> 
+      <td><img src="https://github.com/Tonikiller10000/Other-Projects-and-Ideas/blob/main/ProjectsAndIdeeas/Clay/c6.jpg" ></td>  
+      <td><img src="https://github.com/Tonikiller10000/Other-Projects-and-Ideas/blob/main/ProjectsAndIdeeas/Clay/c7.jpg" ></td>
+      <td><img src="https://github.com/Tonikiller10000/Other-Projects-and-Ideas/blob/main/ProjectsAndIdeeas/Clay/c8.jpg" ></td>  
+      <td><img src="https://github.com/Tonikiller10000/Other-Projects-and-Ideas/blob/main/ProjectsAndIdeeas/Clay/c9.jpg" ></td>     
+    </tr>
+  </table>
+</details>
+
+
+
+
+
+
+<details> 
+  <summary>Osmosis</summary>
+
+  If you separate in a container, pure water(H2O) and /"salty/" water with a membrane with holes big enouch that only water molecules can pass truth it, the pure water will flow to the /"salty/" water [video1](https://www.youtube.com/watch?v=4RDA_B_dRQ0&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=259), [video2](https://www.youtube.com/watch?v=vCJVXYmXkzM&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=252&t=174s). This process is called <b>osmosis</b>. By presurasing the /"salty/" water, you can push it trouth the filter, so only the water molecules to go trouth the filter, making pure water. This process named <b>reverse osmosis</b> is used in city water purrifiers. By combining the pure water with some esential minerals, you can make the water potable. Pure water in big quantities is [poisonous](https://www.youtube.com/watch?v=L-osEc07vMs&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=251).
+</details>
+
+
+
+
+
+
+<details> 
+  <summary>Starlyte</summary>
+  <table>
+    <tr>
+      <td> 
+    Starlyte is a verry heat ressistent matherial witch can be mad with household ingredients.
+    I tried making it, but it [didn\`t worked well](https://github.com/Tonikiller10000/Other-Projects-and-Ideas/blob/main/ProjectsAndIdeeas/Starlyte/3.mp4) at all. May be my recipe a little wrong, but after 30 mins of plaing arround with it, I [couldn\`t make it work](https://github.com/Tonikiller10000/Other-Projects-and-Ideas/blob/main/ProjectsAndIdeeas/Starlyte/2.mp4).
+    I may try it again in the far future.
+      </td>
+      <td><img src="https://github.com/Tonikiller10000/Other-Projects-and-Ideas/blob/main/ProjectsAndIdeeas/Starlyte/1.jpg"  width = 220></td>
+    </tr>
+  </table>
+</details>
+
+
 
 
 
@@ -105,10 +127,12 @@ I even used 2 peltier plates with thermal paste between and a computer heatsing 
   <tr>
     <td><img src="https://github.com/Tonikiller10000/Other-Projects-and-Ideas/blob/main/ProjectsAndIdeeas/PeltierPlate_IceCreamMachine/3.jpg" ></td> 
     <td><img src="https://github.com/Tonikiller10000/Other-Projects-and-Ideas/blob/main/ProjectsAndIdeeas/PeltierPlate_IceCreamMachine/1.jpg" ></td>
-    <td><img src="https://github.com/Tonikiller10000/Other-Projects-and-Ideas/blob/main/ProjectsAndIdeeas/PeltierPlate_IceCreamMachine/2.jpg" ></td>
+    <td><img src="https://github.com/Tonikiller10000/Other-Projects-and-Ideas/blob/main/ProjectsAndIdeeas/PeltierPlate_IceCreamMachine/4.jpg" ></td>
   </tr>
 </table>
 </details>
+
+
 
 
 
@@ -131,6 +155,50 @@ Forth and fifth are not good decoratives, but are preety cool phisics experiment
   </tr>
 </table>
 </details>
+
+
+
+
+
+
+<details> 
+  <summary>If you want to make some speakers, this is how to make the enclosure. </summary>
+
+  Here are some links about the [perfect](https://www.youtube.com/watch?v=pUgxjNrwvOE&list=WL&index=130) speaker enclosure for your speaker:
+  - https://www.youtube.com/watch?v=Df2I4JIQzxs
+  - https://www.youtube.com/watch?v=xT1gYZGDx4I&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=13
+  - https://www.youtube.com/watch?v=GrrxGm18KSY&list=WL&index=127
+  - https://www.youtube.com/watch?v=XEspOD1NHr0&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=217
+
+</details>
+
+
+
+
+
+
+<details> 
+  <summary>Satelite</summary>
+
+  A satelite is an [computer](https://www.youtube.com/watch?v=1I3dKEriVl8&list=WL&index=86) left in space witch send and recive data from earth.
+  - https://www.youtube.com/watch?v=5voQfQOTem8&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=161
+  - https://www.youtube.com/watch?v=30XpSozOZII&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=21
+</details>
+
+
+
+
+
+
+
+<details> 
+<summary>Haptic touch</summary>
+
+  By haptic sensing, I don`t mean at the [old motor gloves](https://www.youtube.com/watch?v=iPtgvh6fNdQ), or a bit of [air movement](https://www.youtube.com/watch?v=qfb5_ZKhjqY&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=69). By haptic touch I mean technology like [this](https://www.youtube.com/watch?v=j_rErbhxNFM&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=70) being [aplied](https://www.youtube.com/watch?v=UJXLBqG9E_s&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=71), or futuristic designs like [this](https://www.youtube.com/watch?v=Q76dMggUH1M&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=193).
+</details>
+
+
+
 
 
 
@@ -250,17 +318,7 @@ Electrospinning:
 - https://www.youtube.com/watch?v=O4pVny7NV8E&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=188
 
 </details>
-<details> 
-<summary>If you want to make some speakers, this is how to make the enclosure. </summary>
 
-Speaker enclosure links:
-- https://www.youtube.com/watch?v=Df2I4JIQzxs
-- https://www.youtube.com/watch?v=xT1gYZGDx4I&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=13
-- https://www.youtube.com/watch?v=pUgxjNrwvOE&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=57&t=1s
-- https://www.youtube.com/watch?v=GrrxGm18KSY&list=WL&index=127
-- https://www.youtube.com/watch?v=pUgxjNrwvOE&list=WL&index=130
-- https://www.youtube.com/watch?v=XEspOD1NHr0&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=217
-</details>
 <details> 
 <summary>Oxytorch</summary>
 You can make an oxytorch by separring hydrogen and oxygen with electrolisis, and burning it at an higher pressure
@@ -284,16 +342,7 @@ Homemade bearings:
 - https://www.youtube.com/watch?v=5YIZaJnER_k&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=143
 - https://www.youtube.com/watch?v=nRrHrB6gaoE&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=112
 </details>
-<details> 
-<summary>Satelite</summary>
 
-Satelite: 
-- https://www.youtube.com/watch?v=AK04FVMZ6pI&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=123
-- https://www.youtube.com/watch?v=5voQfQOTem8&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=161
-- https://www.youtube.com/watch?v=1I3dKEriVl8&list=WL&index=86
-- https://www.youtube.com/watch?v=30XpSozOZII&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=21
-- https://www.youtube.com/watch?v=wuB3NeIp6CM&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=29&t=148s
-</details>
 <details> 
 <summary>Coil Gun</summary>
 
@@ -343,21 +392,7 @@ Centrifuge:
 - https://www.youtube.com/watch?v=EWWUqkEXJUE&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=123
 </details>
 
-<details> 
-<summary>Haptic touch</summary>
 
-Haptic Feeling:
-- https://www.youtube.com/watch?v=iPtgvh6fNdQ
-- https://www.youtube.com/watch?v=j_rErbhxNFM&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=70
-- https://www.youtube.com/watch?v=qfb5_ZKhjqY&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=69
-- https://www.youtube.com/watch?v=UJXLBqG9E_s&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=71
-- https://www.youtube.com/watch?v=Q76dMggUH1M&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=193
-</details>
-<details> 
-<summary>B</summary>
-
-
-</details>
 
 
 

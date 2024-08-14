@@ -229,6 +229,8 @@ If you want to make some speakers, here is how to make the [perfect](https://www
   - https://www.youtube.com/watch?v=IhXfpPWdqs4&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=88
   - https://youtube.com/watch?v=LMJFWbm__eQ&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=89
   - https://www.youtube.com/watch?v=th4LBWtQexE&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=90
+  - http://www.stevegs.com/music/stylophone/
+  - https://www.instructables.com/A-Stylophone/
 </details>
 
 
@@ -314,7 +316,7 @@ If you want to make some speakers, here is how to make the [perfect](https://www
 
 
 
-
+<details> 
 <summary>Oxytorch</summary>
 
   An oxytorch is a hidrogen torch fed with aditional oxygen for core power. The hidrogen adn oxygen are made with electrolisis and ready to "explode".
@@ -475,6 +477,7 @@ If you want to make some speakers, here is how to make the [perfect](https://www
   - https://www.youtube.com/watch?v=id90kjYh-Qw&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=176&t=247s
   - https://www.youtube.com/watch?v=PMU9TQUDhow&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=177
   - https://www.youtube.com/watch?v=QTDcFxTq1Fw&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=178&t=1162s
+  coilgun1: https://youtube.com/playlist?list=PLKl_Ihtuj1fpWz5WA09WJIgf677wJ2ihX&si=pw_s7M9z9sdtHSva
 </details>
 
 
@@ -611,6 +614,7 @@ Hardware design:
 - https://www.rcciit.org/students_projects/projects/ee/2023/GR2.pdf
 - https://www.circuits-diy.com/wireless-gadgets-charger-circuit/
 - https://www.circuits-diy.com/wireless-led-circuit/
+- Higher Ghz freguencies for wireless power: https://www.researchgate.net/topic/Phased-Array~Wireless-Power-Transfer/publications
 
 </details>
 
@@ -676,6 +680,8 @@ Electrospinning:
 - Rings lens: https://youtu.be/SS2AbZVdk2A?si=AlZJvmQ0D0xlEcLA
 - Rings basics: https://www.youtube.com/watch?v=DDoryfCXxPI
 - LENSES: https://www.youtube.com/watch?v=u-GAnEcyPVM
+optics: https://opg.optica.org/oe/fulltext.cfm?uri=oe-30-9-15096&id=471568
+https://en.wikipedia.org/wiki/Photochromic_lens
 </details>
 
 
@@ -705,12 +711,19 @@ Electrospinning:
 
 
 <details> 
-<summary>SMARTWATCH calling/messageing</summary>
-
+<summary>Smartwatch</summary>
+SMARTWATCH calling/messageing
 - https://randomnerdtutorials.com/esp32-send-messages-whatsapp/
 - https://randomnerdtutorials.com/micropython-whatsapp-esp32-esp826/
 - https://github.com/hafidhh/Callmebot-ESP-Client#-description
 - https://www.reddit.com/r/esp32/comments/p5aezt/push_a_button_to_record_a_voice_message_which_is/
+
+SMARTWATCH gesture recgnition
+- https://www.sensortips.com/featured/how-can-a-machine-recognize-hand-gestures-faq/
+- https://userpages.umbc.edu/~nroy/courses/fall2018/cmisr/papers/Finger_watch_HotMobile2015.pdf
+- https://www.mdpi.com/2072-666X/10/10/692
+- https://github.com/rheslip/Motivation-Radio-BLEMIDI
+
 </details>
 
 
@@ -777,6 +790,34 @@ STM32CubeMX download:https://www.st.com/en/development-tools/stm32cubemx.html
 
 stm32 programming tutorial1: https://www.youtube.com/playlist?list=PLmXXQ1iFwiyJFM2NJW1ybWX5Fu_9Oo7p1
 stm32 tutorial1: https://www.youtube.com/watch?v=wLwKgMBWhpY&t=233s
+
+
+https://www.youtube.com/playlist?list=PLtVUYRe-Z-mcjXXFBte61L8SjyI377VNq
+https://www.youtube.com/playlist?list=PLmXXQ1iFwiyJFM2NJW1ybWX5Fu_9Oo7p1
+https://youtube.com/playlist?list=PLERTijJOmYrA6iGZaWGyEJXpjzY0lRTC3&si=F1kre_QOrw3fhoiY
+https://www.youtube.com/playlist?list=PLmY3zqJJdVeNIZ8z_yw7Db9ej3FVG0iLy
+https://youtube.com/playlist?list=PLLHCjBf3JujDqQLd_6g1K4K7JD5uqig-2&si=QBfavs6NtdLQHKBX
+
+
+https://embeddedprojects101.com/custom-stm32-development-board/
+
+https://www.st.com/resource/en/datasheet/stm32wb55cc.pdf
+https://www.st.com/resource/en/datasheet/mlpf-wb-01e3.pdf
+KEIL for stm32 programming alternative: https://www.youtube.com/playlist?list=PLtVUYRe-Z-mfKO0lg_-MBvwWl6VjWT8Dt
+
+</details>
+
+
+
+
+
+
+
+<details> 
+<summary>submarine</summary>
+
+https://www.youtube.com/watch?v=pUba126uzvU&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=232
+https://www.youtube.com/watch?v=KLEH8RJsYgI&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=235
 </details>
 
 
@@ -786,36 +827,10 @@ stm32 tutorial1: https://www.youtube.com/watch?v=wLwKgMBWhpY&t=233s
 
 
 
-
-<br>
-<br>
-<br>
-<br>
-
-## ///////////////// in construction ///////////////////
-
-<br>
-<br>
-<br>
-<br>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <details> 
-Helicopters & drones:
+<summary>submarineHelicopters & drones</summary>
+
+How helicopters & drones work:
 - https://www.youtube.com/watch?v=EMaR7PznE_s&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=31
 - https://www.youtube.com/watch?v=aRotBcoHuX4&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=32
 - https://www.youtube.com/watch?v=6B-GIVMU340&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=33
@@ -824,125 +839,66 @@ Helicopters & drones:
 - https://www.youtube.com/watch?v=2tdnqZgKa0E&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=334
 - https://www.youtube.com/watch?v=zY68Nf9Cobs&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=335&t=14s
 - https://www.youtube.com/watch?v=AZUkmMksnSI
-
-
-
-Fligth controller:
-- https://www.youtube.com/watch?v=rLDqQ2L_mUQ&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=247
-
-
-
-submarine
-https://www.youtube.com/watch?v=pUba126uzvU&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=232
-https://www.youtube.com/watch?v=KLEH8RJsYgI&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=235
+- https://www.youtube.com/watch?v=N_XneaFmOmU&list=WL&index=50
+- https://www.youtube.com/watch?v=DeSDjjicGWY&list=WL&index=94
+</details>
 
 
 
 
-https://youtube.com/playlist?list=PLnMKNibPkDnHZyJtMRpWSs41CWhPouRwq&si=9lBe6EzjdbaaY6fG
+
+
+
+<details> 
+<summary>PCB coil/motor</summary>
+
+
 https://coil32.net/pcb-coil.html
-
-
-
-Music:
-https://www.youtube.com/watch?v=JAmw-TTG2Ds&list=WL&index=265
-https://www.youtube.com/watch?v=nF_OKrVmQM0&list=WL&index=136
-
-
-
-
-
-Fusion360: https://www.youtube.com/playlist?list=PL0fZjEQc8oaMEkOGcNvueT8lAZvcoKuie
-
-
-ESP32 powerconsumption: https://lastminuteengineers.com/esp32-sleep-modes-power-consumption/?utm_content=cmp-true
-
-
-
-
-[Smartwatch Example](https://circuitdigest.com/microcontroller-projects/diy-smartwatch-using-esp32-final-part)
-ESP32 OTA: https://www.youtube.com/watch?v=VyCG1MHdw3g&list=RDCMUCDGAg1pqcy8IScMqHHTy9Gg&index=28
-robochalange linefollower rules:https://robochallenge.ro/regulation/line-follower
-
-
-
-
-
-
-
-LORA: https://www.youtube.com/watch?v=dxYY097QNs0
-
-
-
-
-
-
 PCB motor: https://www.youtube.com/watch?v=CDhlx_VMpCc&t=3s
 pcb coil CarlBugeja: https://www.youtube.com/@CarlBugeja
 coils: https://www.circuitbasics.com/what-is-an-inductor/
 PCB Motor2: https://www.youtube.com/watch?v=NX7GHqq28uU&list=WL&index=8
+coil formulas: https://www.electronics-tutorials.ws/inductor/inductance.html
+https://github.com/CarlBugeja/PCB-Motor-v4
+https://youtube.com/playlist?list=PLaBr_WzeIAixidGwqfcrQlwKZX4RZ2E7D&si=YnpgZVkrEu1c8Eh1
+https://github.com/atomic14/kicad-coil-plugins?tab=readme-ov-file
+https://hal.science/hal-01409233/file/CambridgeWPT_journal_preprint_5Oct2015.pdf
+https://www.google.com/search?q=electromagnet+coil%2C+series+vs+paralel&sca_esv=6269066d21daebf6&sca_upv=1&sxsrf=ADLYWIKO0LOTcSkkfk2Tz-CFaQD0sf_R0Q%3A1720271885322&ei=DUSJZrGzE5Dui-gP_NOkqA8&ved=0ahUKEwjx7ZCVwJKHAxUQ9wIHHfwpCfUQ4dUDCA8&uact=5&oq=electromagnet+coil%2C+series+vs+paralel&gs_lp=Egxnd3Mtd2l6LXNlcnAiJWVsZWN0cm9tYWduZXQgY29pbCwgc2VyaWVzIHZzIHBhcmFsZWwyCBAhGKABGMMEMggQIRigARjDBEi-NlAAWMAzcAV4AZABAJgBgAGgAaMSqgEEMi4xObgBA8gBAPgBAZgCGKACmhHCAggQABiABBiiBMICChAhGKABGMMEGAqYAwDiAwUSATEgQJIHBDYuMTigB7hQ&sclient=gws-wiz-serp
+http://performancemagnetics.com/images/BLDC_Generator_Design_Methodology_Performance_Magnetics_revI-2.pdf
+https://www.usna.edu/ESRDC/_files/documents/Vault/References/A%20brushless%20exciter%20model%20incorporating%20multiple%20rectifier%20modes%20and%20Preisachs%20hysteresis%20theory.pdf
+https://www.allaboutcircuits.com/tools/trace-resistance-calculator/
+https://electronics.stackexchange.com/questions/501516/calculate-resistance-of-coil-inductor-made-of-pcb-traces
+https://ps.buckeyepowersales.com/wp-content/uploads/2021/06/BPS_113_Generator_101_Part4.pdf
+https://www.nagwa.com/en/videos/396146972902/
+https://www.youtube.com/watch?v=NX7GHqq28uU
+
+</details>
 
 
-DRONE1: https://www.youtube.com/watch?v=N_XneaFmOmU&list=WL&index=50
-https://www.youtube.com/watch?v=DeSDjjicGWY&list=WL&index=94
-
-PID: https://www.youtube.com/playlist?list=PLn8PRpmsu08pQBgjxYFXSsODEF3Jqmm-y
 
 
 
+
+
+<details> 
+<summary>Arduino advanced stuff</summary>
 
 Arduino drag and drop1: https://hackaday.com/2019/05/29/drag-and-drop-files-on-select-arduino-boards/
 Arduino drag and drop2: https://github.com/adafruit/Adafruit_TinyUSB_Arduino
 Arduino disk drive: https://www.reddit.com/r/arduino/comments/w4o8wn/esb32s3_nand_sd_storage_usb_msc_arduino_that/
-
-Magnetic Rottary encoder: https://github.com/ahmsville/Magnetic_rotary_encoding
-
-
-
-Higher Ghz freguencies for wireless power: https://www.researchgate.net/topic/Phased-Array~Wireless-Power-Transfer/publications
-Github traffic ligth link: https://hotcore.info/babki/traffic-light-circuit-diagram.html
-
-
-
-watch wrist: https://prisma.watch/watches/size-wrist/
-
-coil formulas: https://www.electronics-tutorials.ws/inductor/inductance.html
 Arduino tutorial: https://youtube.com/playlist?list=PLYutciIGBqC2HpO0gHoMoAgLhz5n6OoZx&si=6QKKEmos8cy7JVqG
-
-cellmap: https://www.cellmapper.net/map?MCC=226&MNC=5&type=LTE&latitude=-3.4566022650515293&longitude=7.064009686408099&zoom=6.369671292334867&showTowers=true&showIcons=true&showTowerLabels=true&clusterEnabled=true&tilesEnabled=true&showOrphans=false&showNoFrequencyOnly=false&showFrequencyOnly=false&showBandwidthOnly=false&DateFilterType=Last&showHex=false&showVerifiedOnly=false&showUnverifiedOnly=false&showLTECAOnly=false&showENDCOnly=false&showBand=0&showSectorColours=true&mapType=roadmap&darkMode=false&imperialUnits=false
 arduino eeprom: https://docs.arduino.cc/learn/programming/eeprom-guide/
 arduino-sd card: https://arduino.stackexchange.com/questions/84630/proper-micro-sd-card-schematic
-intel developer tehnical sheets: https://www.intel.com/content/www/us/en/developer/articles/technical/intel-sdm.html
-optics: https://opg.optica.org/oe/fulltext.cfm?uri=oe-30-9-15096&id=471568
-DRAM: https://hackaday.io/project/175774-homebrew-dynamic-ram-with-discrete-mosfets
-coilgun1: https://youtube.com/playlist?list=PLKl_Ihtuj1fpWz5WA09WJIgf677wJ2ihX&si=pw_s7M9z9sdtHSva
-
-
-
-esp BT: https://electropeak.com/learn/esp32-setup-wifi-connection-using-bluetooth/
-
-
-
-https://github.com/CarlBugeja/PCB-Motor-v4
-https://www.youtube.com/watch?v=NX7GHqq28uU
-animal repeller: https://blog.birdgard.es/the-best-ultrasonic-animal-repellers/
-arduino eeprom: https://docs.arduino.cc/learn/programming/eeprom-guide/
 https://lastminuteengineers.com/sim800l-gsm-module-arduino-tutorial/#google_vignette
+</details>
 
 
 
-https://generalguitargadgets.com/how-to-build-it/technical-help/schematics/
-https://www.youtube.com/@DiyguitarpedalsAu/videos
 
 
 
-https://youtube.com/playlist?list=PLaBr_WzeIAixidGwqfcrQlwKZX4RZ2E7D&si=YnpgZVkrEu1c8Eh1
-https://github.com/atomic14/kicad-coil-plugins?tab=readme-ov-file
-
-https://www.electronicshub.org/schmitt-trigger-basics/
-https://electronics.stackexchange.com/questions/171210/understanding-a-2-transistor-oscillator
-
-
+<details> 
+<summary>Arduino guitar pedal</summary>
 
 https://deepbluembedded.com/esp32-bluetooth-classic-with-arduino-complete-guide/?utm_content=cmp-true#google_vignette
 https://www.instructables.com/ESP32-BLE-Android-App-Arduino-IDE-AWESOME/
@@ -956,23 +912,7 @@ https://github.com/alf45tar/Pedalino
 https://github.com/espressif/esp-adf
 https://github.com/pschatzmann/arduino-audio-tools
 https://www.esp32.com/viewtopic.php?t=22755
-
-
-
-https://www.youtube.com/watch?v=5nTagij5wGY&list=WL&index=436
-
-https://www.sensortips.com/featured/how-can-a-machine-recognize-hand-gestures-faq/
-https://userpages.umbc.edu/~nroy/courses/fall2018/cmisr/papers/Finger_watch_HotMobile2015.pdf
-https://www.mdpi.com/2072-666X/10/10/692
-https://github.com/rheslip/Motivation-Radio-BLEMIDI
-
-https://www.st.com/resource/en/datasheet/stm32wb55cc.pdf
-https://www.st.com/resource/en/datasheet/mlpf-wb-01e3.pdf
-KEIL for stm32 programming alternative: https://www.youtube.com/playlist?list=PLtVUYRe-Z-mfKO0lg_-MBvwWl6VjWT8Dt
-
-https://en.wikipedia.org/wiki/Photochromic_lens
-
-https://embeddedprojects101.com/custom-stm32-development-board/
+</details>
 
 
 
@@ -981,51 +921,63 @@ https://embeddedprojects101.com/custom-stm32-development-board/
 
 
 
-https://www.ermicro.com/blog/?p=1908
-
-https://howtomechatronics.com/how-it-works/555-timer-ic-working-principle-block-diagram-circuit-schematics/#google_vignette
-
-
-
-
-
-https://hal.science/hal-01409233/file/CambridgeWPT_journal_preprint_5Oct2015.pdf
-https://www.google.com/search?q=electromagnet+coil%2C+series+vs+paralel&sca_esv=6269066d21daebf6&sca_upv=1&sxsrf=ADLYWIKO0LOTcSkkfk2Tz-CFaQD0sf_R0Q%3A1720271885322&ei=DUSJZrGzE5Dui-gP_NOkqA8&ved=0ahUKEwjx7ZCVwJKHAxUQ9wIHHfwpCfUQ4dUDCA8&uact=5&oq=electromagnet+coil%2C+series+vs+paralel&gs_lp=Egxnd3Mtd2l6LXNlcnAiJWVsZWN0cm9tYWduZXQgY29pbCwgc2VyaWVzIHZzIHBhcmFsZWwyCBAhGKABGMMEMggQIRigARjDBEi-NlAAWMAzcAV4AZABAJgBgAGgAaMSqgEEMi4xObgBA8gBAPgBAZgCGKACmhHCAggQABiABBiiBMICChAhGKABGMMEGAqYAwDiAwUSATEgQJIHBDYuMTigB7hQ&sclient=gws-wiz-serp
-http://performancemagnetics.com/images/BLDC_Generator_Design_Methodology_Performance_Magnetics_revI-2.pdf
-https://www.usna.edu/ESRDC/_files/documents/Vault/References/A%20brushless%20exciter%20model%20incorporating%20multiple%20rectifier%20modes%20and%20Preisachs%20hysteresis%20theory.pdf
-https://www.allaboutcircuits.com/tools/trace-resistance-calculator/
-https://electronics.stackexchange.com/questions/501516/calculate-resistance-of-coil-inductor-made-of-pcb-traces
-
-http://www.stevegs.com/music/stylophone/
-https://www.instructables.com/A-Stylophone/
-
-https://www.wtsoundic.com/voice-ic/
-
-
-https://www.youtube.com/@NesHacker
-
-https://www.youtube.com/playlist?list=PLtVUYRe-Z-mcjXXFBte61L8SjyI377VNq
-https://www.youtube.com/playlist?list=PLmXXQ1iFwiyJFM2NJW1ybWX5Fu_9Oo7p1
-https://youtube.com/playlist?list=PLERTijJOmYrA6iGZaWGyEJXpjzY0lRTC3&si=F1kre_QOrw3fhoiY
-https://www.youtube.com/playlist?list=PLmY3zqJJdVeNIZ8z_yw7Db9ej3FVG0iLy
-https://youtube.com/playlist?list=PLLHCjBf3JujDqQLd_6g1K4K7JD5uqig-2&si=QBfavs6NtdLQHKBX
-
-https://ps.buckeyepowersales.com/wp-content/uploads/2021/06/BPS_113_Generator_101_Part4.pdf
-https://www.nagwa.com/en/videos/396146972902/
-
-
-
-
-
-https://youtube.com/playlist?list=PLfExI9i0v1smd_mUgoib94t8KKap0X-zh&si=bRWUGNtiq3-EAwUm
-
-
+<details> 
+<summary>Distorsion pedal</summary>
 
 https://www.electrosmash.com/mxr-distortion-plus-analysis
 tudorsupica/TDS2
 https://effdubaudio.com/electra-distortion-schematic-and-layouts/
 https://www.youtube.com/watch?v=RXIqUyW2syU
+</details>
 
+
+
+
+
+
+<details> 
+<summary>Fligth controller</summary>
+
+- https://www.youtube.com/watch?v=rLDqQ2L_mUQ&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=247
+</details>
+
+
+
+
+
+
+<details> 
+<summary>Others</summary>
+
+
+Music stuff: https://www.youtube.com/watch?v=JAmw-TTG2Ds&list=WL&index=265
+Music stuff: https://www.youtube.com/watch?v=nF_OKrVmQM0&list=WL&index=136
+Fusion360: https://www.youtube.com/playlist?list=PL0fZjEQc8oaMEkOGcNvueT8lAZvcoKuie
+LORA: https://www.youtube.com/watch?v=dxYY097QNs0
+PID: https://www.youtube.com/playlist?list=PLn8PRpmsu08pQBgjxYFXSsODEF3Jqmm-y
+robochalange linefollower rules:https://robochallenge.ro/regulation/line-follower
+ESP32 powerconsumption: https://lastminuteengineers.com/esp32-sleep-modes-power-consumption/?utm_content=cmp-true
+[Smartwatch Example](https://circuitdigest.com/microcontroller-projects/diy-smartwatch-using-esp32-final-part)
+ESP32 OTA: https://www.youtube.com/watch?v=VyCG1MHdw3g&list=RDCMUCDGAg1pqcy8IScMqHHTy9Gg&index=28
+Magnetic Rottary encoder: https://github.com/ahmsville/Magnetic_rotary_encoding
+Github traffic ligth link: https://hotcore.info/babki/traffic-light-circuit-diagram.html
+watch wrist: https://prisma.watch/watches/size-wrist/
+esp BT: https://electropeak.com/learn/esp32-setup-wifi-connection-using-bluetooth/
+cellmap: https://www.cellmapper.net/map?MCC=226&MNC=5&type=LTE&latitude=-3.4566022650515293&longitude=7.064009686408099&zoom=6.369671292334867&showTowers=true&showIcons=true&showTowerLabels=true&clusterEnabled=true&tilesEnabled=true&showOrphans=false&showNoFrequencyOnly=false&showFrequencyOnly=false&showBandwidthOnly=false&DateFilterType=Last&showHex=false&showVerifiedOnly=false&showUnverifiedOnly=false&showLTECAOnly=false&showENDCOnly=false&showBand=0&showSectorColours=true&mapType=roadmap&darkMode=false&imperialUnits=false
+intel developer tehnical sheets: https://www.intel.com/content/www/us/en/developer/articles/technical/intel-sdm.html
+DRAM: https://hackaday.io/project/175774-homebrew-dynamic-ram-with-discrete-mosfets
+animal repeller: https://blog.birdgard.es/the-best-ultrasonic-animal-repellers/
+https://generalguitargadgets.com/how-to-build-it/technical-help/schematics/
+https://www.youtube.com/@DiyguitarpedalsAu/videos
+https://www.electronicshub.org/schmitt-trigger-basics/
+https://electronics.stackexchange.com/questions/171210/understanding-a-2-transistor-oscillator
+https://www.youtube.com/watch?v=5nTagij5wGY&list=WL&index=436
+https://www.ermicro.com/blog/?p=1908
+https://howtomechatronics.com/how-it-works/555-timer-ic-working-principle-block-diagram-circuit-schematics/#google_vignette
+https://www.wtsoundic.com/voice-ic/
+https://www.youtube.com/@NesHacker
+https://youtube.com/playlist?list=PLfExI9i0v1smd_mUgoib94t8KKap0X-zh&si=bRWUGNtiq3-EAwUm
+</details>
 
 
 

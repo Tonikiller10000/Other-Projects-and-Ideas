@@ -6,7 +6,7 @@ Every week this page get`s updated with new discovered stuff.
 
 ## News:
 This news section will be updated weekly after 17/8/2024.
-For now you have 5 mentions and 4 projects to look into.
+Some projects will resive a separate project file in witch I will make my own version of it.
 
 
 
@@ -239,6 +239,112 @@ If you want to make some speakers, here is how to make the [perfect](https://www
 
 
 
+<details> 
+<summary>Metal detector</summary>
+
+  Here are some links to find more about how the metal detectors work, types of detections and coils, and how to make your own:
+- https://www.youtube.com/watch?v=EcuTsifSgBs&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=80
+- https://www.youtube.com/watch?v=df8jFglzkNg&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=81
+- https://www.youtube.com/watch?v=WQjbAzRL6RQ&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=82
+- https://www.youtube.com/watch?v=7QJrI-9CCIw&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=83
+- https://www.youtube.com/watch?v=FmmYviJ45bM&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=84&t=6s
+- https://www.youtube.com/watch?v=yzrVHEB02Hw&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=85
+- https://bodhi3.wordpress.com/wp-content/uploads/2013/05/metaldetector.pdf
+- https://www.minelab.com/__files/f/11043/KBA_METAL_DETECTOR_BASICS_&_THEORY.pdf
+- https://www.ojp.gov/pdffiles1/nij/193510.pdf
+- https://www.ojp.gov/pdffiles1/nij/184433.pdf
+- https://www.hikvision.com/content/dam/hikvision/products/S000000001/S000002016/S000002037/S000002056/OFR003117/M000019671/User_Manual/NP-SG106-User-Manual.pdf
+- https://ro.scribd.com/document/439637837/PROJECT-REPORT-docx
+//put the : inside the metal detector file
+- https://ro.scribd.com/document/151432587/Metal-Detector
+- https://www.electroschematics.com/homemade-metal-detector/
+- https://www.learningaboutelectronics.com/Articles/How-to-build-a-metal-detector-circuit.php
+- https://www.circuitstoday.com/metal-detector-circuit#google_vignette
+- https://www.nutsvolts.com/magazine/article/build_a_four_transistor_metal_detector
+- https://www.hackster.io/mircemk/diy-simple-sensitive-ib-metal-detector-with-2xne555-ic-14a3bb
+- https://techsawco.com/simple-metal-detector-circuit/
+- https://www.satsleuth.com/Schematics.aspx?Category=Metal
+- https://www.homemade-circuits.com/how-to-make-simple-metal-detector/
+- https://circuitcellar.com/research-design-hub/projects/advanced-metal-detector/
+- https://www.talkingelectronics.com/projects/200TrCcts/MetalDetectors/MetalDetectors-1.html
+- https://fortresstechnology.com.br/wp-content/uploads/2022/06/FORTRESS_MetalDetectionBasics.pdf
+- https://www.allaboutcircuits.com/projects/metal-detector-with-arduino/
+- https://www.diva-portal.org/smash/get/diva2:1198542/FULLTEXT01.pdf
+- https://www.next.gr/sens-detectors/metal-detector-circuits/
+
+</details>
+
+
+
+
+
+
+
+
+<details> 
+  <summary>Centrifuge</summary>
+
+  Here are some links about how to make you\`r own centrifuge:
+  - https://www.youtube.com/watch?v=V-CQP5bLD6A&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=26&t=323s
+  - https://www.youtube.com/watch?v=sjDpubdTjUU&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=156
+  - https://www.youtube.com/watch?v=KEXWd3_fM94&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=157
+  - https://www.youtube.com/watch?v=EWWUqkEXJUE&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=123
+</details>
+
+
+
+
+
+
+
+<details> 
+  <summary>Arduino drums</summary>
+
+  Make a drums set with arduino and piezoelectric plates.
+  Here are some links to help you:
+  - https://www.instructables.com/Arduino-Minimal-Drum-Kit/
+  - https://open-e-drums.com/hardware.html
+  - https://github.com/RyoKosaka/HelloDrum-arduino-Library
+  - https://projecthub.arduino.cc/ryokosaka/minimal-midi-drum-kit-with-3d-printer-61e044
+  - https://www.instructables.com/MIDI-Arduino-Drums/
+  - https://www.youtube.com/watch?v=cDVI-QIp1Nc&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=71
+</details>
+
+
+
+
+
+
+<summary>Oxytorch</summary>
+
+  An oxytorch is a hidrogen torch fed with aditional oxygen for core power. The hidrogen adn oxygen are made with electrolisis and ready to "explode".
+  Here are some links to help you make an oxytorch:
+  - https://www.youtube.com/watch?v=d85OX6yEwE0&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=15
+  - https://www.youtube.com/watch?v=7M4yqcO_pPo&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=129&t=23s
+</details>
+
+
+
+
+
+
+
+<details> 
+  <summary>Homemade bearings</summary>
+
+  Homemade bearings:
+  - https://www.youtube.com/watch?v=eT8oQvHjzXE&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=36
+  - https://www.youtube.com/watch?v=HboIscftCL8&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=37
+  - https://www.youtube.com/watch?v=5Dkruh8NO9E&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=38
+  - https://www.youtube.com/watch?v=8V8MH2k8Igs&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=39
+  - https://www.youtube.com/watch?v=6hcl3mgk2tc&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=40
+  - https://www.youtube.com/watch?v=fdvRFE680u0&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=41
+  - https://www.youtube.com/watch?v=xg_iOEb2M00&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=25&t=8s
+  - https://www.youtube.com/watch?v=_MIx_vN2Dtk&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=26
+  - https://www.youtube.com/watch?v=UIhCPl8eb7s&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=27
+  - https://www.youtube.com/watch?v=5YIZaJnER_k&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=143
+  - https://www.youtube.com/watch?v=nRrHrB6gaoE&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=112
+</details>
 
 
 
@@ -248,20 +354,229 @@ If you want to make some speakers, here is how to make the [perfect](https://www
 
 
 
+<details> 
+  <summary>USB-C Power Delivery </summary>
+  Papers & videos:
+  - https://www.asme.org/topics-resources/content/explore-the-basics-of-usb-c-and-usb-power-delivery
+  - https://reclaimerlabs.com/
+  - https://www.usb.org/
+  - https://youtu.be/OwAZqJ4wpJg?si=BEcy-nQlTGwnmcvM
+  - https://www.youtube.com/watch?v=qV03FfdPHOw&list=WL&index=28
+  - https://learn.sparkfun.com/tutorials/power-delivery-board---usb-c-qwiic-hookup-guide/all
+  - https://circuitcellar.com/research-design-hub/basics-of-design/build-a-usb-c-power-supply/
+  - https://www.st.com/content/ccc/resource/sales_and_marketing/presentation/product_presentation/group0/5a/b1/8e/6c/2b/0d/46/3c/Apec/files/APEC_2016_USB_Power.pdf/_jcr_content/translations/en.APEC_2016_USB_Power.pdf
+  - https://community.infineon.com/t5/USB-EZ-PD-Type-C/USB-Power-Delivery-adjustable-voltage-mode/td-p/403013
+  - https://www.allaboutcircuits.com/technical-articles/introduction-to-usb-type-c-which-pins-power-delivery-data-transfer/
+
+  Hardware design:
+  - https://www.youtube.com/watch?v=W13HNsoHj7A
+  - [PowerBank](https://www.youtube.com/watch?v=yEbbhTw0kno&t=1s)
+  - https://www.youtube.com/watch?v=_WI9Nwqvplo
+  - https://www.ti.com/jp/lit/ml/slyp735/slyp735.pdf?ts=1714842921522&ref_url=https%253A%252F%252Fwww.google.com%252F
+  - https://www.ti.com/lit/wp/slyy145a/slyy145a.pdf?ts=1714828882912&ref_url=https%253A%252F%252Fwww.google.com%252F
+
+  PD triggers:
+  - https://www.youtube.com/watch?v=iumAnPiQSj8
+  - https://www.youtube.com/watch?v=DQLrZA5RMjQ
+
+  Datasheets:
+
+
+</details>
 
 
 
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
-## ///////////////// in construction ///////////////////
+
+
+<details> 
+  <summary>More about Ray tracing and 3D computer graphics</summary>
+
+  Here are some links:
+  - https://youtu.be/Qz0KTGYJtUk?si=5mbxZU7GKDcM89sX
+  - https://youtu.be/XCyh1y7Zk7I?si=9BFylkpTk0HCFGgf
+  - ray tracing: https://www.realtimerendering.com/raytracing/An-Introduction-to-Ray-Tracing-The-Morgan-Kaufmann-Series-in-Computer-Graphics-.pdf
+
+</details>
+
+
+
+
+
+
+
+<details> 
+  <summary>bioimpedance/ gesture recognition</summary>
+
+  Here are some links:
+  - https://www.researchgate.net/publication/354345374_Bioimpedance_Sensors_A_Tutorial
+  - https://pdf.sciencedirectassets.com/280203/1-s2.0-S1877050922X00136/1-s2.0-S1877050922015927/main.pdf?
+  - https://www.linkedin.com/pulse/building-hand-gesture-recognition-sensor-comprehensive-guide
+  - https://www.youtube.com/watch?v=DJ77HHtOL-8
+</details>
+
+
+
+
+
+
+
+<details> 
+  <summary>Logic Gates and Transistors</summary>
+
+  - https://electronics.stackexchange.com/questions/226023/cmos-and-gate-implementation
+  - https://electronics.stackexchange.com/questions/620622/why-do-we-need-transmission-gate-for-xor-transistor-level-design
+  - https://hackaday.io/project/175774/gallery#b4bdff73509e92bea2cbd55bb8642105
+  - https://www.reddit.com/r/beneater/comments/jdyd4z/a_4bit_register_using_npn_transistors/
+  - https://www.youtube.com/@GlobalScienceNetwork
+  - https://www.eevblog.com/forum/projects/full-adder-on-a-breadboard/
+
+  transistors: ---------------
+  - https://www.cs.bu.edu/~best/courses/modules/Transistors2Gates/
+  - http://hyperphysics.phy-astr.gsu.edu/hbase/Electronic/trangate.html#c1
+  - https://leetsacademy.blogspot.com/2017/04/logic-gates-condition-using-transistor.html
+  - https://pages.cs.wisc.edu/~sohi/cs252/Fall2012/lectures/lec03_digital_logic.pdf
+  - https://www.instructables.com/Dual-Logic-Transistor-Gates/
+
+
+</details>
+
+
+
+
+
+
+
+
+
+<details> 
+  <summary>Coil Gun</summary>
+
+  Coil Gun:
+  - https://www.youtube.com/watch?v=Xll9rIzZPeQ&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=90
+  - https://www.youtube.com/watch?v=s161wEcIfGM&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=158
+  - https://www.youtube.com/watch?v=KikIp_yAXvQ&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=160
+  - https://www.youtube.com/watch?v=MXLzC7Jo4hA&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=161
+  - https://www.youtube.com/watch?v=ReFUr3KuK40&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=162
+  - https://www.youtube.com/watch?v=_hRNFN5Hxzo&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=163&t=1s
+  - https://www.youtube.com/watch?v=TWeJsaCiGQ0&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=164&t=46s
+  - https://www.youtube.com/watch?v=Zm_oZZZBLj8&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=165
+  - https://www.youtube.com/watch?v=qXXYkxCSiUY&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=166&t=870s
+  - https://www.youtube.com/watch?v=r8YHxpa5cJA&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=167&t=337s
+  - https://www.youtube.com/watch?v=2B2ZEN2Qu-Q&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=168
+  - https://www.youtube.com/watch?v=JqCHuwemHYU&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=169
+  - https://www.youtube.com/watch?v=OdKDb0fnAb0&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=170&t=125s
+  - https://www.youtube.com/watch?v=pFFZcaWAxLg&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=171
+  - https://www.youtube.com/watch?v=9Z2_KcByZvM&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=172
+  - https://www.youtube.com/watch?v=_4TGb3MsSjE&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=173&t=318s
+  - https://www.youtube.com/watch?v=UWqMRJZEqRA&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=174
+  - https://www.youtube.com/watch?v=vtoWxGVx5kA&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=175
+  - https://www.youtube.com/watch?v=id90kjYh-Qw&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=176&t=247s
+  - https://www.youtube.com/watch?v=PMU9TQUDhow&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=177
+  - https://www.youtube.com/watch?v=QTDcFxTq1Fw&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=178&t=1162s
+</details>
+
+
+
+
+
+
+
+
+<details> 
+  <summary>What do you need to fly a drone</summary>
+
+  Links:
+  - [legislatie zbor cu drona in ROMANIA](https://www.youtube.com/watch?v=lWt6r363AkY&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=236)
+  - [legislatie zbor cu drona in ROMANIA](https://www.youtube.com/watch?v=MWd5waix_OU&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=244&t=560s)
+  - [legislatie zbor cu drona in RO + EU](https://www.youtube.com/watch?v=P1GxJ2GM1RE&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=238)
+  - [drone regulations in EU 1](https://www.youtube.com/watch?v=YVvkAG-9UJE&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=239&t=12s)
+  - [drone regulations in EU 2](https://www.youtube.com/watch?v=Cb6jF1VytRk&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=240)
+  - [drone regulations in EU 3](https://www.youtube.com/watch?v=rgn8VKrG6pw&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=241)
+  - [drone regulations in EU 4](https://www.youtube.com/watch?v=rekcJuTpZb0&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=242)
+  - [drone regulations in EU 5](https://www.youtube.com/watch?v=KZoaMVEDjmE&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=243&t=347s)
+  - [drone regulations in EU 6](https://www.youtube.com/watch?v=UZfZWETPYAc&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=245&t=173s)
+  - [drone regulations in EU 7](https://www.youtube.com/watch?v=vHXszLsQMvs&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=246)
+
+</details>
+
+
+
+
+
+
+
+
+<details> 
+  <summary>Aplication Specific Integrated Circuits (ASIC/`s)</summary>
+
+  - ASIC1: https://docs.google.com/document/d/1H3jA7guvXT7toEvUObOQ1viQ6Qz_QSGDiJ5OBS2pDEI/edit#heading=h.ry34bfjf6w62
+  - ASIC2: https://app.siliwiz.com/?preset=blank
+  - ASIC3: https://www.youtube.com/watch?v=69mdJv6fWXE
+  - ASIC4: https://www.youtube.com/watch?v=FMdYuGpPicw&list=WL&index=69&t=19s
+  - ASIC5: https://www.youtube.com/watch?v=lq2BpWwcyQM
+  - Verilog1: https://www.youtube.com/watch?v=Q99vxvszktI&t=1034s
+  - Electronoobs FPGA: https://www.youtube.com/playlist?list=PLsR1AO4QH1AyT3b0pUERjFVShbzEelogi
+  - ICEStudio FPGA Great scott: https://www.youtube.com/watch?v=ZNunxg7o8l0
+  - Phil`s lab FPGA`s: https://www.youtube.com/playlist?list=PLXSyc11qLa1ZutrEG2XmyWrNz17SSQTdH
+  - FPGA2: https://www.youtube.com/watch?v=Wsou_zhCEYQ
+  - VERILOG2: https://www.youtube.com/watch?v=aWm9pJ2KobA
+  - FPGA3: https://www.youtube.com/playlist?list=PLEBQazB0HUyT1WmMONxRZn9NmQ_9CIKhb
+  - Reverse engeneering: https://www.youtube.com/watch?v=ICykppClja8&list=WL&index=177&t=299s
+
+</details>
+
+
+
+
+
+
+
+
+<details> 
+  <summary>Field Programable Gate Arreys (FPGA/`s) & Verilog</summary>
+
+  Verilog/fpga:
+  - https://www.youtube.com/playlist?list=PLn8PRpmsu08pQBgjxYFXSsODEF3Jqmm-y
+  - https://www.fpga4fun.com/Opto.html
+  - https://www.fpga4student.com/p/fpga-projects.html
+  - https://zipcpu.com/tutorial/
+  - https://www.cas.mcmaster.ca/~lawford/3TB4/ref/VerilogPresent-v1.3.pdf
+  - http://classweb.ece.umd.edu/enee359a/verilog_tutorial.pdf
+  - https://www.chipverify.com/tutorials/systemverilog#google_vignette
+  - https://www.youtube.com/playlist?list=PL3Soy1ohxlP1TLpcbYXYcVWItRy_XrUk8
+  - https://www.javatpoint.com/verilog
+  - https://www.youtube.com/watch?v=i0xgt46Q2ts&list=WL&index=115&t=2s
+
+</details>
+
+
+
+
+
+
+
+
+
+<details> 
+  <summary>ESP32 higth frequency generator for Ultrasonic Phased Array</summary>
+
+- ESP32 delay1: https://community.platformio.org/t/how-to-delay-microseconds-on-esp32-under-a-free-rtos-task/29540/7
+- ESP32 delay2: https://esp32.com/viewtopic.php?t=29883
+- ESP32 delay3: https://www.esp32.com/viewtopic.php?f=13&t=2214
+- ESP32 delay4: https://www.esp32.com/viewtopic.php?t=16100
+- ESP32 delay5: https://esp32.com/viewtopic.php?t=16861
+- ESP32 delay6: https://www.reddit.com/r/esp32/comments/i07em9/need_to_have_sub_microsecond_delay_precision/
+- ESP32 delay7: https://esp32developer.com/programming-in-c-c/delays/delays
+- ESP32 delay8: https://www.esp32.com/viewtopic.php?t=16100
+- ESP32 delay9: https://esp32.com/viewtopic.php?t=16861
+</details>
+
+
+
+
+
 
 
 <details> 
@@ -291,10 +606,13 @@ Hardware design:
 - https://electronoobs.com/eng_circuitos_tut58_sch2.php#google_vignette
 - https://electronoobs.com/eng_circuitos_tut58_sch1.php
 
+
+???:
+- https://www.rcciit.org/students_projects/projects/ee/2023/GR2.pdf
+- https://www.circuits-diy.com/wireless-gadgets-charger-circuit/
+- https://www.circuits-diy.com/wireless-led-circuit/
+
 </details>
-
-
-
 
 
 
@@ -345,300 +663,9 @@ Electrospinning:
 
 </details>
 
-<details> 
 
 
 
-
-
-
-
-
-<summary>Oxytorch</summary>
-You can make an oxytorch by separring hydrogen and oxygen with electrolisis, and burning it at an higher pressure
-
-Oxytorch:
-- https://www.youtube.com/watch?v=d85OX6yEwE0&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=15
-- https://www.youtube.com/watch?v=7M4yqcO_pPo&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=129&t=23s
-</details>
-<details> 
-<summary>Homemade bearings</summary>
-Homemade bearings:
-- https://www.youtube.com/watch?v=eT8oQvHjzXE&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=36
-- https://www.youtube.com/watch?v=HboIscftCL8&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=37
-- https://www.youtube.com/watch?v=5Dkruh8NO9E&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=38
-- https://www.youtube.com/watch?v=8V8MH2k8Igs&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=39
-- https://www.youtube.com/watch?v=6hcl3mgk2tc&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=40
-- https://www.youtube.com/watch?v=fdvRFE680u0&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=41
-- https://www.youtube.com/watch?v=xg_iOEb2M00&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=25&t=8s
-- https://www.youtube.com/watch?v=_MIx_vN2Dtk&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=26
-- https://www.youtube.com/watch?v=UIhCPl8eb7s&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=27
-- https://www.youtube.com/watch?v=5YIZaJnER_k&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=143
-- https://www.youtube.com/watch?v=nRrHrB6gaoE&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=112
-</details>
-
-<details> 
-<summary>Coil Gun</summary>
-
-Coil Gun:
-- https://www.youtube.com/watch?v=Xll9rIzZPeQ&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=90
-- https://www.youtube.com/watch?v=s161wEcIfGM&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=158
-- https://www.youtube.com/watch?v=KikIp_yAXvQ&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=160
-- https://www.youtube.com/watch?v=MXLzC7Jo4hA&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=161
-- https://www.youtube.com/watch?v=ReFUr3KuK40&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=162
-- https://www.youtube.com/watch?v=_hRNFN5Hxzo&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=163&t=1s
-- https://www.youtube.com/watch?v=TWeJsaCiGQ0&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=164&t=46s
-- https://www.youtube.com/watch?v=Zm_oZZZBLj8&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=165
-- https://www.youtube.com/watch?v=qXXYkxCSiUY&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=166&t=870s
-- https://www.youtube.com/watch?v=r8YHxpa5cJA&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=167&t=337s
-- https://www.youtube.com/watch?v=2B2ZEN2Qu-Q&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=168
-- https://www.youtube.com/watch?v=JqCHuwemHYU&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=169
-- https://www.youtube.com/watch?v=OdKDb0fnAb0&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=170&t=125s
-- https://www.youtube.com/watch?v=pFFZcaWAxLg&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=171
-- https://www.youtube.com/watch?v=9Z2_KcByZvM&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=172
-- https://www.youtube.com/watch?v=_4TGb3MsSjE&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=173&t=318s
-- https://www.youtube.com/watch?v=UWqMRJZEqRA&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=174
-- https://www.youtube.com/watch?v=vtoWxGVx5kA&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=175
-- https://www.youtube.com/watch?v=id90kjYh-Qw&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=176&t=247s
-- https://www.youtube.com/watch?v=PMU9TQUDhow&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=177
-- https://www.youtube.com/watch?v=QTDcFxTq1Fw&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=178&t=1162s
-</details>
-
-
-<details> 
-<summary>Metal detector</summary>
-
-Metal detection:
-- https://www.youtube.com/watch?v=EcuTsifSgBs&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=80
-- https://www.youtube.com/watch?v=df8jFglzkNg&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=81
-- https://www.youtube.com/watch?v=WQjbAzRL6RQ&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=82
-- https://www.youtube.com/watch?v=7QJrI-9CCIw&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=83
-- https://www.youtube.com/watch?v=FmmYviJ45bM&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=84&t=6s
-- https://www.youtube.com/watch?v=yzrVHEB02Hw&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=85
-</details>
-<details> 
-<summary>Centrifuge</summary>
-
-Centrifuge:
-- https://www.youtube.com/watch?v=V-CQP5bLD6A&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=26&t=323s
-- https://www.youtube.com/watch?v=sjDpubdTjUU&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=156
-- https://www.youtube.com/watch?v=KEXWd3_fM94&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=157
-- https://www.youtube.com/watch?v=EWWUqkEXJUE&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=123
-</details>
-
-
-
-
-
-
-Helicopters & drones:
-- https://www.youtube.com/watch?v=EMaR7PznE_s&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=31
-- https://www.youtube.com/watch?v=aRotBcoHuX4&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=32
-- https://www.youtube.com/watch?v=6B-GIVMU340&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=33
-- https://www.youtube.com/watch?v=d80oXSCcHTk&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=332&t=43s
-- https://www.youtube.com/watch?v=7xPIISLNp8Q&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=333
-- https://www.youtube.com/watch?v=2tdnqZgKa0E&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=334
-- https://www.youtube.com/watch?v=zY68Nf9Cobs&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=335&t=14s
-- https://www.youtube.com/watch?v=AZUkmMksnSI
-
-
-
-Fligth controller:
-- https://www.youtube.com/watch?v=rLDqQ2L_mUQ&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=247
-
-
-
-[legislatie zbor cu drona in ROMANIA](https://www.youtube.com/watch?v=lWt6r363AkY&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=236)
-[legislatie zbor cu drona in RO + EU](https://www.youtube.com/watch?v=P1GxJ2GM1RE&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=238)
-[drone regulations in EU 1](https://www.youtube.com/watch?v=YVvkAG-9UJE&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=239&t=12s)
-[drone regulations in EU 2](https://www.youtube.com/watch?v=Cb6jF1VytRk&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=240)
-[drone regulations in EU 3](https://www.youtube.com/watch?v=rgn8VKrG6pw&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=241)
-[drone regulations in EU 4](https://www.youtube.com/watch?v=rekcJuTpZb0&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=242)
-[drone regulations in EU 5](https://www.youtube.com/watch?v=KZoaMVEDjmE&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=243&t=347s)
-[legislatie zbor cu drona in RO](https://www.youtube.com/watch?v=MWd5waix_OU&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=244&t=560s)
-[drone regulations in EU 6](https://www.youtube.com/watch?v=UZfZWETPYAc&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=245&t=173s)
-[drone regulations in EU 7](https://www.youtube.com/watch?v=vHXszLsQMvs&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=246)
-
-
-
-
-
-
-
-
-
-
-
-https://www.youtube.com/watch?v=jFUBblZgXwU&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=212
-https://www.youtube.com/watch?v=0a00gb0n_po&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=213
-https://www.youtube.com/watch?v=UkPLu6mgdWA&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=227
-https://www.youtube.com/watch?v=_muUXPfTgq8&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=226
-
-
-
-https://www.youtube.com/watch?v=pUba126uzvU&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=232
-https://www.youtube.com/watch?v=KLEH8RJsYgI&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=235
-
-
-
-
-
-
-
-
-
-
-
-
-future separate: 
-
-
-
-
-<details> 
-<summary>USB-C Power Delivery </summary>
-Papers & videos:
-- https://www.asme.org/topics-resources/content/explore-the-basics-of-usb-c-and-usb-power-delivery
-- https://reclaimerlabs.com/
-- https://www.usb.org/
-- https://youtu.be/OwAZqJ4wpJg?si=BEcy-nQlTGwnmcvM
-- https://www.youtube.com/watch?v=qV03FfdPHOw&list=WL&index=28
-- https://learn.sparkfun.com/tutorials/power-delivery-board---usb-c-qwiic-hookup-guide/all
-- https://circuitcellar.com/research-design-hub/basics-of-design/build-a-usb-c-power-supply/
-- https://www.st.com/content/ccc/resource/sales_and_marketing/presentation/product_presentation/group0/5a/b1/8e/6c/2b/0d/46/3c/Apec/files/APEC_2016_USB_Power.pdf/_jcr_content/translations/en.APEC_2016_USB_Power.pdf
-- https://community.infineon.com/t5/USB-EZ-PD-Type-C/USB-Power-Delivery-adjustable-voltage-mode/td-p/403013
-- https://www.allaboutcircuits.com/technical-articles/introduction-to-usb-type-c-which-pins-power-delivery-data-transfer/
-
-Hardware design:
-- https://www.youtube.com/watch?v=W13HNsoHj7A
-- [PowerBank](https://www.youtube.com/watch?v=yEbbhTw0kno&t=1s)
-- https://www.youtube.com/watch?v=_WI9Nwqvplo
-- https://www.ti.com/jp/lit/ml/slyp735/slyp735.pdf?ts=1714842921522&ref_url=https%253A%252F%252Fwww.google.com%252F
-- https://www.ti.com/lit/wp/slyy145a/slyy145a.pdf?ts=1714828882912&ref_url=https%253A%252F%252Fwww.google.com%252F
-
-PD triggers:
-- https://www.youtube.com/watch?v=iumAnPiQSj8
-- https://www.youtube.com/watch?v=DQLrZA5RMjQ
-
-Datasheets:
-
-
-</details>
-
-
-
-
-
-
-<details> 
-<summary>Arduino drums</summary>
-Make drums with arduino and piezoelectric plates.
-
-Links:
-- https://www.instructables.com/Arduino-Minimal-Drum-Kit/
-- https://open-e-drums.com/hardware.html
-- https://github.com/RyoKosaka/HelloDrum-arduino-Library
-- https://projecthub.arduino.cc/ryokosaka/minimal-midi-drum-kit-with-3d-printer-61e044
-- https://www.instructables.com/MIDI-Arduino-Drums/
-- https://www.youtube.com/watch?v=cDVI-QIp1Nc&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=71
-</details>
-
-
-
-
-
-
-
-
-
-
-
-<details> 
-<summary>Metal detector</summary>
-
-Metal detection:
-- https://www.youtube.com/watch?v=EcuTsifSgBs&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=80
-- https://www.youtube.com/watch?v=df8jFglzkNg&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=81
-- https://www.youtube.com/watch?v=WQjbAzRL6RQ&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=82
-- https://www.youtube.com/watch?v=7QJrI-9CCIw&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=83
-- https://www.youtube.com/watch?v=FmmYviJ45bM&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=84&t=6s
-- https://www.youtube.com/watch?v=yzrVHEB02Hw&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=85
-- https://bodhi3.wordpress.com/wp-content/uploads/2013/05/metaldetector.pdf
-- https://www.minelab.com/__files/f/11043/KBA_METAL_DETECTOR_BASICS_&_THEORY.pdf
-- https://www.ojp.gov/pdffiles1/nij/193510.pdf
-- https://www.ojp.gov/pdffiles1/nij/184433.pdf
-- https://www.hikvision.com/content/dam/hikvision/products/S000000001/S000002016/S000002037/S000002056/OFR003117/M000019671/User_Manual/NP-SG106-User-Manual.pdf
-- https://ro.scribd.com/document/439637837/PROJECT-REPORT-docx
-//put the : inside the metal detector file
-- https://ro.scribd.com/document/151432587/Metal-Detector
-- https://www.electroschematics.com/homemade-metal-detector/
-- https://www.learningaboutelectronics.com/Articles/How-to-build-a-metal-detector-circuit.php
-- https://www.circuitstoday.com/metal-detector-circuit#google_vignette
-- https://www.nutsvolts.com/magazine/article/build_a_four_transistor_metal_detector
-- https://www.hackster.io/mircemk/diy-simple-sensitive-ib-metal-detector-with-2xne555-ic-14a3bb
-- https://techsawco.com/simple-metal-detector-circuit/
-- https://www.satsleuth.com/Schematics.aspx?Category=Metal
-- https://www.homemade-circuits.com/how-to-make-simple-metal-detector/
-- https://circuitcellar.com/research-design-hub/projects/advanced-metal-detector/
-- https://www.talkingelectronics.com/projects/200TrCcts/MetalDetectors/MetalDetectors-1.html
-- https://fortresstechnology.com.br/wp-content/uploads/2022/06/FORTRESS_MetalDetectionBasics.pdf
-- https://www.allaboutcircuits.com/projects/metal-detector-with-arduino/
-- https://www.diva-portal.org/smash/get/diva2:1198542/FULLTEXT01.pdf
-- https://www.next.gr/sens-detectors/metal-detector-circuits/
-
-</details>
-
-
-
-
-<details> 
-<summary>Ray tracing and 3D computer graphics</summary>
-
-- https://youtu.be/Qz0KTGYJtUk?si=5mbxZU7GKDcM89sX
-- https://youtu.be/XCyh1y7Zk7I?si=9BFylkpTk0HCFGgf
-
-</details>
-
-
-
-
-
-<details> 
-<summary>Aplication Specific Integrated Circuits (ASIC/`s)</summary>
-
-- ASIC1: https://docs.google.com/document/d/1H3jA7guvXT7toEvUObOQ1viQ6Qz_QSGDiJ5OBS2pDEI/edit#heading=h.ry34bfjf6w62
-- ASIC2: https://app.siliwiz.com/?preset=blank
-- ASIC3: https://www.youtube.com/watch?v=69mdJv6fWXE
-- ASIC4: https://www.youtube.com/watch?v=FMdYuGpPicw&list=WL&index=69&t=19s
-- ASIC5: https://www.youtube.com/watch?v=lq2BpWwcyQM
-- Verilog1: https://www.youtube.com/watch?v=Q99vxvszktI&t=1034s
-- Electronoobs FPGA: https://www.youtube.com/playlist?list=PLsR1AO4QH1AyT3b0pUERjFVShbzEelogi
-- ICEStudio FPGA Great scott: https://www.youtube.com/watch?v=ZNunxg7o8l0
-- Phil`s lab FPGA`s: https://www.youtube.com/playlist?list=PLXSyc11qLa1ZutrEG2XmyWrNz17SSQTdH
-- FPGA2: https://www.youtube.com/watch?v=Wsou_zhCEYQ
-- VERILOG2: https://www.youtube.com/watch?v=aWm9pJ2KobA
-- FPGA3: https://www.youtube.com/playlist?list=PLEBQazB0HUyT1WmMONxRZn9NmQ_9CIKhb
-- Reverse engeneering: https://www.youtube.com/watch?v=ICykppClja8&list=WL&index=177&t=299s
-
-</details>
-
-
-<details> 
-<summary>Field Programable Gate Arreys (FPGA/`s) & Verilog</summary>
-
-Verilog/fpga:
-- https://www.youtube.com/playlist?list=PLn8PRpmsu08pQBgjxYFXSsODEF3Jqmm-y
-- https://www.fpga4fun.com/Opto.html
-- https://www.fpga4student.com/p/fpga-projects.html
-- https://zipcpu.com/tutorial/
-- https://www.cas.mcmaster.ca/~lawford/3TB4/ref/VerilogPresent-v1.3.pdf
-- http://classweb.ece.umd.edu/enee359a/verilog_tutorial.pdf
-- https://www.chipverify.com/tutorials/systemverilog#google_vignette
-- https://www.youtube.com/playlist?list=PL3Soy1ohxlP1TLpcbYXYcVWItRy_XrUk8
-- https://www.javatpoint.com/verilog
-- https://www.youtube.com/watch?v=i0xgt46Q2ts&list=WL&index=115&t=2s
-
-</details>
 
 
 
@@ -654,6 +681,9 @@ Verilog/fpga:
 
 
 
+
+
+
 <details> 
 <summary>AM radio transmitter/reciver</summary>
 
@@ -661,30 +691,57 @@ Verilog/fpga:
 - https://www.instructables.com/Simple-AM-Radio-Transmitter-Receiver/
 - https://www.wellpcb.com/am-radio-schematic.html
 - https://www.instructables.com/AM-Radio-Transmitter-Op-Amp-Based/
+- https://www.circuitbasics.com/what-are-am-radios/
+- https://www.circuits-diy.com/simple-am-receiver-circuit/
+- https://www.circuitbasics.com/amplitude-modulated-transmitters/
+- https://www.youtube.com/watch?v=3I_e7gIyfQg
+- https://circuit-zone.com/index.php?cat=am-radio
 </details>
+
+
 
 
 
 
 
 <details> 
-<summary>Logic Gates and Transistors</summary>
+<summary>SMARTWATCH calling/messageing</summary>
 
-- https://electronics.stackexchange.com/questions/226023/cmos-and-gate-implementation
-- https://electronics.stackexchange.com/questions/620622/why-do-we-need-transmission-gate-for-xor-transistor-level-design
-- https://hackaday.io/project/175774/gallery#b4bdff73509e92bea2cbd55bb8642105
-- https://www.reddit.com/r/beneater/comments/jdyd4z/a_4bit_register_using_npn_transistors/
-- https://www.youtube.com/@GlobalScienceNetwork
-- https://www.eevblog.com/forum/projects/full-adder-on-a-breadboard/
-
-transistors: ---------------
-- https://www.cs.bu.edu/~best/courses/modules/Transistors2Gates/
-- http://hyperphysics.phy-astr.gsu.edu/hbase/Electronic/trangate.html#c1
-- https://leetsacademy.blogspot.com/2017/04/logic-gates-condition-using-transistor.html
-- https://pages.cs.wisc.edu/~sohi/cs252/Fall2012/lectures/lec03_digital_logic.pdf
-- https://www.instructables.com/Dual-Logic-Transistor-Gates/
+- https://randomnerdtutorials.com/esp32-send-messages-whatsapp/
+- https://randomnerdtutorials.com/micropython-whatsapp-esp32-esp826/
+- https://github.com/hafidhh/Callmebot-ESP-Client#-description
+- https://www.reddit.com/r/esp32/comments/p5aezt/push_a_button_to_record_a_voice_message_which_is/
+</details>
 
 
+
+
+
+
+
+<details> 
+<summary>VACCUM CHAMBER</summary>
+
+- https://www.youtube.com/watch?v=jFUBblZgXwU&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=212
+- https://www.youtube.com/watch?v=0a00gb0n_po&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=213
+- https://www.youtube.com/watch?v=UkPLu6mgdWA&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=227
+- https://www.youtube.com/watch?v=_muUXPfTgq8&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=226
+</details>
+
+
+
+
+
+
+
+
+<details> 
+<summary>Small linefollower with op amp</summary>
+
+- Example of it: https://www.youtube.com/watch?v=zZmvL0TkllI&list=WL&index=15&t=25s
+- OP Amps1: https://www.youtube.com/watch?v=jHLQjusZP1Y
+- OP Amps2: https://www.youtube.com/watch?v=JLVGeyUeQrA
+- OP Amps3: https://youtu.be/kitY9FFFNa4?si=T0teV7MBQlR8uU-g
 </details>
 
 
@@ -695,11 +752,69 @@ transistors: ---------------
 
 
 
+<details> 
+<summary>STM32</summary>
+
+[STM product selector](https://www.st.com/content/st_com/en/stm32-mcu-product-selector.html)
+[STM tutorial electronoobs](https://electronoobs.com/eng_arduino_tut152.php)
+[IC1 datasheet](https://www.st.com/resource/en/datasheet/stm32wb5mmg.pdf)
+[IC2 datasheet](https://www.st.com/resource/en/datasheet/stm32wb09ke.pdf)
+[IC3 datasheet](https://www.st.com/resource/en/datasheet/stm32wb55cc.pdf)
+[IC4 datasheet](https://www.st.com/resource/en/datasheet/stm32wba52ce.pdf)
+
+[STM32F103 github](https://github.com/dhylands/stm32-test/tree/master/board-STM32F103-Mini)
+[STM32F103 about](https://stm32-base.org/boards/STM32F103C8T6-Blue-Pill.html)
+[STM32F103 general](https://mischianti.org/stm32f103c6t6-high-resolution-pinout-and-specs/)
+[STM32F103 electronoobs](https://electronoobs.com/eng_arduino_tut152.php)
+[STM32F103 LANDBOARDS](https://land-boards.com/blwiki/index.php?title=STM32_Blue_Pill#Blue_Pill_Card_Schematic)
+
+
+stm32wb55xx datasheet: https://www.st.com/resource/en/datasheet/stm32wb55cc.pdf
+stm32f103xx datasheet: https://eu.mouser.com/datasheet/2/389/stm32f103c4-1851082.pdf
+STM32F103 - PDF Documentation: https://www.st.com/en/microcontrollers-microprocessors/stm32f103/documentation.html
+STM32CubeMX download:https://www.st.com/en/development-tools/stm32cubemx.html
+
+
+stm32 programming tutorial1: https://www.youtube.com/playlist?list=PLmXXQ1iFwiyJFM2NJW1ybWX5Fu_9Oo7p1
+stm32 tutorial1: https://www.youtube.com/watch?v=wLwKgMBWhpY&t=233s
+</details>
 
 
 
 
 
+
+
+
+
+<br>
+<br>
+<br>
+<br>
+
+## ///////////////// in construction ///////////////////
+
+<br>
+<br>
+<br>
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<details> 
 Helicopters & drones:
 - https://www.youtube.com/watch?v=EMaR7PznE_s&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=31
 - https://www.youtube.com/watch?v=aRotBcoHuX4&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=32
@@ -717,107 +832,30 @@ Fligth controller:
 
 
 
-[legislatie zbor cu drona in ROMANIA](https://www.youtube.com/watch?v=lWt6r363AkY&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=236)
-[legislatie zbor cu drona in RO + EU](https://www.youtube.com/watch?v=P1GxJ2GM1RE&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=238)
-[drone regulations in EU 1](https://www.youtube.com/watch?v=YVvkAG-9UJE&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=239&t=12s)
-[drone regulations in EU 2](https://www.youtube.com/watch?v=Cb6jF1VytRk&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=240)
-[drone regulations in EU 3](https://www.youtube.com/watch?v=rgn8VKrG6pw&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=241)
-[drone regulations in EU 4](https://www.youtube.com/watch?v=rekcJuTpZb0&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=242)
-[drone regulations in EU 5](https://www.youtube.com/watch?v=KZoaMVEDjmE&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=243&t=347s)
-[legislatie zbor cu drona in RO](https://www.youtube.com/watch?v=MWd5waix_OU&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=244&t=560s)
-[drone regulations in EU 6](https://www.youtube.com/watch?v=UZfZWETPYAc&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=245&t=173s)
-[drone regulations in EU 7](https://www.youtube.com/watch?v=vHXszLsQMvs&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=246)
-
-
-
-
-
-
-
-
-
-
-
-https://www.youtube.com/watch?v=jFUBblZgXwU&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=212
-https://www.youtube.com/watch?v=0a00gb0n_po&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=213
-https://www.youtube.com/watch?v=UkPLu6mgdWA&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=227
-https://www.youtube.com/watch?v=_muUXPfTgq8&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=226
-
-
-
+submarine
 https://www.youtube.com/watch?v=pUba126uzvU&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=232
 https://www.youtube.com/watch?v=KLEH8RJsYgI&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=235
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 https://youtube.com/playlist?list=PLnMKNibPkDnHZyJtMRpWSs41CWhPouRwq&si=9lBe6EzjdbaaY6fG
 https://coil32.net/pcb-coil.html
+
+
+
 Music:
 https://www.youtube.com/watch?v=JAmw-TTG2Ds&list=WL&index=265
+https://www.youtube.com/watch?v=nF_OKrVmQM0&list=WL&index=136
 
 
 
 
-
-
-
-1 2 3 4 5 6
-...
-
-
-AM radio transmitter/reciver:
-https://www.homemade-circuits.com/simplest-am-radio-receiver-with-speaker/
-https://www.instructables.com/Simple-AM-Radio-Transmitter-Receiver/
-https://www.wellpcb.com/am-radio-schematic.html
-https://www.instructables.com/AM-Radio-Transmitter-Op-Amp-Based/
-
-
-stm32wb55xx datasheet: https://www.st.com/resource/en/datasheet/stm32wb55cc.pdf
-stm32f103xx datasheet: https://eu.mouser.com/datasheet/2/389/stm32f103c4-1851082.pdf
-STM32F103 - PDF Documentation: https://www.st.com/en/microcontrollers-microprocessors/stm32f103/documentation.html
-STM32CubeMX download:https://www.st.com/en/development-tools/stm32cubemx.html
-
-
-stm32 programming tutorial1: https://www.youtube.com/playlist?list=PLmXXQ1iFwiyJFM2NJW1ybWX5Fu_9Oo7p1
-stm32 tutorial1: https://www.youtube.com/watch?v=wLwKgMBWhpY&t=233s
 
 Fusion360: https://www.youtube.com/playlist?list=PL0fZjEQc8oaMEkOGcNvueT8lAZvcoKuie
 
-ESP32 delay1??: https://community.platformio.org/t/how-to-delay-microseconds-on-esp32-under-a-free-rtos-task/29540/7
-ESP32 delay2??: https://esp32.com/viewtopic.php?t=29883
-ESP32 delay3??: https://www.esp32.com/viewtopic.php?f=13&t=2214
-ESP32 delay4??: https://www.esp32.com/viewtopic.php?t=16100
-ESP32 delay5??: https://esp32.com/viewtopic.php?t=16861
-ESP32 delay6??: https://www.reddit.com/r/esp32/comments/i07em9/need_to_have_sub_microsecond_delay_precision/
-ESP32 delay7??: https://esp32developer.com/programming-in-c-c/delays/delays
-ESP32 delay8??: https://www.esp32.com/viewtopic.php?t=16100
-ESP32 delay9??: https://esp32.com/viewtopic.php?t=16861
+
 ESP32 powerconsumption: https://lastminuteengineers.com/esp32-sleep-modes-power-consumption/?utm_content=cmp-true
-
-
-## Other interesting projects:
 
 
 
@@ -827,81 +865,16 @@ ESP32 OTA: https://www.youtube.com/watch?v=VyCG1MHdw3g&list=RDCMUCDGAg1pqcy8IScM
 robochalange linefollower rules:https://robochallenge.ro/regulation/line-follower
 
 
-[STM product selector](https://www.st.com/content/st_com/en/stm32-mcu-product-selector.html)
-[STM tutorial electronoobs](https://electronoobs.com/eng_arduino_tut152.php)
-[IC1 datasheet](https://www.st.com/resource/en/datasheet/stm32wb5mmg.pdf)
-[IC2 datasheet](https://www.st.com/resource/en/datasheet/stm32wb09ke.pdf)
-[IC3 datasheet](https://www.st.com/resource/en/datasheet/stm32wb55cc.pdf)
-[IC4 datasheet](https://www.st.com/resource/en/datasheet/stm32wba52ce.pdf)
-
-[STM32F103 github](https://github.com/dhylands/stm32-test/tree/master/board-STM32F103-Mini)
-[STM32F103 about](https://stm32-base.org/boards/STM32F103C8T6-Blue-Pill.html)
-[STM32F103 general](https://mischianti.org/stm32f103c6t6-high-resolution-pinout-and-specs/)
-[STM32F103 electronoobs](https://electronoobs.com/eng_arduino_tut152.php)
-[STM32F103 LANDBOARDS](https://land-boards.com/blwiki/index.php?title=STM32_Blue_Pill#Blue_Pill_Card_Schematic)
 
 
 
-
-
-
-
-
-
-
-
-
-
-Music:
-[](https://www.youtube.com/watch?v=nF_OKrVmQM0&list=WL&index=136)
 
 
 LORA: https://www.youtube.com/watch?v=dxYY097QNs0
 
 
-Optics:
-Rings lens: https://youtu.be/SS2AbZVdk2A?si=AlZJvmQ0D0xlEcLA
-Rings basics: https://www.youtube.com/watch?v=DDoryfCXxPI
-LENSES: https://www.youtube.com/watch?v=u-GAnEcyPVM
 
 
-
-Small linefollower with op amp:https://www.youtube.com/watch?v=zZmvL0TkllI&list=WL&index=15&t=25s
-
-ASIC1: https://docs.google.com/document/d/1H3jA7guvXT7toEvUObOQ1viQ6Qz_QSGDiJ5OBS2pDEI/edit#heading=h.ry34bfjf6w62
-ASIC2: https://app.siliwiz.com/?preset=blank
-ASIC3: https://www.youtube.com/watch?v=69mdJv6fWXE
-ASIC4: https://www.youtube.com/watch?v=FMdYuGpPicw&list=WL&index=69&t=19s
-ASIC5: https://www.youtube.com/watch?v=lq2BpWwcyQM
-Verilog1: https://www.youtube.com/watch?v=Q99vxvszktI&t=1034s
-Electronoobs FPGA: https://www.youtube.com/playlist?list=PLsR1AO4QH1AyT3b0pUERjFVShbzEelogi
-ICEStudio FPGA Great scott: https://www.youtube.com/watch?v=ZNunxg7o8l0
-Phil`s lab FPGA`s: https://www.youtube.com/playlist?list=PLXSyc11qLa1ZutrEG2XmyWrNz17SSQTdH
-FPGA2: https://www.youtube.com/watch?v=Wsou_zhCEYQ
-VERILOG2: https://www.youtube.com/watch?v=aWm9pJ2KobA
-FPGA3: https://www.youtube.com/playlist?list=PLEBQazB0HUyT1WmMONxRZn9NmQ_9CIKhb
-Reverse engeneering: https://www.youtube.com/watch?v=ICykppClja8&list=WL&index=177&t=299s
-
-Verilog/fpga:
-https://www.youtube.com/playlist?list=PLn8PRpmsu08pQBgjxYFXSsODEF3Jqmm-y
-https://www.fpga4fun.com/Opto.html
-https://www.fpga4student.com/p/fpga-projects.html
-https://zipcpu.com/tutorial/
-https://www.cas.mcmaster.ca/~lawford/3TB4/ref/VerilogPresent-v1.3.pdf
-http://classweb.ece.umd.edu/enee359a/verilog_tutorial.pdf
-https://www.chipverify.com/tutorials/systemverilog#google_vignette
-https://www.youtube.com/playlist?list=PL3Soy1ohxlP1TLpcbYXYcVWItRy_XrUk8
-https://www.javatpoint.com/verilog
-https://www.youtube.com/watch?v=i0xgt46Q2ts&list=WL&index=115&t=2s
-
-OP Amps1: https://www.youtube.com/watch?v=jHLQjusZP1Y
-OP Amps2: https://www.youtube.com/watch?v=JLVGeyUeQrA
-OP Amps3: https://youtu.be/kitY9FFFNa4?si=T0teV7MBQlR8uU-g
-
-Smartwatch whatsapp calls1: https://randomnerdtutorials.com/esp32-send-messages-whatsapp/
-Smartwatch whatsapp calls2: https://randomnerdtutorials.com/micropython-whatsapp-esp32-esp826/
-Smartwatch whatsapp calls3: https://github.com/hafidhh/Callmebot-ESP-Client#-description
-Smartwatch whatsapp calls4: https://www.reddit.com/r/esp32/comments/p5aezt/push_a_button_to_record_a_voice_message_which_is/
 
 
 PCB motor: https://www.youtube.com/watch?v=CDhlx_VMpCc&t=3s
@@ -914,13 +887,6 @@ DRONE1: https://www.youtube.com/watch?v=N_XneaFmOmU&list=WL&index=50
 https://www.youtube.com/watch?v=DeSDjjicGWY&list=WL&index=94
 
 PID: https://www.youtube.com/playlist?list=PLn8PRpmsu08pQBgjxYFXSsODEF3Jqmm-y
-
-Music:
-https://www.youtube.com/watch?v=JAmw-TTG2Ds&list=WL&index=265
-
-
-
-
 
 
 
@@ -953,86 +919,20 @@ coilgun1: https://youtube.com/playlist?list=PLKl_Ihtuj1fpWz5WA09WJIgf677wJ2ihX&s
 
 
 
-transistors:
-https://www.cs.bu.edu/~best/courses/modules/Transistors2Gates/
-http://hyperphysics.phy-astr.gsu.edu/hbase/Electronic/trangate.html#c1
-https://leetsacademy.blogspot.com/2017/04/logic-gates-condition-using-transistor.html
-https://pages.cs.wisc.edu/~sohi/cs252/Fall2012/lectures/lec03_digital_logic.pdf
-https://www.instructables.com/Dual-Logic-Transistor-Gates/
-
-bioimpedance/ gesture recognition:
-https://www.researchgate.net/publication/354345374_Bioimpedance_Sensors_A_Tutorial
-https://pdf.sciencedirectassets.com/280203/1-s2.0-S1877050922X00136/1-s2.0-S1877050922015927/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjELL%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQCVdXNDNcIX4G49fO0JCEwjMUYWIcwPRuoHRNqCex7LJwIgfeG52IH7mzJDtGm7u%2ByIC9uViXFBv9tQQu0Vm5LubBMqswUIOxAFGgwwNTkwMDM1NDY4NjUiDOs3sVT8lR5qFNS3KyqQBQ1hV9d%2BziHmdYzF2loMcLbAXn3QSpJEdP%2F6CC%2F7BzuGuKKi6xe7MXa7Ir9KaoA4dY2dSXX3vQabnQ9gXJmNVndbDyP37yGj6kBjoRTLb7gZGhVyRkAHVKJFlXTfdFjEWwk9DRHfjfSlScvlDgTGRm%2B%2BRxNpj4uPtHLcKOfgoju7NNYNAAAoHFUlCRCbwSYk4nUisWB6MKS1pePY1sfp36tQIH27vhogWf80s50Zy9u8jyQP33RkhYVSBX%2BiUv6cX4H96ulsSEkODYiOjbrf5sGUWuFrskgajKjqArECRv7qocX3qaCLkZEoqO7fJiFAYTje1mY%2FFlmlESL6HmZ5QTnxBLiDCzruyn5AT8hklA4q0UFbCYvB4wHfnrJpVd5LT77Z1Tb8QPs8dLQlJgQCH2tBWiJTe4UoYwqNsdgTLis%2Bl79XYSp%2BwpnOwVkiKVY5i%2F%2FzrHEH5iNkhAW8vSiNCDo2PlhrCfDxD6ijF2truYkOySqcWUWInY7HVta4PaNCwg6zeVoOipc9pf2vbVHVeugnR1M6tnnmsYpKspw%2BeoStciLoWUFSQiVK03N%2FwwUNm9iZ7f9jkxIdSfjYg0EVpQ5km9nhmyiDtDTzMBxCVQ5cNeFl%2BXW1jN%2FmxuqdFc3Zc84jYw%2BDh5z4JRPjqSujF6woeprvrt0NBCHAEpwBJUBjNjNWAQZV7e%2B28TqutwFMjUwq5mbA64MXryBNeMD0SK%2Fl9oFKLIHcEeICnArnrDXzVbm11CBFfygbYSNsR21ZytN6tkuDHD97OAgGLiCc9aJ6OsnvuqO0eI4muu03Qi2sMsgpuR5HPcC88jJgOuXrxTTb%2BmHGnPgsBtal3sNpoj55qdwnPNWIJFv0m6otAA5vMJTZ5LIGOrEBQmhZmOtbdpF9E2o03B1RkYjrrJraYWbu%2FFOYB8we1OcpzXW4i%2F7eJLeCgEhD%2Fe7%2FnN2jK9d%2BKyClPMjgJqbgNR%2BLdgGg3CI%2FFC5D30wFkkfYMKxYgaQpKHp%2BKMIePdOmOKqEKzWJpskwoKu9wW2J3ZTNfErXInYqOTYJ8cIfGXRc%2FW%2FzBt%2FaPiohQWp2%2F5xcSGV4aNo2UeOxFLqo%2BDDNmOZSpUPPhUzH8Qr1RWpCiABM&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240531T025414Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYXRRDTUWU%2F20240531%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=1244d1e1328d9f976b242e4926a5ac8845ba3cd9bd40dff7ecd6b331142369a1&hash=6478c5da9ac9371f19eb76c39adcaff5edc96b698db196f051d4c1088e067d5e&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S1877050922015927&tid=spdf-6d2f88b7-dceb-4092-9dab-a8a8ba5a359b&sid=3064258034b9d541727a0aa189e50a4404dcgxrqb&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=16085e5901540e0b57&rr=88c3ad9a88cc65dc&cc=ro
-https://www.linkedin.com/pulse/building-hand-gesture-recognition-sensor-comprehensive-guide
-https://www.youtube.com/watch?v=DJ77HHtOL-8
-
-logic gates transistors: 
-https://electronics.stackexchange.com/questions/226023/cmos-and-gate-implementation
-https://electronics.stackexchange.com/questions/620622/why-do-we-need-transmission-gate-for-xor-transistor-level-design
-https://hackaday.io/project/175774/gallery#b4bdff73509e92bea2cbd55bb8642105
-https://www.reddit.com/r/beneater/comments/jdyd4z/a_4bit_register_using_npn_transistors/
-https://www.youtube.com/@GlobalScienceNetwork
-https://www.eevblog.com/forum/projects/full-adder-on-a-breadboard/
-
-
-
-
-
-
-
 esp BT: https://electropeak.com/learn/esp32-setup-wifi-connection-using-bluetooth/
-
-
-
 
 
 
 https://github.com/CarlBugeja/PCB-Motor-v4
 https://www.youtube.com/watch?v=NX7GHqq28uU
 animal repeller: https://blog.birdgard.es/the-best-ultrasonic-animal-repellers/
-ray tracing: https://www.realtimerendering.com/raytracing/An-Introduction-to-Ray-Tracing-The-Morgan-Kaufmann-Series-in-Computer-Graphics-.pdf
 arduino eeprom: https://docs.arduino.cc/learn/programming/eeprom-guide/
 https://lastminuteengineers.com/sim800l-gsm-module-arduino-tutorial/#google_vignette
 
 
 
-
-
-
-
-https://bodhi3.wordpress.com/wp-content/uploads/2013/05/metaldetector.pdf
-https://www.minelab.com/__files/f/11043/KBA_METAL_DETECTOR_BASICS_&_THEORY.pdf
-https://www.ojp.gov/pdffiles1/nij/193510.pdf
-https://www.ojp.gov/pdffiles1/nij/184433.pdf
-https://www.hikvision.com/content/dam/hikvision/products/S000000001/S000002016/S000002037/S000002056/OFR003117/M000019671/User_Manual/NP-SG106-User-Manual.pdf
-https://ro.scribd.com/document/439637837/PROJECT-REPORT-docx
-//put the : inside the metal detector file
-https://ro.scribd.com/document/151432587/Metal-Detector
-https://www.electroschematics.com/homemade-metal-detector/
-https://www.learningaboutelectronics.com/Articles/How-to-build-a-metal-detector-circuit.php
-https://www.circuitstoday.com/metal-detector-circuit#google_vignette
-https://www.nutsvolts.com/magazine/article/build_a_four_transistor_metal_detector
-https://www.hackster.io/mircemk/diy-simple-sensitive-ib-metal-detector-with-2xne555-ic-14a3bb
-https://techsawco.com/simple-metal-detector-circuit/
-https://www.satsleuth.com/Schematics.aspx?Category=Metal
-https://www.homemade-circuits.com/how-to-make-simple-metal-detector/
-https://circuitcellar.com/research-design-hub/projects/advanced-metal-detector/
-https://www.talkingelectronics.com/projects/200TrCcts/MetalDetectors/MetalDetectors-1.html
-https://fortresstechnology.com.br/wp-content/uploads/2022/06/FORTRESS_MetalDetectionBasics.pdf
-https://www.allaboutcircuits.com/projects/metal-detector-with-arduino/
-https://www.diva-portal.org/smash/get/diva2:1198542/FULLTEXT01.pdf
-https://www.next.gr/sens-detectors/metal-detector-circuits/
-
-
 https://generalguitargadgets.com/how-to-build-it/technical-help/schematics/
 https://www.youtube.com/@DiyguitarpedalsAu/videos
-
-https://www.circuitbasics.com/what-are-am-radios/
-https://www.circuits-diy.com/simple-am-receiver-circuit/
-https://www.circuitbasics.com/amplitude-modulated-transmitters/
-https://www.youtube.com/watch?v=3I_e7gIyfQg
-https://circuit-zone.com/index.php?cat=am-radio
-
 
 
 
@@ -1114,9 +1014,7 @@ https://ps.buckeyepowersales.com/wp-content/uploads/2021/06/BPS_113_Generator_10
 https://www.nagwa.com/en/videos/396146972902/
 
 
-https://www.rcciit.org/students_projects/projects/ee/2023/GR2.pdf
-https://www.circuits-diy.com/wireless-gadgets-charger-circuit/
-https://www.circuits-diy.com/wireless-led-circuit/
+
 
 
 https://youtube.com/playlist?list=PLfExI9i0v1smd_mUgoib94t8KKap0X-zh&si=bRWUGNtiq3-EAwUm

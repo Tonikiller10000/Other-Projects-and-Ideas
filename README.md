@@ -9,6 +9,15 @@ This news section will be updated weekly after 17/8/2024.
 Some projects will resive a separate project file in witch I will make my own version of it.
 
 
+-    have not tried it    
+- ✔️ Completed
+- ☑️ Completed 70%
+- ⌛ Needs to be finnished
+
+
+
+
+
 
 ## Mentions:
 - [controll OLED dirrectly to HDMI](https://mitxela.com/projects/ddc-oled)
@@ -23,7 +32,7 @@ Some projects will resive a separate project file in witch I will make my own ve
 ## Projects:
 
 <details> 
-  <summary>🏆 Sonoluminescence - A star in a jar</summary>
+  <summary>Sonoluminescence - A star in a jar</summary>
 
   [Sonoluminescence](https://en.wikipedia.org/wiki/Sonoluminescence) is a process in witch you can \"transform\" sound into ligth. 
   It works by creating a fast colapsing air buble in the water witch, because of the verry high pressure can reach almost 12000 celsius degrees and produce ligth.
@@ -39,18 +48,7 @@ Some projects will resive a separate project file in witch I will make my own ve
 
 
 <details> 
-  <summary>Capacitive touch ✔️</summary>
-
-  With capacitive touch you can make [musical instruments](https://www.youtube.com/watch?v=3xUH_vCHk9A), [keyboards](https://www.youtube.com/watch?v=FjcVGP6vktM) and all king of [projects](https://www.youtube.com/watch?v=mWR9Q_pTagw).
-  Here are more projects and informations about capacitive sensing:
-  - https://www.youtube.com/watch?v=DxWZUTnEvhs
-  - https://www.youtube.com/watch?v=X7U_6wZqxro
-  - https://www.youtube.com/watch?v=gxLzgeiJQbE
-</details>
-
-
-<details> 
-<summary>♻️🎯 Start a Pottery Journei - Make Clay </summary>
+<summary>⌛ Start a Pottery Journei - Make Clay </summary>
 
   If you don`t want to pay for \"[magic dirt](https://www.youtube.com/watch?v=ca20JkKFAcE)\",  make it yourself.
   Go in the forest or other dirty places and search for sticky soil (look for tire marks, yellow color soil, mud, ...). Filter it until you remain with particles smaller than 2um, add some more [ingredients](https://www.youtube.com/watch?v=HbLdNKM9y68&list=WL&index=125) and start making vases and other kinks of yours.  
@@ -76,23 +74,41 @@ Some projects will resive a separate project file in witch I will make my own ve
 
 
 <details> 
-  <summary>❗❗❗Starlyte‼️‼️</summary>
-  <table>
-    <tr>
-      <td> 
-    Starlyte is a verry heat ressistent matherial witch can be mad with household ingredients.
-    I tried making it, but it [didn\`t worked well](https://github.com/Tonikiller10000/Other-Projects-and-Ideas/blob/main/ProjectsAndIdeeas/Starlyte/3.mp4) at all. May be my recipe a little wrong, but after 30 mins of plaing arround with it, I [couldn\`t make it work](https://github.com/Tonikiller10000/Other-Projects-and-Ideas/blob/main/ProjectsAndIdeeas/Starlyte/2.mp4).
-    I may try it again in the far future.
-      </td>
-      <td><img src="https://github.com/Tonikiller10000/Other-Projects-and-Ideas/blob/main/ProjectsAndIdeeas/Starlyte/1.jpg"  height = 220 width= 250></td>
-    </tr>
-  </table>
+  <summary>Starlyte ☑️</summary>
+
+  Starlyte is a verry heat ressistent matherial witch can be made with household ingredients.
+  I tried making it, but it [didn\`t worked well](https://github.com/Tonikiller10000/Other-Projects-and-Ideas/blob/main/ProjectsAndIdeeas/Starlyte/3.mp4) at all. May be my recipe a little wrong, but after 30 mins of plaing arround with it, I [couldn\`t make it work](https://github.com/Tonikiller10000/Other-Projects-and-Ideas/blob/main/ProjectsAndIdeeas/Starlyte/2.mp4).
+  I may try [it](https://github.com/Tonikiller10000/Other-Projects-and-Ideas/blob/main/ProjectsAndIdeeas/Starlyte/1.jpg) again in the far future and maybe make a fluid version of it to be able to paint it on surfaces.
+
+</details>
+
+<details> 
+<summary>Icecream Plate ☑️</summary>
+
+I tried to make [this](https://youtu.be/LPOWmK9EWk0?si=V09L9m4uheya51iG) Icecream plate with some peltier plates, but unfortunetly that didn\`t work. It was cooling too slow, and to little.
+I even used 2 peltier plates with thermal paste in between and a computer heatsink with the fan connected for more cooling, but it [didn\`t worked](https://github.com/Tonikiller10000/Other-Projects-and-Ideas/blob/main/ProjectsAndIdeeas/PeltierPlate_IceCreamMachine/f.mp4). I will try it again in the future with a mechanical method of cooling (compressor).
+<table>
+  <tr>
+    <td><img src="https://github.com/Tonikiller10000/Other-Projects-and-Ideas/blob/main/ProjectsAndIdeeas/PeltierPlate_IceCreamMachine/3.jpg" ></td> 
+    <td><img src="https://github.com/Tonikiller10000/Other-Projects-and-Ideas/blob/main/ProjectsAndIdeeas/PeltierPlate_IceCreamMachine/1.jpg" ></td>
+    <td><img src="https://github.com/Tonikiller10000/Other-Projects-and-Ideas/blob/main/ProjectsAndIdeeas/PeltierPlate_IceCreamMachine/4.jpg" ></td>
+  </tr>
+</table>
 </details>
 
 
 
+## Learn more
 
+<details> 
+  <summary>Capacitive touch ✔️</summary>
 
+  With capacitive touch you can make [musical instruments](https://www.youtube.com/watch?v=3xUH_vCHk9A), [keyboards](https://www.youtube.com/watch?v=FjcVGP6vktM) and all king of [projects](https://www.youtube.com/watch?v=mWR9Q_pTagw).
+  Here are more projects and informations about capacitive sensing:
+  - https://www.youtube.com/watch?v=DxWZUTnEvhs
+  - https://www.youtube.com/watch?v=X7U_6wZqxro
+  - https://www.youtube.com/watch?v=gxLzgeiJQbE
+</details>
 
 ## Sience facts:
 
@@ -125,19 +141,7 @@ Some projects will resive a separate project file in witch I will make my own ve
 
 
 
-<details> 
-<summary name="AnchorPoint_IcecreamPlate">Icecream Plate</summary>
 
-I tried to make [this](https://youtu.be/LPOWmK9EWk0?si=V09L9m4uheya51iG) Icecream plate with some peltier plates, but unfortunetly that didn\`t work. It was cooling too slow, and to little.
-I even used 2 peltier plates with thermal paste in between and a computer heatsink with the fan connected for more cooling, but it [didn\`t worked](https://github.com/Tonikiller10000/Other-Projects-and-Ideas/blob/main/ProjectsAndIdeeas/PeltierPlate_IceCreamMachine/f.mp4). I will try it again in the future with a mechanical method of cooling (compressor).
-<table>
-  <tr>
-    <td><img src="https://github.com/Tonikiller10000/Other-Projects-and-Ideas/blob/main/ProjectsAndIdeeas/PeltierPlate_IceCreamMachine/3.jpg" ></td> 
-    <td><img src="https://github.com/Tonikiller10000/Other-Projects-and-Ideas/blob/main/ProjectsAndIdeeas/PeltierPlate_IceCreamMachine/1.jpg" ></td>
-    <td><img src="https://github.com/Tonikiller10000/Other-Projects-and-Ideas/blob/main/ProjectsAndIdeeas/PeltierPlate_IceCreamMachine/4.jpg" ></td>
-  </tr>
-</table>
-</details>
 
 
 

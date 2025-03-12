@@ -18,18 +18,18 @@ Some projects will resive a separate project file in witch I will make my own ve
 - [ELEVATOR](https://www.youtube.com/watch?v=3RKgASpq2P4&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=72)
 - [Segment displays](https://youtu.be/B887D3PVYqs?si=KS5QnkuYI9ruFV4f)
 
-✔️⁉️❌‼️💲🕐☑️🔗♻️⚠️🍺🍻🎨🎸🏆🎯📘📆💣💰💳📧🔓🔒⌛💥❗❓😃
+✔️⁉️❌‼️💲🕐☑️🔗♻️⚠️🍺🍻🎨🎸🏆🎯📘📆💣💰💳📧🔓🔒⌛💥❗❓😃🔨
 
 ## Projects:
 
 <details> 
-  <summary>Sonoluminescence(A star in a jar)</summary>
+  <summary>🏆 Sonoluminescence. A star in a jar.</summary>
 
   [Sonoluminescence](https://en.wikipedia.org/wiki/Sonoluminescence) is a process in witch you can \"transform\" sound into ligth. 
   It works by creating a fast colapsing air buble in the water witch, because of the verry high pressure can reach almost 12000 celsius degrees and produce ligth.
   With this, you can make a \"star in a jar\" like [this](https://www.youtube.com/watch?v=puVxGnl_3y8), or like [this](https://www.youtube.com/watch?v=0TVZd8dZysY&list=WL&index=284). 
 
-  > [!TIP]
+  [!TIP]
   > If you want someting cool to put on the shelf, You can make [this](https://www.youtube.com/watch?v=VTBZ0VwIgs8&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=119) witch looks like Tony Stark`s ark reactor with it`s glow.
 
   You can read more in this papers:
@@ -39,16 +39,26 @@ Some projects will resive a separate project file in witch I will make my own ve
 
 
 <details> 
-  <summary>Capacitive touch </summary>
+  <summary>✔️Capacitive touch </summary>
 
-  With capacitive touch you can make [musical instruments](https://www.youtube.com/watch?v=3xUH_vCHk9A), keyboards and all king of projects.
-  Here are multiple links with projects and tutorials with capacitive sensing:
+  With capacitive touch you can make [musical instruments](https://www.youtube.com/watch?v=3xUH_vCHk9A), [keyboards](https://www.youtube.com/watch?v=FjcVGP6vktM) and all king of [projects](https://www.youtube.com/watch?v=mWR9Q_pTagw).
+  Here are more projects and informations about capacitive sensing:
   - https://www.youtube.com/watch?v=DxWZUTnEvhs
   - https://www.youtube.com/watch?v=X7U_6wZqxro
-  - https://www.youtube.com/watch?v=FjcVGP6vktM
   - https://www.youtube.com/watch?v=gxLzgeiJQbE
-  - https://www.youtube.com/watch?v=mWR9Q_pTagw
 </details>
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

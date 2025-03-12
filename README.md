@@ -981,6 +981,354 @@ https://youtube.com/playlist?list=PLfExI9i0v1smd_mUgoib94t8KKap0X-zh&si=bRWUGNti
 
 
 
+Make a 3d printer: https://www.youtube.com/playlist?list=PLyYZUiBHD1QjaYx7eCEW8zXvsgwEbAykY
+drone making guige STM: https://www.st.com/resource/en/product_presentation/steval-drone01_getting_started_guide.pdf
+STM ESC: https://www.st.com/resource/en/user_manual/um2516-electronic-speed-controller-discovery-kit-for-drones-with-stm32g431cb-stmicroelectronics.pdf
+Drone example 1: https://www.flying-rabbit-fpv.com/2020/10/06/designing-my-own-flight-controller/
+Drone example 2:https://savobajic.ca/projects/personal/flightcontrol/flightcontrol-v2/
+Drone controller: https://medium.com/@kanchanborade/advanced-flight-controllers-used-in-drones-a18f957f9ce7
+https://www.st.com/resource/en/brochure/products_and_solutions_for_drones.pdf
+
+
+STM32 graphic enchantment: https://www.st.com/resource/en/product_training/STM32F7_System_DMA2D.pdf
+
+
+
+ESC drone: https://www.mouser.com/datasheet/2/408/TPN2R703NL_datasheet_en_20191030-1916220.pdf
+esc drone 2:https://eepower.com/new-industry-products/electronic-speed-controller-reference-design-for-drones/#
+arduino esc: https://electronoobs.com/eng_arduino_tut91_sch1.php#google_vignette
+file:///C:/Users/eaagt/Downloads/Infineon-Application-Motor_Control-Drone_Electronic_Speed_Controller_ESC-TR-v01_00-EN.pdf
+https://youtube.com/playlist?list=PLsR1AO4QH1AxYrKPmh2e3LDeTyNWdyEXb&si=Fl-gceo6xSZOGE4w
+https://www.youtube.com/watch?v=lg-QKhl0uuU
+
+3d printer playlist: https://www.youtube.com/playlist?list=PLyYZUiBHD1QjaYx7eCEW8zXvsgwEbAykY
+
+
+
+
+
+
+
+
+https://www.tinytransistors.net/2021/04/24/the-555-timer/
+https://quasarelectronics.co.uk/Item/velleman-mk119-roulette-kit
+https://quasarelectronics.co.uk/manuals/velleman/manual_mk119.pdf
+
+
+
+
+
+
+
+
+
+
+
+
+powerBank: https://youtu.be/BUHB-zRy2oc?si=w9Ylyc22KSEJ5O8T
+ESC great scott part 2: https://youtu.be/NXkLydhRvS0?si=mtJrIoyDUWgy7biB
+
+8Bit Computers:
+https://youtu.be/CE4bZoiFI-s?si=9Ld-tmrRe_3T72Nc
+redstone - https://youtu.be/7PnnCblV9pE?si=C3xnBLTxWFpU0fbI
+
+
+
+
+Recicle 3d FILLAMENT:
+https://youtu.be/v4Byc6y7-BA?si=BETtJccyYGzJjyRw
+https://youtu.be/BT04glGDjB4?si=REvfBAIK6ehqmn77
+https://www.youtube.com/watch?v=O6d1RKYapFI&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=36&t=259s&pp=gAQBiAQB
+https://www.youtube.com/watch?v=vqWwUx8l_Io&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=37&t=483s&pp=gAQBiAQB
+https://www.youtube.com/watch?v=Hm6KpEajD4o&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=38&pp=gAQBiAQB
+https://www.youtube.com/watch?v=eWgzi4a1bJo&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=39&t=555s&pp=gAQBiAQB
+https://www.youtube.com/watch?v=Dwlr2yKlq6w&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=40&pp=gAQBiAQB
+https://www.youtube.com/watch?v=nypitKDr928&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=48&t=277s&pp=gAQBiAQB
+https://www.youtube.com/watch?v=RF05JBnNazA&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=50&t=1491s&pp=gAQBiAQB
+spools: https://www.youtube.com/watch?v=lHBDQqS9Fkc&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=49&pp=gAQBiAQB
+
+
+
+
+
+
+
+
+
+
+
+Make a 3d printer:
+
+https://www.youtube.com/watch?v=qub5chyIQ0s&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=51&t=164s&pp=gAQBiAQB
+https://www.youtube.com/watch?v=LIS7aB0-xfc&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=52&t=478s&pp=gAQBiAQB
+https://www.youtube.com/watch?v=BSr7Qkh_aO0&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=53&t=259s&pp=gAQBiAQB
+https://www.youtube.com/watch?v=OWbPLqZw66M&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=54&pp=gAQBiAQB
+https://www.youtube.com/watch?v=VzjJFon4c8E&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=55&pp=gAQBiAQB
+
+
+
+
+OLED:
+https://www.youtube.com/watch?v=HVHVkKt-ldc&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=96&pp=gAQBiAQB
+https://www.youtube.com/watch?v=JXmw1xOlBdk&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=95&t=2373s&pp=gAQBiAQB
+https://www.youtube.com/watch?v=-h9Vm0Ow_Is&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=94&t=266s&pp=gAQBiAQB
+https://www.youtube.com/watch?v=Lw0Aaoo3YSY&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=93&pp=gAQBiAQB
+https://www.youtube.com/playlist?list=PLmpZaABfVRlfPmKIsqLkZ8e-ZdDuDN8E4
+https://www.youtube.com/watch?v=GosqWcScwC0
+
+
+
+
+Dynamic RAM: https://hackaday.io/project/175774/gallery#b4bdff73509e92bea2cbd55bb8642105
+
+NVME RAM for 8 bit computer options:
+https://www.alldatasheet.com/datasheet-pdf/view/169365/AMICC/A625308.html
+https://www.alldatasheet.com/datasheet-pdf/view/58450/DALLAS/DS1230Y.html
+https://www.alldatasheet.com/datasheet-pdf/view/26812/TI/BQ4010.html
+https://www.alldatasheet.com/datasheet-pdf/view/226916/CYPRESS/CY9C62256_05.html
+https://www.alldatasheet.com/datasheet-pdf/view/300033/AUSTIN/MT5C2568.html
+https://www.alldatasheet.com/datasheet-pdf/view/22988/STMICROELECTRONICS/M48Z30.html
+https://www.alldatasheet.com/datasheet-pdf/view/34338/XICOR/28C256.html
+https://www.alldatasheet.com/datasheet-pdf/view/81977/CYPRESS/CY7C199-15VC.html
+
+
+
+Drone build:
+https://www.ti.com/lit/ug/tiduak1/tiduak1.pdf?ts=1723880875535
+https://www.st.com/resource/en/user_manual/um2197-electronic-speed-controller-for-bldc-and-pmsm-three-phase-brushless-motor-stmicroelectronics.pdf
+
+8 bit computer:
+https://tomnisbet.github.io/nqsap-pcb/
+https://skilldrick.github.io/easy6502/ 
+https://www.masswerk.at/6502/disassembler.html
+https://github.com/TomNisbet/nqsap-pcb
+
+
+
+3d printed BOX: https://lr2052.luckyresistor.me/browse/Models
+Tranzistori: https://eprofu.ro/docs/electronica/analogica/componente/tranzistoare-bipolare.pdf
+
+PID:
+https://www.quora.com/How-do-I-write-a-C-program-for-differentiation
+https://ps.uci.edu/~cyu/p231C/LectureNotes/lecture10:integration/html_version/
+https://www.geeksforgeeks.org/derivative-function-calculus/
+https://scilab.org/discrete-time-pid-controller-implementation
+
+
+
+black oxygen rocks on the ocean bottom
+esp32 bluetooth/wireless keyboard
+
+
+ESP32 audio:
+https://www.pschatzmann.ch/home/2021/04/29/bluetooth-a2dp-streaming-from-an-digital-i2s-microphone/
+https://docs.espressif.com/projects/esp-idf/en/latest/esp32/api-reference/bluetooth/esp_a2dp.html
+https://github.com/atomic14/esp32-i2s-mic-test
+https://github.com/pschatzmann/ESP32-A2DP
+https://github.com/pschatzmann/arduino-audio-tools/tree/main/examples
+https://www.youtube.com/watch?v=a936wNgtcRA&t=413s
+https://www.youtube.com/watch?v=m-MPBjScNRk
+https://www.youtube.com/watch?v=bVru6M862HY
+https://www.youtube.com/watch?v=ejyt-kWmys8&list=WL&index=269&t=1s
+
+
+
+
+
+https://www.youtube.com/watch?v=EVekdy2_Dyw&list=WL&index=248&t=749s
+
+
+https://www.instructables.com/How-to-Build-Your-Own-NRF24L01palna-Module/
+https://lastminuteengineers.com/arduino-1602-character-lcd-tutorial/?utm_content=cmp-true
+
+https://www.allaboutcircuits.com/technical-articles/op-amp-and-transistor-analog-square-wave-oscillator-design/
+https://www.circuitbasics.com/what-are-audio-mixers/
+https://www.renesas.cn/zh/document/apn/cm-324-adjustable-analog-sinesquare-wave-oscillator
+https://www.allaboutcircuits.com/projects/construction-of-a-guitar-amplifier/
+https://www.circuits-diy.com/simple-tone-generator-circuit-using-ne555-timer-ic/
+
+https://resources.pcb.cadence.com/blog/2024-inverting-vs-non-inverting-op-amp-a-comparison
+https://www.learningaboutelectronics.com/Articles/Bandpass-filter-calculator.php#answer2
+https://www.youtube.com/watch?v=ENy_zg9dX5c
+https://eepower.com/technical-articles/how-to-create-bandpass-filters/#
+https://electronics.stackexchange.com/questions/506140/orientation-of-an-electrolytic-capacitor-in-a-circuit
+
+
+
+https://www.electronicshub.org/active-band-pass-filter/
+https://www.youtube.com/watch?v=yU7tUsXtRdw
+https://www.ti.com/lit/an/sloa278/sloa278.pdf?ts=1728181989292&ref_url=https%253A%252F%252Fwww.google.com%252F
+https://www.ariat-tech.com/blog/filters-using-op-amps-band-pass,band-stop,high-pass-low-pass-filter.html
+https://www.electronics-notes.com/articles/analogue_circuits/operational-amplifier-op-amp/bandpass-active-filter-design.php
+https://www.electronics-tutorials.ws/opamp/op-amp-multivibrator.html
+https://www.youtube.com/watch?v=9Y9yS2hhsik
+https://www.youtube.com/watch?v=aqfyRUVSq9I
+
+
+
+https://www.cnet.com/culture/keyboard-shortcuts-for-android-phones/
+https://hackaday.com/2023/08/31/copper-be-gone-the-chemistry-behind-pcb-etching/
+https://fondeco.ru/ro/kak-prigotovit-vodnyi-rastvor-hlornogo-zheleza-himiya---kompleksnaya/
+https://mitxela.com/projects/ddc-oled
+https://www.printables.com/model/843353-solder-scroll-ergonomic-adjustable-solder-tool
+https://youtube.com/watch?v=geNOEzAMXKY
+https://www.youtube.com/watch?v=3vTUreD-hxI&list=WL&index=6
+https://support.microsoft.com/en-us/windows/screen-reader-keyboard-shortcuts-for-mobile-apps-on-windows-f18a072e-22dd-4c8b-aa25-c6562bb409bc
+
+
+https://www.youtube.com/watch?v=Wg_Znk7ZI7Q&list=WL&index=10
+https://www.youtube.com/watch?v=Gvb4GIV5ig8&list=WL&index=11
+https://www.youtube.com/watch?v=M3nMVORPWhY&list=WL&index=9
+https://cosmosmagazine.com/technology/materials/toothpaste-transistor-edible/
+https://www.google.com/search?q=amateur+Radio+Digital+Communications&oq=amateur+Radio+Digital+Communications&aqs=chrome..69i57.19832j0j7&client=ms-android-samsung-gj-rev1&sourceid=chrome-mobile&ie=UTF-8
+https://electronics.stackexchange.com/questions/103656/how-many-ir-leds-needed-to-get-accurate-remote-control-signals-around-room
+https://www.circuits-diy.com/audio-mixer-circuit/#Audio_Mixer_Circuit
+https://qa.answers.com/music-and-radio/What_is_the_frequency_of_Do-Re-Mi
+
+https://mitchelectronics.co.uk/resources/simple-function-generator-kit-instructions/
+https://www.eeeguide.com/triangular-wave-generator-using-op-amp/
+https://www.allaboutcircuits.com/video-tutorials/op-amp-applications-band-pass-and-band-reject-active-filters/
+https://www.instructables.com/Op-amp-Basics-part-2/
+https://www.elektroda.com/rtvforum/topic2325660.html
+3d printed centrifuge
+https://cnc.jlcpcb.com/help/article/Threaded-Hole-Guideline
+
+ESP32_MP3_Decoder: https://github.com/MrBuddyCasino/ESP32_MP3_Decoder
+ESP8266_MP3_Decoder: https://github.com/espressif/ESP8266_MP3_DECODER
+
+https://pdf.sciencedirectassets.com/271429/1-s2.0-S0306261916X00189/1-s2.0-S0306261916312594/am.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEF4aCXVzLWVhc3QtMSJIMEYCIQCeH2DX%2BNYEkZ9z9g0lavgo1DLNrYk9soctXyqGzmSx9wIhAOxJKyF4vRiYmX7x5n4FUH1Rv067oyeo7OBj4JHrsSIRKrwFCLb%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQBRoMMDU5MDAzNTQ2ODY1IgzeogeLKKKIAzyirCwqkAWDAWwF3z9RQVcQCcemeqDZ9TaFo6sG7flrLhAI2ABQ1DvMFLeV8ybZyS4jRSRPzwPHE9Br7v%2B7dnrAXEj0tFSv6lLHKrhyJYDMDhD1iUPksY6Oh0IGK7I%2FogD%2FKxGSqM8ye6KG3oM1SKNUBMOjWxAPKoIn%2FUhguO7oSATJpNMf%2FfEhmmRKzPqMaS4mJrJ5O3cfy7vL7J7MzA1ktvw0JwTs%2BF0GjzCwYeahIvNiZmRDqmZ3fnJxTDISPZoxpX2oNveI3KrpUZtL5hisfWvwTfkA18MH951SBJwID8dftkOhLEFt8yJpG3bwRE5bMsUUgXbzuC8SCu3PBnkHidmjzTXv6dapfiuAfko9dxc4JqarHy4%2FIdx1kGrO3Z%2BUmjmGrKtbRwhwA4BRdq8dhEL31bAtapE0qoOu0fufEpaLlV5HqRcUFX1lyPgyo61quCtJ1G%2Fpr2GaY%2F%2FApQAjMXyvfFxRPae7DVYXkJHGGqIzTiAomf21Rtq2D1xE19LJ3Cbl2acBNG4HR9R0OMLdQAlZKURZvjsp3QKzkJFZ0yaL099qdpWpJxXJBuQ%2ByK8%2BMXrtN478WK12dVSusqt%2F54gSinYjzk8QvTXBJypOt7%2Bd0uLJ7Dh7OrefvVPZ%2F2VGGU1ilttV1WaRGBN%2FpcljoixRX0%2FSaFz3dyDL7HIqyVakkDUUnotr%2BWm1lUoneqaDWc5KP%2F05qL3QJ3%2BITQDPqT5qbz4d5k9%2Bc6qDzrTCI1mv31phuwB%2BYo%2Bz0H6%2Fw0X7iysZi66ZbNTRBTBjeahCSXhpS59Vvy84F478mTqDI%2FHzo9BLIZt0eEgYeHYzy93RserUafw3%2Fdk6bAijuz9eMQ9ERWF333Hmf%2B8ECZ%2FqTutoWGGSkDCsqq24BjqwASF%2F78%2FtehKUnJ5PGy8rm%2BiOaqzCk4BRL0Rf59Ry5m5Mvj4KI2baGrUvAeMO3BiDn%2BLfaNIEmQGVaUiyzyg%2BLpNEDfM2Wb%2B7FUpm30oD3%2FZfv3dR%2BDbudQ4F1rsZlahPOzuBBxmtq9rc%2BVG4St7ZwXWqxbour4iJ4dLdd66SvG6HJNBF12U54VYYGltFpIoQd%2Fc28LB7hpVfBBj4D4meOUPDnRRADjLX8b9HHT347AMc&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20241013T063233Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYVXJHGNGL%2F20241013%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=4b82a14dd05f731163dc28eeda6d7b338bfd5fc4aa9534594116b79b5644efaa&hash=fc1f54a8bcce07a0778537b7a6e178c003cde7c0bde2e8a6bbe57ab04b627779&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S0306261916312594&tid=pdf-3368c31f-eb26-46c0-a3d0-1de9cd99e947&sid=3f904a5098a035422a3b1bf1636eb7fb8747gxrqb&type=client
+https://www.nature.com/articles/s41598-024-59260-8
+https://www.build-electronic-circuits.com/astable-multivibrator/
+https://www.electricaltechnology.org/2014/10/traffic-light-control-electronic-project.html#google_vignette
+
+
+https://my.ece.utah.edu/~ece1270/ECE1270_Lab1bU11.pdf
+
+https://prostheticoss.wordpress.com/2015/03/19/emg-success/
+https://ukdiss.com/examples/emg-muscle-signal-control-dc-motor.php
+https://www.instructables.com/EMG-Sensing-Circuit/
+https://www.instructables.com/Build-a-Muscle-Audio-Amplifier-Electromyography/
+https://www.freestompboxes.org/viewtopic.php?t=8433
+
+OPULO PNP Machine playlist and story...
+
+https://www.youtube.com/watch?v=bAH5A_sarBg&list=WL&index=404
+
+
+
+https://www.youtube.com/playlist?list=PLnjAJ75A-OrAF2XkwovUy-RCguUGaPZrO
+https://www.youtube.com/playlist?list=PL4ACC082726B4F410
+
+
+
+https://youtu.be/EfAl9bwzVZk?si=vP2NFKos-BBNdXvL
+https://youtu.be/xr6uZDRTna0?si=NGY6x9B_BYeNUHJV
+https://www.youtube.com/@NetNinja
+https://www.youtube.com/@OnlineTutorialsYT
+
+https://www.youtube.com/@NesHacker
+https://www.youtube.com/@DisplacedGamers
+
+
+
+#APP    https://github.com/qarmin/czkawka/releases
+
+
+https://www.youtube.com/watch?v=cnKCbW75dIk
+
+https://www.hackatronic.com/switch-mode-power-supply-circuit-smps-block-diagram-working/#google_vignette
+
+https://techweb.rohm.com/product/power-ic/acdc/940/
+https://www.ti.com/lit/an/snva716/snva716.pdf?ts=1729458766386&ref_url=https%253A%252F%252Fwww.google.com%252F
+https://www.ti.com/lit/ta/ssztcv1/ssztcv1.pdf?ts=1729458780189&ref_url=https%253A%252F%252Fwww.google.com%252F
+https://circuitdigest.com/electronic-circuits/a-simple-boost-converter-circuit-using-555-timer-ic
+https://web.ece.ucsb.edu/~long/ece594a/PLL_intro_594a_s05.pdf
+https://www.onsemi.com/pdf/datasheet/mc14046b-d.pdf
+https://content.instructables.com/FWL/5Z3C/I9UDQ2T9/FWL5Z3CI9UDQ2T9.pdf
+https://github.com/ShawnHymel/rpi-pico-debugger-shoe/blob/master/hardware/rpi-pico-debugger-shoe/rpi-pico-debugger-shoe_schematic.pdf
+
+https://electronics.stackexchange.com/questions/69666/atx-power-supply-front-end-how-does-this-work
+https://www.onsemi.com/pub/collateral/smpsrm-d.pdf
+https://www.hackatronic.com/12v-10a-smps-switched-mode-power-supply-circuit-ic-dm0565/#google_vignette
+https://electronics.stackexchange.com/questions/440853/designing-switch-mode-power-supply-smps
+https://how2electronics.com/switched-mode-power-supply-smps-design-applications/#google_vignette
+
+https://www.tutorialspoint.com/assembly_programming/index.htm
+https://youtube.com/playlist?list=PLmxT2pVYo5LB5EzTPZGfFN0c2GDiSXgQe&si=wAjlhsQWqx7mXvsQ
+
+https://www.jdoodle.com/compile-assembler-nasm-online
+
+https://dberard.com/home-built-stm/
+https://community.element14.com/challenges-projects/element14-presents/project-videos/w/documents/28387/rp2040-pcb-design-turn-on-and-debug---how-hard-could-it-be----episode-638?CMP=SOM-YOUTUBE-PRG-E14PRESENTS-e14Presents-638
+https://www.pozyx.io/newsroom/uwb-versus-other-technologies
+
+https://www.robotsforroboticists.com/pid-control/
+https://www.reddit.com/r/cprogramming/comments/yymdkq/is_there_a_integration_function_in_c/
+
+https://dmohankumar.wordpress.com/2011/04/23/single-transistor-fm-transmitter-design/
+https://www.youtube.com/watch?v=h_F3J4vyzNk
+
+https://www.coilcraft.com/en-us/edu/series/a-guide-to-flyback-transformers/
+
+https://www.electrosmash.com/time-manipulator
+https://www.pschatzmann.ch/home/2021/11/04/arduino-sound-recording-from-an-electric-guitar-with-an-adc/
+https://maker.pro/arduino/projects/arduino-diy-guitar-pedal
+https://github.com/hamuro80/blackstomp/tree/master/hardware
+
+https://www.onsemi.com/pdf/datasheet/ncp1010-d.pdf
+
+
+https://www.electrosmash.com/1wamp
+https://d3s5r33r268y59.cloudfront.net/datasheets/10448/2022-04-16-13-11-39/TGA_Pro_MKII_User_Guide_-_v2.2.pdf
+https://www.deeptronic.com/blackstomp/
+
+EESP BT audio: 
+https://www.electroniclinic.com/bluetooth-speaker-using-esp32-and-max98357-i2s-digital-amplifier/
+https://docs.sunfounder.com/projects/esp32-starter-kit/en/latest/arduino/basic_projects/ar_bluetooth_audio_player.html
+
+https://www.youtube.com/playlist?list=PLT6IpwOlIYhaxWSXWMNHL_TBfB_G3c4By
+
+https://howtomechatronics.com/tutorials/g-code-explained-list-of-most-important-g-code-commands/
+
+
+
+
+Arduino Bootloader:
+- Atmel studio: https://www.pic-control.com/microcontroller-firmware-programming-upload-with-atmel-studio/
+- https://fedevel.com/blog/how-to-flash-arduino-bootloader-without-a-programmer
+- https://www.microchip.com/en-us/development-tool/flip
+- https://learn.sparkfun.com/tutorials/installing-an-arduino-bootloader/all
+- https://www.youtube.com/watch?v=nh3h9gwOF4Q&list=WL&index=510
+- https://github.com/adafruit/Caterina-Bootloader/tree/master/Built%20Firmwares
+
+
+
+
+
+
+
+
+
+
+Standard tips/steps for better PCB Designing:
+- us TZV diodes on data lines and other microcontroller pins
+- use fuses when working with higher voltages
+- use 100nF decupling capacitors close to every power pair pins on the microcontroller
+ 
+
+
+
+
+
+
+https://www.edmundoptics.com/knowledge-center/application-notes/microscopy/understanding-microscopes-and-objectives/
+https://dovermotion.com/applications/automated-imaging/microscope-calculations/
+https://andor.oxinst.com/learning/view/article/optimizing-field-of-view-and-resolution-in-microscopy-matching-scmos-camera-to-objective-lenses
+
+
+
+
+
 
 
 

@@ -56,8 +56,9 @@ Some projects will resive a separate project file in witch I will make my own ve
 
 
 
-- [x] /<details> 
-      <summary>Start a Pottery Journei /   Make Clay </summary>
+ <details> 
+ 
+- [x]      <summary>Start a Pottery Journei /   Make Clay </summary>
 
       If you don`t want to pay for \"[magic dirt](https://www.youtube.com/watch?v=ca20JkKFAcE)\",  make it yourself.
       Go in the forest or other dirty places and search for sticky soil (look for tire marks, yellow color soil, mud, ...). Filter it until you remain with particles smaller than 2um, add some more [ingredients](https://www.youtube.com/watch?v=HbLdNKM9y68&list=WL&index=125) and start making vases and other kinks of yours.  

@@ -23,14 +23,14 @@ Some projects will resive a separate project file in witch I will make my own ve
 ## Projects:
 
 <details> 
-  <summary>🏆 Sonoluminescence. A star in a jar.</summary>
+  <summary>🏆 Sonoluminescence - A star in a jar</summary>
 
   [Sonoluminescence](https://en.wikipedia.org/wiki/Sonoluminescence) is a process in witch you can \"transform\" sound into ligth. 
   It works by creating a fast colapsing air buble in the water witch, because of the verry high pressure can reach almost 12000 celsius degrees and produce ligth.
   With this, you can make a \"star in a jar\" like [this](https://www.youtube.com/watch?v=puVxGnl_3y8), or like [this](https://www.youtube.com/watch?v=0TVZd8dZysY&list=WL&index=284). 
 
-  [!TIP]
-  > If you want someting cool to put on the shelf, You can make [this](https://www.youtube.com/watch?v=VTBZ0VwIgs8&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=119) witch looks like Tony Stark`s ark reactor with it`s glow.
+> [!TIP]
+> If you want someting cool to put on the shelf, You can make [this](https://www.youtube.com/watch?v=VTBZ0VwIgs8&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=119) witch looks like Tony Stark`s ark reactor with it`s glow.
 
   You can read more in this papers:
   - http://techmind.org/sl/
@@ -39,7 +39,7 @@ Some projects will resive a separate project file in witch I will make my own ve
 
 
 <details> 
-  <summary>✔️Capacitive touch </summary>
+  <summary>Capacitive touch ✔️</summary>
 
   With capacitive touch you can make [musical instruments](https://www.youtube.com/watch?v=3xUH_vCHk9A), [keyboards](https://www.youtube.com/watch?v=FjcVGP6vktM) and all king of [projects](https://www.youtube.com/watch?v=mWR9Q_pTagw).
   Here are more projects and informations about capacitive sensing:
@@ -49,21 +49,8 @@ Some projects will resive a separate project file in witch I will make my own ve
 </details>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 <details> 
-<summary>Start a Pottery Journei /   Make Clay </summary>
+<summary>♻️🎯 Start a Pottery Journei - Make Clay </summary>
 
   If you don`t want to pay for \"[magic dirt](https://www.youtube.com/watch?v=ca20JkKFAcE)\",  make it yourself.
   Go in the forest or other dirty places and search for sticky soil (look for tire marks, yellow color soil, mud, ...). Filter it until you remain with particles smaller than 2um, add some more [ingredients](https://www.youtube.com/watch?v=HbLdNKM9y68&list=WL&index=125) and start making vases and other kinks of yours.  
@@ -89,14 +76,7 @@ Some projects will resive a separate project file in witch I will make my own ve
 
 
 <details> 
-  <summary>Osmosis</summary> 
-  
-  If you separate in a container, pure water(H2O) and /"salty/" water with a membrane with holes big enouch that only water molecules can pass truth it, the pure water will flow to the /"salty/" water [video1](https://www.youtube.com/watch?v=4RDA_B_dRQ0&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=259), [video2](https://www.youtube.com/watch?v=vCJVXYmXkzM&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=252&t=174s). This process is called <b>osmosis</b>. By presurasing the /"salty/" water, you can push it trouth the filter, so only the water molecules to go trouth the filter, making pure water. This process named <b>reverse osmosis</b> is used in city water purrifiers. By combining the pure water with some esential minerals, you can make the water potable. Pure water in big quantities is [poisonous](https://www.youtube.com/watch?v=L-osEc07vMs&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=251).
-</details>
-
-
-<details> 
-  <summary>Starlyte</summary>
+  <summary>❗❗❗Starlyte‼️‼️</summary>
   <table>
     <tr>
       <td> 
@@ -108,6 +88,37 @@ Some projects will resive a separate project file in witch I will make my own ve
     </tr>
   </table>
 </details>
+
+
+
+
+
+
+## Sience facts:
+
+<details> 
+  <summary>‼️ Osmosis</summary> 
+  
+  If you separate in a container, pure water(H2O) and /"salty/" water with a membrane with holes big enouch that only water molecules can pass truth it, the pure water will flow to the /"salty/" water [video1](https://www.youtube.com/watch?v=4RDA_B_dRQ0&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=259), [video2](https://www.youtube.com/watch?v=vCJVXYmXkzM&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=252&t=174s). This process is called <b>osmosis</b>. By presurasing the /"salty/" water, you can push it trouth the filter, so only the water molecules to go trouth the filter, making pure water. This process named <b>reverse osmosis</b> is used in city water purrifiers. By combining the pure water with some esential minerals, you can make the water potable. Pure water in big quantities is [poisonous](https://www.youtube.com/watch?v=L-osEc07vMs&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=251).
+</details>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

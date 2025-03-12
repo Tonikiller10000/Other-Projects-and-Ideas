@@ -24,16 +24,17 @@ Some projects will resive a separate project file in witch I will make my own ve
 
 
 ## Projects:
-- [x] <details> 
-  <summary>Sonoluminescence </summary>
+- [x] 
+  - <details> 
+      <summary>Sonoluminescence </summary>
 
-  [Sonoluminescence](https://en.wikipedia.org/wiki/Sonoluminescence) is a process in witch you can \"transform\" sound into ligth. 
-  It works by creating a fast colapsing air buble in the water witch, because of the verry high pressure can reach almost 12000 celsius degrees and produce ligth.
-  With this, you can make a \"star in a jar\" like [this](https://www.youtube.com/watch?v=puVxGnl_3y8) guy, or like [this](https://www.youtube.com/watch?v=0TVZd8dZysY&list=WL&index=284) guy. Other way "conserving" power is heating rare gases with electrons like [this](https://www.youtube.com/watch?v=VTBZ0VwIgs8&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=119).
-  You can read more in this papers:
-  - http://techmind.org/sl/
-  - https://pubs.aip.org/asa/jasa/article/138/4/2181/899097/Resource-Paper-Sonoluminescence
-</details>
+      [Sonoluminescence](https://en.wikipedia.org/wiki/Sonoluminescence) is a process in witch you can \"transform\" sound into ligth. 
+      It works by creating a fast colapsing air buble in the water witch, because of the verry high pressure can reach almost 12000 celsius degrees and produce ligth.
+      With this, you can make a \"star in a jar\" like [this](https://www.youtube.com/watch?v=puVxGnl_3y8) guy, or like [this](https://www.youtube.com/watch?v=0TVZd8dZysY&list=WL&index=284) guy. Other way "conserving" power is heating rare gases with electrons like [this](https://www.youtube.com/watch?v=VTBZ0VwIgs8&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=119).
+      You can read more in this papers:
+      - http://techmind.org/sl/
+      - https://pubs.aip.org/asa/jasa/article/138/4/2181/899097/Resource-Paper-Sonoluminescence
+    </details>
 
 
 
@@ -41,18 +42,18 @@ Some projects will resive a separate project file in witch I will make my own ve
 
 
 - [x] 
-<details> 
-  <summary>Capacitive touch </summary>
+  <details> 
+    <summary>Capacitive touch </summary>
 
-  With capacitive touch you can make [musical instruments](https://www.youtube.com/watch?v=3xUH_vCHk9A), keyboards and all king of projects.
-  Here are multiple links with projects and tutorials with capacitive sensing:
-  - https://www.youtube.com/watch?v=DxWZUTnEvhs
-  - https://www.youtube.com/watch?v=X7U_6wZqxro
-  - https://www.youtube.com/watch?v=FjcVGP6vktM
-  - https://www.youtube.com/watch?v=gxLzgeiJQbE
-  - https://www.youtube.com/watch?v=mWR9Q_pTagw
+    With capacitive touch you can make [musical instruments](https://www.youtube.com/watch?v=3xUH_vCHk9A), keyboards and all king of projects.
+    Here are multiple links with projects and tutorials with capacitive sensing:
+    - https://www.youtube.com/watch?v=DxWZUTnEvhs
+    - https://www.youtube.com/watch?v=X7U_6wZqxro
+    - https://www.youtube.com/watch?v=FjcVGP6vktM
+    - https://www.youtube.com/watch?v=gxLzgeiJQbE
+    - https://www.youtube.com/watch?v=mWR9Q_pTagw
 
-</details>
+  </details>
 
 
 
@@ -60,30 +61,30 @@ Some projects will resive a separate project file in witch I will make my own ve
 
 
 - [x] 
-<details> 
-  <summary>Start a Pottery Journei /   Make Clay </summary>
+    - <details> 
+      <summary>Start a Pottery Journei /   Make Clay </summary>
 
-  If you don`t want to pay for \"[magic dirt](https://www.youtube.com/watch?v=ca20JkKFAcE)\",  make it yourself.
-  Go in the forest or other dirty places and search for sticky soil (look for tire marks, yellow color soil, mud, ...). Filter it until you remain with particles smaller than 2um, add some more [ingredients](https://www.youtube.com/watch?v=HbLdNKM9y68&list=WL&index=125) and start making vases and other kinks of yours.  
-  Have fun and [reuse](https://www.youtube.com/shorts/1bMbADiztPY). 
-  <table>
-    <tr>
-      <td><img src="https://github.com/Tonikiller10000/Other-Projects-and-Ideas/blob/main/ProjectsAndIdeeas/Clay/c2.jpg" ></td>
-      <td><img src="https://github.com/Tonikiller10000/Other-Projects-and-Ideas/blob/main/ProjectsAndIdeeas/Clay/c3.jpg" ></td>
-      <td><img src="https://github.com/Tonikiller10000/Other-Projects-and-Ideas/blob/main/ProjectsAndIdeeas/Clay/c4.jpg" ></td> 
-    </tr>
-  </table>
-  <table>
-    <tr>
-      <td><img src="https://github.com/Tonikiller10000/Other-Projects-and-Ideas/blob/main/ProjectsAndIdeeas/Clay/c1.jpg" ></td>
-      <td><img src="https://github.com/Tonikiller10000/Other-Projects-and-Ideas/blob/main/ProjectsAndIdeeas/Clay/c5.jpg" ></td> 
-      <td><img src="https://github.com/Tonikiller10000/Other-Projects-and-Ideas/blob/main/ProjectsAndIdeeas/Clay/c6.jpg" ></td>  
-      <td><img src="https://github.com/Tonikiller10000/Other-Projects-and-Ideas/blob/main/ProjectsAndIdeeas/Clay/c7.jpg" ></td>
-      <td><img src="https://github.com/Tonikiller10000/Other-Projects-and-Ideas/blob/main/ProjectsAndIdeeas/Clay/c8.jpg" ></td>  
-      <td><img src="https://github.com/Tonikiller10000/Other-Projects-and-Ideas/blob/main/ProjectsAndIdeeas/Clay/c9.jpg" ></td>     
-    </tr>
-  </table>
-</details>
+      If you don`t want to pay for \"[magic dirt](https://www.youtube.com/watch?v=ca20JkKFAcE)\",  make it yourself.
+      Go in the forest or other dirty places and search for sticky soil (look for tire marks, yellow color soil, mud, ...). Filter it until you remain with particles smaller than 2um, add some more [ingredients](https://www.youtube.com/watch?v=HbLdNKM9y68&list=WL&index=125) and start making vases and other kinks of yours.  
+      Have fun and [reuse](https://www.youtube.com/shorts/1bMbADiztPY). 
+      <table>
+        <tr>
+          <td><img src="https://github.com/Tonikiller10000/Other-Projects-and-Ideas/blob/main/ProjectsAndIdeeas/Clay/c2.jpg" ></td>
+          <td><img src="https://github.com/Tonikiller10000/Other-Projects-and-Ideas/blob/main/ProjectsAndIdeeas/Clay/c3.jpg" ></td>
+          <td><img src="https://github.com/Tonikiller10000/Other-Projects-and-Ideas/blob/main/ProjectsAndIdeeas/Clay/c4.jpg" ></td> 
+        </tr>
+      </table>
+      <table>
+        <tr>
+          <td><img src="https://github.com/Tonikiller10000/Other-Projects-and-Ideas/blob/main/ProjectsAndIdeeas/Clay/c1.jpg" ></td>
+          <td><img src="https://github.com/Tonikiller10000/Other-Projects-and-Ideas/blob/main/ProjectsAndIdeeas/Clay/c5.jpg" ></td> 
+          <td><img src="https://github.com/Tonikiller10000/Other-Projects-and-Ideas/blob/main/ProjectsAndIdeeas/Clay/c6.jpg" ></td>  
+          <td><img src="https://github.com/Tonikiller10000/Other-Projects-and-Ideas/blob/main/ProjectsAndIdeeas/Clay/c7.jpg" ></td>
+          <td><img src="https://github.com/Tonikiller10000/Other-Projects-and-Ideas/blob/main/ProjectsAndIdeeas/Clay/c8.jpg" ></td>  
+          <td><img src="https://github.com/Tonikiller10000/Other-Projects-and-Ideas/blob/main/ProjectsAndIdeeas/Clay/c9.jpg" ></td>     
+        </tr>
+      </table>
+    </details>
 
 
 

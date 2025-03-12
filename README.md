@@ -90,11 +90,8 @@ Some projects will resive a separate project file in witch I will make my own ve
 - [x] <details> <summary>Osmosis</summary> If you separate in a container, pure water(H2O) and /"salty/" water with a membrane with holes big enouch that only water molecules can pass truth it, the pure water will flow to the /"salty/" water [video1](https://www.youtube.com/watch?v=4RDA_B_dRQ0&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=259), [video2](https://www.youtube.com/watch?v=vCJVXYmXkzM&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=252&t=174s). This process is called <b>osmosis</b>. By presurasing the /"salty/" water, you can push it trouth the filter, so only the water molecules to go trouth the filter, making pure water. This process named <b>reverse osmosis</b> is used in city water purrifiers. By combining the pure water with some esential minerals, you can make the water potable. Pure water in big quantities is [poisonous](https://www.youtube.com/watch?v=L-osEc07vMs&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=251).
 </details>
 
+- [x] [Link Text 1]( #AnchorPoint_IcecreamPlate )
 
-- [x] Osmosis
-<details> 
-  If you separate in a container, pure water(H2O) and /"salty/" water with a membrane with holes big enouch that only water molecules can pass truth it, the pure water will flow to the /"salty/" water [video1](https://www.youtube.com/watch?v=4RDA_B_dRQ0&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=259), [video2](https://www.youtube.com/watch?v=vCJVXYmXkzM&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=252&t=174s). This process is called <b>osmosis</b>. By presurasing the /"salty/" water, you can push it trouth the filter, so only the water molecules to go trouth the filter, making pure water. This process named <b>reverse osmosis</b> is used in city water purrifiers. By combining the pure water with some esential minerals, you can make the water potable. Pure water in big quantities is [poisonous](https://www.youtube.com/watch?v=L-osEc07vMs&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=251).
-</details>
 
 
 
@@ -118,7 +115,7 @@ Some projects will resive a separate project file in witch I will make my own ve
 
 
 <details> 
-<summary>Icecream Plate</summary>
+<summary name="AnchorPoint_IcecreamPlate">Icecream Plate</summary>
 
 I tried to make [this](https://youtu.be/LPOWmK9EWk0?si=V09L9m4uheya51iG) Icecream plate with some peltier plates, but unfortunetly that didn\`t work. It was cooling too slow, and to little.
 I even used 2 peltier plates with thermal paste in between and a computer heatsink with the fan connected for more cooling, but it [didn\`t worked](https://github.com/Tonikiller10000/Other-Projects-and-Ideas/blob/main/ProjectsAndIdeeas/PeltierPlate_IceCreamMachine/f.mp4). I will try it again in the future with a mechanical method of cooling (compressor).

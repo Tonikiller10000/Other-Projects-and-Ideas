@@ -20,8 +20,8 @@ Some projects will resive a separate project file in witch I will make my own ve
 
 
 
-<details id="Sonoluminescence_Pointer"> 
-  <summary>Sonoluminescence </summary>
+<details> 
+  <summary name="Sonoluminescence_Pointer">Sonoluminescence </summary>
 
   [Sonoluminescence](https://en.wikipedia.org/wiki/Sonoluminescence) is a process in witch you can \"transform\" sound into ligth. 
   It works by creating a fast colapsing air buble in the water witch, because of the verry high pressure can reach almost 12000 celsius degrees and produce ligth.
@@ -33,11 +33,11 @@ Some projects will resive a separate project file in witch I will make my own ve
 
 
 ## Projects:
-
+- [] fdgd
 - [] (Sonoluminescence ✔️ )[#Sonoluminescence_Pointer]  
-- [] 
-- [X] 
-- [] 
+- [] dfgdfg
+- [X] dfgdfg
+- [] dfgdfgdgdfgd
 
 
 

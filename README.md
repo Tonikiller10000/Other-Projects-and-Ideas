@@ -40,9 +40,7 @@ Some projects will resive a separate project file in witch I will make my own ve
 
 
 
-- [x] <details> 
-    <summary>Capacitive touch </summary>
-
+- [x] <details> <summary>Capacitive touch </summary>
     With capacitive touch you can make [musical instruments](https://www.youtube.com/watch?v=3xUH_vCHk9A), keyboards and all king of projects.
     Here are multiple links with projects and tutorials with capacitive sensing:
     - https://www.youtube.com/watch?v=DxWZUTnEvhs
@@ -58,7 +56,7 @@ Some projects will resive a separate project file in witch I will make my own ve
 
 
 
-- [x]  <details> 
+- [x] /<details> 
       <summary>Start a Pottery Journei /   Make Clay </summary>
 
       If you don`t want to pay for \"[magic dirt](https://www.youtube.com/watch?v=ca20JkKFAcE)\",  make it yourself.

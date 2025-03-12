@@ -20,19 +20,7 @@ Some projects will resive a separate project file in witch I will make my own ve
 
 
 
-
-
-
-## Projects:
-- [] (Sonoluminescence ✔️ :heavy_check_mark:)[#Sonoluminescence_Pointer]  
-- [] 
-- [X] 
-- [] 
-
-
-
-
-<details name="Sonoluminescence_Pointer"> 
+<details id="Sonoluminescence_Pointer"> 
   <summary>Sonoluminescence </summary>
 
   [Sonoluminescence](https://en.wikipedia.org/wiki/Sonoluminescence) is a process in witch you can \"transform\" sound into ligth. 
@@ -42,6 +30,19 @@ Some projects will resive a separate project file in witch I will make my own ve
   - http://techmind.org/sl/
   - https://pubs.aip.org/asa/jasa/article/138/4/2181/899097/Resource-Paper-Sonoluminescence
 </details>
+
+
+## Projects:
+
+- [] (Sonoluminescence ✔️ )[#Sonoluminescence_Pointer]  
+- [] 
+- [X] 
+- [] 
+
+
+
+
+
 
 
 

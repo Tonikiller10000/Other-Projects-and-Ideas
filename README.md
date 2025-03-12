@@ -24,7 +24,7 @@ Some projects will resive a separate project file in witch I will make my own ve
 
 
 ## Projects:
-- [x]<details> 
+- [x] <details> 
   <summary>Sonoluminescence </summary>
 
   [Sonoluminescence](https://en.wikipedia.org/wiki/Sonoluminescence) is a process in witch you can \"transform\" sound into ligth. 
@@ -40,7 +40,8 @@ Some projects will resive a separate project file in witch I will make my own ve
 
 
 
-- [x]<details> 
+- [x] 
+<details> 
   <summary>Capacitive touch </summary>
 
   With capacitive touch you can make [musical instruments](https://www.youtube.com/watch?v=3xUH_vCHk9A), keyboards and all king of projects.
@@ -58,7 +59,8 @@ Some projects will resive a separate project file in witch I will make my own ve
 
 
 
-- [ ]<details> 
+- [x] 
+<details> 
   <summary>Start a Pottery Journei /   Make Clay </summary>
 
   If you don`t want to pay for \"[magic dirt](https://www.youtube.com/watch?v=ca20JkKFAcE)\",  make it yourself.

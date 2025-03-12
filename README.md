@@ -24,15 +24,28 @@ Some projects will resive a separate project file in witch I will make my own ve
 
 
 ## Projects:
-- [x] <details> 
-      <summary>Sonoluminescence </summary>
 
-      [Sonoluminescence](https://en.wikipedia.org/wiki/Sonoluminescence) is a process in witch you can \"transform\" sound into ligth. 
-      It works by creating a fast colapsing air buble in the water witch, because of the verry high pressure can reach almost 12000 celsius degrees and produce ligth.
-      With this, you can make a \"star in a jar\" like [this](https://www.youtube.com/watch?v=puVxGnl_3y8) guy, or like [this](https://www.youtube.com/watch?v=0TVZd8dZysY&list=WL&index=284) guy. Other way "conserving" power is heating rare gases with electrons like [this](https://www.youtube.com/watch?v=VTBZ0VwIgs8&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=119).
-      You can read more in this papers:
-      - http://techmind.org/sl/
-      - https://pubs.aip.org/asa/jasa/article/138/4/2181/899097/Resource-Paper-Sonoluminescence
+Content: To-Do | Completed | Aborted
+- (Sonoluminescence :white_check_mark:)[#Sonoluminescence]  
+
+
+
+
+### Sonoluminescence
+[Sonoluminescence](https://en.wikipedia.org/wiki/Sonoluminescence) is a process in witch you can \"transform\" sound into ligth. 
+It works by creating a fast colapsing air buble in the water witch, because of the verry high pressure can reach almost 12000 celsius degrees and produce ligth.
+With this, you can make a \"star in a jar\" like [this](https://www.youtube.com/watch?v=puVxGnl_3y8) guy, or like [this](https://www.youtube.com/watch?v=0TVZd8dZysY&list=WL&index=284) guy. Other way "conserving" power is heating rare gases with electrons like [this](https://www.youtube.com/watch?v=VTBZ0VwIgs8&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=119).
+You can read more in this papers:
+- http://techmind.org/sl/
+- https://pubs.aip.org/asa/jasa/article/138/4/2181/899097/Resource-Paper-Sonoluminescence
+
+
+
+
+- [x] 
+
+
+      
     </details>
 
 

@@ -32,18 +32,19 @@ Some projects will resive a separate project file in witch I will make my own ve
 ## Projects:
 
 <details> 
-  <summary>Sonoluminescence - A star in a jar</summary>
+<summary>Sonoluminescence - A star in a jar</summary>
 
   [Sonoluminescence](https://en.wikipedia.org/wiki/Sonoluminescence) is a process in witch you can \"transform\" sound into ligth. 
   It works by creating a fast colapsing air buble in the water witch, because of the verry high pressure can reach almost 12000 celsius degrees and produce ligth.
   With this, you can make a \"star in a jar\" like [this](https://www.youtube.com/watch?v=puVxGnl_3y8), or like [this](https://www.youtube.com/watch?v=0TVZd8dZysY&list=WL&index=284). 
 
-> [!TIP]
-> If you want someting cool to put on the shelf, You can make [this](https://www.youtube.com/watch?v=VTBZ0VwIgs8&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=119) witch looks like Tony Stark`s ark reactor with it`s glow.
+  > [!TIP]
+  > If you want someting cool to put on the shelf, You can make [this](https://www.youtube.com/watch?v=VTBZ0VwIgs8&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=119) witch looks like Tony Stark`s ark reactor with it`s glow.
 
   You can read more in this papers:
   - http://techmind.org/sl/
   - https://pubs.aip.org/asa/jasa/article/138/4/2181/899097/Resource-Paper-Sonoluminescence
+
 </details>
 
 
@@ -97,11 +98,74 @@ I even used 2 peltier plates with thermal paste in between and a computer heatsi
 </details>
 
 
+<details> 
+  <summary>⌛ Stylophone</summary>
+
+  Here are some links about stylophones:
+  - [stylocard](https://mitxela.com/projects/stylocard)
+  - https://www.youtube.com/watch?v=sNcSVarygp8&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=87
+  - https://www.youtube.com/watch?v=IhXfpPWdqs4&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=88
+  - https://youtube.com/watch?v=LMJFWbm__eQ&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=89
+  - https://www.youtube.com/watch?v=th4LBWtQexE&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=90
+  - http://www.stevegs.com/music/stylophone/
+  - https://www.instructables.com/A-Stylophone/
+</details>
+
+
+<details> 
+  <summary>Centrifuge</summary>
+
+  Here are some links about how to make you\`r own centrifuge:
+  - https://www.youtube.com/watch?v=V-CQP5bLD6A&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=26&t=323s
+  - https://www.youtube.com/watch?v=KEXWd3_fM94&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=157
+  - https://www.youtube.com/watch?v=EWWUqkEXJUE&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=123
+</details>
+
+<details> 
+  <summary>3D printed bearings</summary>
+
+  Homemade bearings:
+  - 3D printed bearing with metal balls: https://www.youtube.com/watch?v=eT8oQvHjzXE&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=36
+  - Fully 3D printed bearing: https://www.youtube.com/watch?v=HboIscftCL8&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=37
+  - General bearings clasification: https://www.youtube.com/watch?v=5Dkruh8NO9E&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=38
+  - Bearings mounting: https://www.youtube.com/watch?v=8V8MH2k8Igs&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=39
+  - 3D printed Bearings testing: https://www.youtube.com/watch?v=6hcl3mgk2tc&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=40
+  - 3D printed Bearing: https://www.youtube.com/watch?v=_MIx_vN2Dtk&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=26
+  - One way bearing: https://www.youtube.com/watch?v=UIhCPl8eb7s&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=27
+  - 3D printed bearing with metal balls(2): https://www.youtube.com/watch?v=5YIZaJnER_k&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=143
+  - Fully 3D printed bearing(2): https://www.youtube.com/watch?v=nRrHrB6gaoE&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=112
+</details>
+
+
+<details> 
+  <summary>Coil Gun ❌</summary>
+
+  I aborthed this project because I wanted something small and powerfull, but it is not possible or verry hard to do and inconvenient to use(wait 10s between bulets is a no no for me)
+   Making it big and connecting it to the power grid like a turret sounds good, but in smaller forms, the charging time of the capacitors, the high voltages and sometimes 
+   the need for special bulets make it verry inconvenient for \' field use \' .
+
+  Coil Gun:
+  - https://www.youtube.com/watch?v=Xll9rIzZPeQ&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=90
+  - https://www.youtube.com/watch?v=KikIp_yAXvQ&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=160
+  - https://www.youtube.com/watch?v=MXLzC7Jo4hA&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=161
+  - https://www.youtube.com/watch?v=ReFUr3KuK40&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=162
+  - https://www.youtube.com/watch?v=_hRNFN5Hxzo&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=163&t=1s
+  - https://www.youtube.com/watch?v=Zm_oZZZBLj8&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=165
+  - https://www.youtube.com/watch?v=qXXYkxCSiUY&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=166&t=870s
+  - https://www.youtube.com/watch?v=JqCHuwemHYU&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=169
+  - https://www.youtube.com/watch?v=_4TGb3MsSjE&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=173&t=318s
+  - https://www.youtube.com/watch?v=vtoWxGVx5kA&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=175
+  - https://www.youtube.com/watch?v=id90kjYh-Qw&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=176&t=247s
+  - https://www.youtube.com/watch?v=PMU9TQUDhow&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=177
+  - https://www.youtube.com/watch?v=QTDcFxTq1Fw&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=178&t=1162s
+  coilgun1: https://youtube.com/playlist?list=PLKl_Ihtuj1fpWz5WA09WJIgf677wJ2ihX&si=pw_s7M9z9sdtHSva
+</details>
+
 
 ## Learn more
 
 <details> 
-  <summary>Capacitive touch ✔️</summary>
+  <summary>⌛ Capacitive touch </summary>
 
   With capacitive touch you can make [musical instruments](https://www.youtube.com/watch?v=3xUH_vCHk9A), [keyboards](https://www.youtube.com/watch?v=FjcVGP6vktM) and all king of [projects](https://www.youtube.com/watch?v=mWR9Q_pTagw).
   Here are more projects and informations about capacitive sensing:
@@ -110,13 +174,152 @@ I even used 2 peltier plates with thermal paste in between and a computer heatsi
   - https://www.youtube.com/watch?v=gxLzgeiJQbE
 </details>
 
+
+<details> 
+  <summary>Speaker Enclosures ☑️</summary>
+
+If you want to make some speakers, here is how to make the [perfect](https://www.youtube.com/watch?v=pUgxjNrwvOE&list=WL&index=130) enclosure:
+  - https://www.youtube.com/watch?v=Df2I4JIQzxs
+  - https://www.youtube.com/watch?v=xT1gYZGDx4I&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=13
+  - https://www.youtube.com/watch?v=GrrxGm18KSY&list=WL&index=127
+  - https://www.youtube.com/watch?v=XEspOD1NHr0&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=217
+
+</details>
+
+
+<details> 
+  <summary>⌛ USB-C Power Delivery</summary>
+
+  My personal opinion with USB C power delivery is that is a verry cool concept but it`s hard to implement and use:
+  You need an special <bold>power plug to support the power delivery</bold>and an cable witch can deliver that much power witch is the main inconvenience,
+  knowing that if you want to harness more power from the USB port in a project, you will need to always use a special power plug, 
+  witch are also more expensive than normal plugs and some of them does not have an additional USB A port for normal use.
+  Also, in case you need to use it in a project it`s much cheaper and less time consumming to just buy an battery charger pcb or an PD trigger device 
+  than making a specific pcb, considerring that if you make a pcb is because of the space constrains, 
+  but if you need usb C PD, you use it for higher voltages components or series batteries witch use a lot of space.
+
+
+  Papers & videos:
+  - https://www.asme.org/topics-resources/content/explore-the-basics-of-usb-c-and-usb-power-delivery
+  - https://reclaimerlabs.com/
+  - https://www.usb.org/
+  - https://youtu.be/OwAZqJ4wpJg?si=BEcy-nQlTGwnmcvM
+  - https://www.youtube.com/watch?v=qV03FfdPHOw&list=WL&index=28
+  - https://learn.sparkfun.com/tutorials/power-delivery-board---usb-c-qwiic-hookup-guide/all
+  - https://circuitcellar.com/research-design-hub/basics-of-design/build-a-usb-c-power-supply/
+  - https://www.st.com/content/ccc/resource/sales_and_marketing/presentation/product_presentation/group0/5a/b1/8e/6c/2b/0d/46/3c/Apec/files/APEC_2016_USB_Power.pdf/_jcr_content/translations/en.APEC_2016_USB_Power.pdf
+  - https://community.infineon.com/t5/USB-EZ-PD-Type-C/USB-Power-Delivery-adjustable-voltage-mode/td-p/403013
+  - https://www.allaboutcircuits.com/technical-articles/introduction-to-usb-type-c-which-pins-power-delivery-data-transfer/
+
+  Hardware design:
+  - https://www.youtube.com/watch?v=W13HNsoHj7A
+  - [PowerBank](https://www.youtube.com/watch?v=yEbbhTw0kno&t=1s)
+  - https://www.youtube.com/watch?v=_WI9Nwqvplo
+  - https://www.ti.com/jp/lit/ml/slyp735/slyp735.pdf?ts=1714842921522&ref_url=https%253A%252F%252Fwww.google.com%252F
+  - https://www.ti.com/lit/wp/slyy145a/slyy145a.pdf?ts=1714828882912&ref_url=https%253A%252F%252Fwww.google.com%252F
+
+  PD triggers:
+  - https://www.youtube.com/watch?v=iumAnPiQSj8
+  - https://www.youtube.com/watch?v=DQLrZA5RMjQ
+
+  Datasheets:
+
+
+</details>
+
+<details> 
+  <summary> ASIC/`s,  (FPGA/`s) & Verilog ❌</summary>
+  Nowadays the <bold>ASIC\'s(Aplication Specific Integrated Circuits)</bold> are not verry used because of the <bold>FPGA (Field Programable Gate Arrays)</bold> advancements witch make them verry fast and in a small form factor, 
+  also being <bold>cheaper and reprogramable</bold>. 
+
+ASIC:
+  - ASIC1: https://docs.google.com/document/d/1H3jA7guvXT7toEvUObOQ1viQ6Qz_QSGDiJ5OBS2pDEI/edit#heading=h.ry34bfjf6w62
+  - ASIC2: https://app.siliwiz.com/?preset=blank
+  - ASIC3: https://www.youtube.com/watch?v=69mdJv6fWXE
+  - ASIC4: https://www.youtube.com/watch?v=FMdYuGpPicw&list=WL&index=69&t=19s
+  - ASIC5: https://www.youtube.com/watch?v=lq2BpWwcyQM
+  - Verilog1: https://www.youtube.com/watch?v=Q99vxvszktI&t=1034s
+  - Electronoobs FPGA: https://www.youtube.com/playlist?list=PLsR1AO4QH1AyT3b0pUERjFVShbzEelogi
+  - ICEStudio FPGA Great scott: https://www.youtube.com/watch?v=ZNunxg7o8l0
+  - Phil\`s lab FPGA\`s: https://www.youtube.com/playlist?list=PLXSyc11qLa1ZutrEG2XmyWrNz17SSQTdH
+  - FPGA2: https://www.youtube.com/watch?v=Wsou_zhCEYQ
+  - VERILOG2: https://www.youtube.com/watch?v=aWm9pJ2KobA
+  - FPGA3: https://www.youtube.com/playlist?list=PLEBQazB0HUyT1WmMONxRZn9NmQ_9CIKhb
+  - Reverse engeneering: https://www.youtube.com/watch?v=ICykppClja8&list=WL&index=177&t=299s
+
+Verilog/fpga:
+  - https://www.youtube.com/playlist?list=PLn8PRpmsu08pQBgjxYFXSsODEF3Jqmm-y
+  - https://www.fpga4fun.com/Opto.html
+  - https://www.fpga4student.com/p/fpga-projects.html
+  - https://zipcpu.com/tutorial/
+  - https://www.cas.mcmaster.ca/~lawford/3TB4/ref/VerilogPresent-v1.3.pdf
+  - http://classweb.ece.umd.edu/enee359a/verilog_tutorial.pdf
+  - https://www.chipverify.com/tutorials/systemverilog#google_vignette
+  - https://www.youtube.com/playlist?list=PL3Soy1ohxlP1TLpcbYXYcVWItRy_XrUk8
+  - https://www.javatpoint.com/verilog
+  - https://www.youtube.com/watch?v=i0xgt46Q2ts&list=WL&index=115&t=2s
+
+
+
+</details>
+
+<details> 
+  <summary>What do you need to fly a drone ☑️</summary>
+
+  Links:
+  - [legislatie zbor cu drona in ROMANIA](https://www.youtube.com/watch?v=lWt6r363AkY&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=236)
+  - [legislatie zbor cu drona in ROMANIA](https://www.youtube.com/watch?v=MWd5waix_OU&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=244&t=560s)
+  - [legislatie zbor cu drona in RO + EU](https://www.youtube.com/watch?v=P1GxJ2GM1RE&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=238)
+  - [drone regulations in EU 1](https://www.youtube.com/watch?v=YVvkAG-9UJE&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=239&t=12s)
+  - [drone regulations in EU 2](https://www.youtube.com/watch?v=Cb6jF1VytRk&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=240)
+  - [drone regulations in EU 3](https://www.youtube.com/watch?v=rgn8VKrG6pw&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=241)
+  - [drone regulations in EU 4](https://www.youtube.com/watch?v=rekcJuTpZb0&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=242)
+  - [drone regulations in EU 5](https://www.youtube.com/watch?v=KZoaMVEDjmE&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=243&t=347s)
+  - [drone regulations in EU 6](https://www.youtube.com/watch?v=UZfZWETPYAc&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=245&t=173s)
+  - [drone regulations in EU 7](https://www.youtube.com/watch?v=vHXszLsQMvs&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=246)
+
+</details>
+
+
+
 ## Sience facts:
 
 <details> 
   <summary>‼️ Osmosis</summary> 
   
-  If you separate in a container, pure water(H2O) and /"salty/" water with a membrane with holes big enouch that only water molecules can pass truth it, the pure water will flow to the /"salty/" water [video1](https://www.youtube.com/watch?v=4RDA_B_dRQ0&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=259), [video2](https://www.youtube.com/watch?v=vCJVXYmXkzM&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=252&t=174s). This process is called <b>osmosis</b>. By presurasing the /"salty/" water, you can push it trouth the filter, so only the water molecules to go trouth the filter, making pure water. This process named <b>reverse osmosis</b> is used in city water purrifiers. By combining the pure water with some esential minerals, you can make the water potable. Pure water in big quantities is [poisonous](https://www.youtube.com/watch?v=L-osEc07vMs&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=251).
+  If you separate in a container, pure water(H2O) and /"salty/" water with a membrane with holes big enouch that only water molecules can pass truth it, 
+  the pure water will flow to the /"salty/" water [video1](https://www.youtube.com/watch?v=4RDA_B_dRQ0&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=259), 
+  [video2](https://www.youtube.com/watch?v=vCJVXYmXkzM&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=252&t=174s). 
+  This process is called <b>osmosis</b>. By presurasing the /"salty/" water, you can push it trouth the filter, so only the water molecules to go trouth the filter,
+   making pure water. This process named <b>reverse osmosis</b> is used in city water purrifiers. By combining the pure water with some esential minerals,
+    you can make the water potable. Pure water in big quantities is [poisonous](https://www.youtube.com/watch?v=L-osEc07vMs&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=251).
+  There are buyable filters for household use.
 </details>
+
+
+
+
+
+
+
+
+
+
+
+
+
+################### drone licence
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -170,28 +373,6 @@ Forth and fifth are not good decoratives, but are preety cool phisics experiment
 </details>
 
 
-
-
-
-
-
-
-<details> 
-  <summary>Speaker Enclosure </summary>
-
-If you want to make some speakers, here is how to make the [perfect](https://www.youtube.com/watch?v=pUgxjNrwvOE&list=WL&index=130) enclosure:
-  - https://www.youtube.com/watch?v=Df2I4JIQzxs
-  - https://www.youtube.com/watch?v=xT1gYZGDx4I&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=13
-  - https://www.youtube.com/watch?v=GrrxGm18KSY&list=WL&index=127
-  - https://www.youtube.com/watch?v=XEspOD1NHr0&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=217
-
-</details>
-
-
-
-
-
-
 <details> 
   <summary>Satelite</summary>
 
@@ -203,10 +384,6 @@ If you want to make some speakers, here is how to make the [perfect](https://www
 
 
 
-
-
-
-
 <details> 
   <summary>Haptic touch</summary>
 
@@ -215,41 +392,11 @@ If you want to make some speakers, here is how to make the [perfect](https://www
 
 
 
-
-
-
-
 <details> 
   <summary>Jet Engine</summary>
 
   If you want to make a [Jet Engine](https://www.youtube.com/watch?v=Is3HRNNZxc8&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=48), this is the [channel](https://www.youtube.com/@integza) that you are looking for.
 </details>
-
-
-
-
-
-
-
-<details> 
-  <summary>Stylophone</summary>
-
-  Here are some links about stylophones:
-  - [stylocard](https://mitxela.com/projects/stylocard)
-  - https://www.youtube.com/watch?v=sNcSVarygp8&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=87
-  - https://www.youtube.com/watch?v=IhXfpPWdqs4&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=88
-  - https://youtube.com/watch?v=LMJFWbm__eQ&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=89
-  - https://www.youtube.com/watch?v=th4LBWtQexE&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=90
-  - http://www.stevegs.com/music/stylophone/
-  - https://www.instructables.com/A-Stylophone/
-</details>
-
-
-
-
-
-
-
 
 
 <details> 
@@ -290,26 +437,6 @@ If you want to make some speakers, here is how to make the [perfect](https://www
 
 
 
-
-
-
-
-<details> 
-  <summary>Centrifuge</summary>
-
-  Here are some links about how to make you\`r own centrifuge:
-  - https://www.youtube.com/watch?v=V-CQP5bLD6A&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=26&t=323s
-  - https://www.youtube.com/watch?v=sjDpubdTjUU&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=156
-  - https://www.youtube.com/watch?v=KEXWd3_fM94&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=157
-  - https://www.youtube.com/watch?v=EWWUqkEXJUE&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=123
-</details>
-
-
-
-
-
-
-
 <details> 
   <summary>Arduino drums</summary>
 
@@ -322,8 +449,6 @@ If you want to make some speakers, here is how to make the [perfect](https://www
   - https://www.instructables.com/MIDI-Arduino-Drums/
   - https://www.youtube.com/watch?v=cDVI-QIp1Nc&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=71
 </details>
-
-
 
 
 
@@ -341,61 +466,6 @@ If you want to make some speakers, here is how to make the [perfect](https://www
 
 
 
-
-<details> 
-  <summary>Homemade bearings</summary>
-
-  Homemade bearings:
-  - https://www.youtube.com/watch?v=eT8oQvHjzXE&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=36
-  - https://www.youtube.com/watch?v=HboIscftCL8&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=37
-  - https://www.youtube.com/watch?v=5Dkruh8NO9E&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=38
-  - https://www.youtube.com/watch?v=8V8MH2k8Igs&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=39
-  - https://www.youtube.com/watch?v=6hcl3mgk2tc&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=40
-  - https://www.youtube.com/watch?v=fdvRFE680u0&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=41
-  - https://www.youtube.com/watch?v=xg_iOEb2M00&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=25&t=8s
-  - https://www.youtube.com/watch?v=_MIx_vN2Dtk&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=26
-  - https://www.youtube.com/watch?v=UIhCPl8eb7s&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=27
-  - https://www.youtube.com/watch?v=5YIZaJnER_k&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=143
-  - https://www.youtube.com/watch?v=nRrHrB6gaoE&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=112
-</details>
-
-
-
-
-
-
-
-
-
-<details> 
-  <summary>USB-C Power Delivery </summary>
-  Papers & videos:
-  - https://www.asme.org/topics-resources/content/explore-the-basics-of-usb-c-and-usb-power-delivery
-  - https://reclaimerlabs.com/
-  - https://www.usb.org/
-  - https://youtu.be/OwAZqJ4wpJg?si=BEcy-nQlTGwnmcvM
-  - https://www.youtube.com/watch?v=qV03FfdPHOw&list=WL&index=28
-  - https://learn.sparkfun.com/tutorials/power-delivery-board---usb-c-qwiic-hookup-guide/all
-  - https://circuitcellar.com/research-design-hub/basics-of-design/build-a-usb-c-power-supply/
-  - https://www.st.com/content/ccc/resource/sales_and_marketing/presentation/product_presentation/group0/5a/b1/8e/6c/2b/0d/46/3c/Apec/files/APEC_2016_USB_Power.pdf/_jcr_content/translations/en.APEC_2016_USB_Power.pdf
-  - https://community.infineon.com/t5/USB-EZ-PD-Type-C/USB-Power-Delivery-adjustable-voltage-mode/td-p/403013
-  - https://www.allaboutcircuits.com/technical-articles/introduction-to-usb-type-c-which-pins-power-delivery-data-transfer/
-
-  Hardware design:
-  - https://www.youtube.com/watch?v=W13HNsoHj7A
-  - [PowerBank](https://www.youtube.com/watch?v=yEbbhTw0kno&t=1s)
-  - https://www.youtube.com/watch?v=_WI9Nwqvplo
-  - https://www.ti.com/jp/lit/ml/slyp735/slyp735.pdf?ts=1714842921522&ref_url=https%253A%252F%252Fwww.google.com%252F
-  - https://www.ti.com/lit/wp/slyy145a/slyy145a.pdf?ts=1714828882912&ref_url=https%253A%252F%252Fwww.google.com%252F
-
-  PD triggers:
-  - https://www.youtube.com/watch?v=iumAnPiQSj8
-  - https://www.youtube.com/watch?v=DQLrZA5RMjQ
-
-  Datasheets:
-
-
-</details>
 
 
 
@@ -463,33 +533,6 @@ If you want to make some speakers, here is how to make the [perfect](https://www
 
 
 
-<details> 
-  <summary>Coil Gun</summary>
-
-  Coil Gun:
-  - https://www.youtube.com/watch?v=Xll9rIzZPeQ&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=90
-  - https://www.youtube.com/watch?v=s161wEcIfGM&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=158
-  - https://www.youtube.com/watch?v=KikIp_yAXvQ&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=160
-  - https://www.youtube.com/watch?v=MXLzC7Jo4hA&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=161
-  - https://www.youtube.com/watch?v=ReFUr3KuK40&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=162
-  - https://www.youtube.com/watch?v=_hRNFN5Hxzo&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=163&t=1s
-  - https://www.youtube.com/watch?v=TWeJsaCiGQ0&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=164&t=46s
-  - https://www.youtube.com/watch?v=Zm_oZZZBLj8&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=165
-  - https://www.youtube.com/watch?v=qXXYkxCSiUY&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=166&t=870s
-  - https://www.youtube.com/watch?v=r8YHxpa5cJA&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=167&t=337s
-  - https://www.youtube.com/watch?v=2B2ZEN2Qu-Q&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=168
-  - https://www.youtube.com/watch?v=JqCHuwemHYU&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=169
-  - https://www.youtube.com/watch?v=OdKDb0fnAb0&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=170&t=125s
-  - https://www.youtube.com/watch?v=pFFZcaWAxLg&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=171
-  - https://www.youtube.com/watch?v=9Z2_KcByZvM&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=172
-  - https://www.youtube.com/watch?v=_4TGb3MsSjE&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=173&t=318s
-  - https://www.youtube.com/watch?v=UWqMRJZEqRA&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=174
-  - https://www.youtube.com/watch?v=vtoWxGVx5kA&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=175
-  - https://www.youtube.com/watch?v=id90kjYh-Qw&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=176&t=247s
-  - https://www.youtube.com/watch?v=PMU9TQUDhow&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=177
-  - https://www.youtube.com/watch?v=QTDcFxTq1Fw&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=178&t=1162s
-  coilgun1: https://youtube.com/playlist?list=PLKl_Ihtuj1fpWz5WA09WJIgf677wJ2ihX&si=pw_s7M9z9sdtHSva
-</details>
 
 
 
@@ -498,22 +541,6 @@ If you want to make some speakers, here is how to make the [perfect](https://www
 
 
 
-<details> 
-  <summary>What do you need to fly a drone</summary>
-
-  Links:
-  - [legislatie zbor cu drona in ROMANIA](https://www.youtube.com/watch?v=lWt6r363AkY&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=236)
-  - [legislatie zbor cu drona in ROMANIA](https://www.youtube.com/watch?v=MWd5waix_OU&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=244&t=560s)
-  - [legislatie zbor cu drona in RO + EU](https://www.youtube.com/watch?v=P1GxJ2GM1RE&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=238)
-  - [drone regulations in EU 1](https://www.youtube.com/watch?v=YVvkAG-9UJE&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=239&t=12s)
-  - [drone regulations in EU 2](https://www.youtube.com/watch?v=Cb6jF1VytRk&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=240)
-  - [drone regulations in EU 3](https://www.youtube.com/watch?v=rgn8VKrG6pw&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=241)
-  - [drone regulations in EU 4](https://www.youtube.com/watch?v=rekcJuTpZb0&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=242)
-  - [drone regulations in EU 5](https://www.youtube.com/watch?v=KZoaMVEDjmE&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=243&t=347s)
-  - [drone regulations in EU 6](https://www.youtube.com/watch?v=UZfZWETPYAc&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=245&t=173s)
-  - [drone regulations in EU 7](https://www.youtube.com/watch?v=vHXszLsQMvs&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=246)
-
-</details>
 
 
 
@@ -522,24 +549,6 @@ If you want to make some speakers, here is how to make the [perfect](https://www
 
 
 
-<details> 
-  <summary>Aplication Specific Integrated Circuits (ASIC/`s)</summary>
-
-  - ASIC1: https://docs.google.com/document/d/1H3jA7guvXT7toEvUObOQ1viQ6Qz_QSGDiJ5OBS2pDEI/edit#heading=h.ry34bfjf6w62
-  - ASIC2: https://app.siliwiz.com/?preset=blank
-  - ASIC3: https://www.youtube.com/watch?v=69mdJv6fWXE
-  - ASIC4: https://www.youtube.com/watch?v=FMdYuGpPicw&list=WL&index=69&t=19s
-  - ASIC5: https://www.youtube.com/watch?v=lq2BpWwcyQM
-  - Verilog1: https://www.youtube.com/watch?v=Q99vxvszktI&t=1034s
-  - Electronoobs FPGA: https://www.youtube.com/playlist?list=PLsR1AO4QH1AyT3b0pUERjFVShbzEelogi
-  - ICEStudio FPGA Great scott: https://www.youtube.com/watch?v=ZNunxg7o8l0
-  - Phil`s lab FPGA`s: https://www.youtube.com/playlist?list=PLXSyc11qLa1ZutrEG2XmyWrNz17SSQTdH
-  - FPGA2: https://www.youtube.com/watch?v=Wsou_zhCEYQ
-  - VERILOG2: https://www.youtube.com/watch?v=aWm9pJ2KobA
-  - FPGA3: https://www.youtube.com/playlist?list=PLEBQazB0HUyT1WmMONxRZn9NmQ_9CIKhb
-  - Reverse engeneering: https://www.youtube.com/watch?v=ICykppClja8&list=WL&index=177&t=299s
-
-</details>
 
 
 
@@ -548,22 +557,10 @@ If you want to make some speakers, here is how to make the [perfect](https://www
 
 
 
-<details> 
-  <summary>Field Programable Gate Arreys (FPGA/`s) & Verilog</summary>
 
-  Verilog/fpga:
-  - https://www.youtube.com/playlist?list=PLn8PRpmsu08pQBgjxYFXSsODEF3Jqmm-y
-  - https://www.fpga4fun.com/Opto.html
-  - https://www.fpga4student.com/p/fpga-projects.html
-  - https://zipcpu.com/tutorial/
-  - https://www.cas.mcmaster.ca/~lawford/3TB4/ref/VerilogPresent-v1.3.pdf
-  - http://classweb.ece.umd.edu/enee359a/verilog_tutorial.pdf
-  - https://www.chipverify.com/tutorials/systemverilog#google_vignette
-  - https://www.youtube.com/playlist?list=PL3Soy1ohxlP1TLpcbYXYcVWItRy_XrUk8
-  - https://www.javatpoint.com/verilog
-  - https://www.youtube.com/watch?v=i0xgt46Q2ts&list=WL&index=115&t=2s
 
-</details>
+
+
 
 
 

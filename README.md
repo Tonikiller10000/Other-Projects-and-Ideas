@@ -27,7 +27,27 @@ Some projects will resive a separate project file in witch I will make my own ve
 - [ELEVATOR](https://www.youtube.com/watch?v=3RKgASpq2P4&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=72)
 - [Segment displays](https://youtu.be/B887D3PVYqs?si=KS5QnkuYI9ruFV4f)
 
-✔️⁉️❌‼️💲🕐☑️🔗♻️⚠️🍺🍻🎨🎸🏆🎯📘📆💣💰💳📧🔓🔒⌛💥❗❓😃🔨
+
+-[LUMEN PNP V4](https://www.youtube.com/watch?v=JlkTcxh-9gA&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=801)
+
+- [Cut your own hair](https://www.youtube.com/watch?v=DSZCH2mlz_M&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=21)
+
+
+- [usefull web extensions](https://www.youtube.com/watch?v=nHHVnYuRhIU&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=285)
+
+
+
+## Helpfull learning channels
+
+- [Phil's Lab](https://www.youtube.com/@PhilsLab) is an advance PCB designing channel in Altium and Kicad,  with STM32 software and hardware tutorials. 
+  You can also find FPGA tutorials and audio software filters like FIR filtering and much more.
+- [CarlBujega](https://www.youtube.com/@CarlBugeja) is a channel witch makes [PCB motors](https://www.youtube.com/watch?v=oa6sP-joAr8).
+- [Ben Eater](https://www.youtube.com/@BenEater) is an educational channel witch makes breadboard tutorials about logic gates, digital logic, how old 8 bit computers and processors worked.
+  he also made an video card for his 8 bit computer and have tutorials about how assembly language and machine code language work.
+
+
+
+✔️⁉️❌‼️💲🕐🔗♻️⚠️🍺🍻🎨🏆🎯📘📆💣💰📧🔓🔒⌛💥❗❓😃👈💀
 
 ## Projects:
 
@@ -52,8 +72,10 @@ Some projects will resive a separate project file in witch I will make my own ve
 <summary>⌛ Start a Pottery Journei - Make Clay </summary>
 
   If you don`t want to pay for \"[magic dirt](https://www.youtube.com/watch?v=ca20JkKFAcE)\",  make it yourself.
-  Go in the forest or other dirty places and search for sticky soil (look for tire marks, yellow color soil, mud, ...). Filter it until you remain with particles smaller than 2um, add some more [ingredients](https://www.youtube.com/watch?v=HbLdNKM9y68&list=WL&index=125) and start making vases and other kinks of yours.  
-  Have fun and [reuse](https://www.youtube.com/shorts/1bMbADiztPY). 
+  Go in the forest or other dirty places and search for sticky soil (look for tire marks, yellow color soil, mud, ...). 
+  Filter it until you remain with particles smaller than 2um, add some more [ingredients](https://www.youtube.com/watch?v=HbLdNKM9y68&list=WL&index=125) 
+  and [start making vases](https://www.youtube.com/watch?v=77zCU23pq3c) and other kinks of yours. You don\`t need any specialised [equipment](https://www.youtube.com/watch?v=XhlJLVL-Zg8&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=935&t=28s) to start([video](https://www.youtube.com/watch?v=VaX1iOyKsB0)). 
+  Have fun and [reuse](https://www.youtube.com/shorts/1bMbADiztPY). Here is another video about making clay. [Video](https://www.youtube.com/watch?v=VnSzPINub3M)  
   <table>
     <tr>
       <td><img src="https://github.com/Tonikiller10000/Other-Projects-and-Ideas/blob/main/ProjectsAndIdeeas/Clay/c2.jpg" ></td>
@@ -87,7 +109,8 @@ Some projects will resive a separate project file in witch I will make my own ve
 <summary>Icecream Plate ☑️</summary>
 
 I tried to make [this](https://youtu.be/LPOWmK9EWk0?si=V09L9m4uheya51iG) Icecream plate with some peltier plates, but unfortunetly that didn\`t work. It was cooling too slow, and to little.
-I even used 2 peltier plates with thermal paste in between and a computer heatsink with the fan connected for more cooling, but it [didn\`t worked](https://github.com/Tonikiller10000/Other-Projects-and-Ideas/blob/main/ProjectsAndIdeeas/PeltierPlate_IceCreamMachine/f.mp4). I will try it again in the future with a mechanical method of cooling (compressor).
+I even used 2 peltier plates with thermal paste in between and a computer heatsink with the fan connected for more cooling, but it [didn\`t worked](https://github.com/Tonikiller10000/Other-Projects-and-Ideas/blob/main/ProjectsAndIdeeas/PeltierPlate_IceCreamMachine/f.mp4). 
+Because it\'s so [ineficient](https://www.youtube.com/watch?v=yOUz4l5Svyo&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=275&t=8s), I will try it again in the future with a mechanical method of cooling (compressor).
 <table>
   <tr>
     <td><img src="https://github.com/Tonikiller10000/Other-Projects-and-Ideas/blob/main/ProjectsAndIdeeas/PeltierPlate_IceCreamMachine/3.jpg" ></td> 
@@ -145,21 +168,33 @@ I even used 2 peltier plates with thermal paste in between and a computer heatsi
    the need for special bulets make it verry inconvenient for \' field use \' .
 
   Coil Gun:
-  - https://www.youtube.com/watch?v=Xll9rIzZPeQ&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=90
-  - https://www.youtube.com/watch?v=KikIp_yAXvQ&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=160
-  - https://www.youtube.com/watch?v=MXLzC7Jo4hA&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=161
-  - https://www.youtube.com/watch?v=ReFUr3KuK40&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=162
-  - https://www.youtube.com/watch?v=_hRNFN5Hxzo&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=163&t=1s
-  - https://www.youtube.com/watch?v=Zm_oZZZBLj8&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=165
-  - https://www.youtube.com/watch?v=qXXYkxCSiUY&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=166&t=870s
-  - https://www.youtube.com/watch?v=JqCHuwemHYU&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=169
-  - https://www.youtube.com/watch?v=_4TGb3MsSjE&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=173&t=318s
-  - https://www.youtube.com/watch?v=vtoWxGVx5kA&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=175
-  - https://www.youtube.com/watch?v=id90kjYh-Qw&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=176&t=247s
-  - https://www.youtube.com/watch?v=PMU9TQUDhow&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=177
-  - https://www.youtube.com/watch?v=QTDcFxTq1Fw&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=178&t=1162s
+  - https://www.youtube.com/watch?v=Xll9rIzZPeQ
+  - https://www.youtube.com/watch?v=KikIp_yAXvQ
+  - https://www.youtube.com/watch?v=MXLzC7Jo4hA
+  - https://www.youtube.com/watch?v=ReFUr3KuK40
+  - https://www.youtube.com/watch?v=_hRNFN5Hxzo
+  - https://www.youtube.com/watch?v=Zm_oZZZBLj8
+  - https://www.youtube.com/watch?v=qXXYkxCSiUY
+  - https://www.youtube.com/watch?v=JqCHuwemHYU
+  - https://www.youtube.com/watch?v=_4TGb3MsSjE
+  - https://www.youtube.com/watch?v=vtoWxGVx5kA
+  - https://www.youtube.com/watch?v=id90kjYh-Qw
+  - https://www.youtube.com/watch?v=PMU9TQUDhow
+  - https://www.youtube.com/watch?v=QTDcFxTq1Fw
   coilgun1: https://youtube.com/playlist?list=PLKl_Ihtuj1fpWz5WA09WJIgf677wJ2ihX&si=pw_s7M9z9sdtHSva
 </details>
+
+<details> 
+<summary>VACCUM CHAMBER</summary>
+
+- Instant piccle: https://www.youtube.com/watch?v=d5VcIMpdsyI&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ
+- https://www.youtube.com/watch?v=jFUBblZgXwU
+- https://www.youtube.com/watch?v=0a00gb0n_po
+- https://www.youtube.com/watch?v=UkPLu6mgdWA
+- https://www.youtube.com/watch?v=_muUXPfTgq8
+- https://www.youtube.com/watch?v=2SrWrJWi9yE
+
+
 
 
 ## Learn more
@@ -221,6 +256,7 @@ If you want to make some speakers, here is how to make the [perfect](https://www
   PD triggers:
   - https://www.youtube.com/watch?v=iumAnPiQSj8
   - https://www.youtube.com/watch?v=DQLrZA5RMjQ
+  - https://www.youtube.com/watch?v=YRaI4xBg1Zw
 
   Datasheets:
 
@@ -281,9 +317,6 @@ Verilog/fpga:
 </details>
 
 
-
-## Sience facts:
-
 <details> 
   <summary>‼️ Osmosis</summary> 
   
@@ -294,6 +327,68 @@ Verilog/fpga:
    making pure water. This process named <b>reverse osmosis</b> is used in city water purrifiers. By combining the pure water with some esential minerals,
     you can make the water potable. Pure water in big quantities is [poisonous](https://www.youtube.com/watch?v=L-osEc07vMs&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=251).
   There are buyable filters for household use.
+</details>
+
+
+<details> 
+  <summary>OPTICS</summary> 
+  
+  [Optics](https://en.wikipedia.org/wiki/Optics) is the branch of physics that studies the behaviour and properties of light. 
+  Here you can see how glass is made and how ligth can pass trouth it, how mirrors are made and how them reflect ligth, and you can learn about
+  lenses, focus, magnification and other terms witch allow you to understand how microscopes and telescopes work and how they are made.
+  [HuygensOptics](https://www.youtube.com/@HuygensOptics) is a channel about optics witch I recommend.
+
+### Optics in general
+  - Basic optics: https://www.youtube.com/watch?v=O772SsMqjhY&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=926&t=605s
+  - how light reflect: https://www.youtube.com/watch?v=QdQw1MVPEF4&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=137&t=344s
+  - how rainbows work: https://www.youtube.com/watch?v=24GfgNtnjXc&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=269
+  - How Does Light Pass Through Glass :https://www.youtube.com/watch?v=AI4lfpwO8wI&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=344
+  - Magnification: https://www.youtube.com/watch?v=eYVNZgnQ8gE&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=331&t=1165s
+  - TOF working principle: https://opg.optica.org/oe/fulltext.cfm?uri=oe-30-9-15096&id=471568
+
+
+### Glass & Mirrors
+Bassicaly mirrors are made of glass covered with shainy metal particles of silver nitrare.
+
+Here you can find more about them:
+- How to Make Glasses: https://www.youtube.com/watch?v=Ef2_aaYpZSI&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=339&t=493s
+- Try 2 to make Clear glass: https://www.youtube.com/watch?v=B7lgo1LbpCs&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=368
+- Gorilla glass: https://www.youtube.com/watch?v=2oDXbFcHliM&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=298
+- mirror making: https://www.youtube.com/watch?v=WHmijeRitD8
+- mirror making: https://www.youtube.com/watch?v=36PVnhDEucM
+- mirror making: https://www.youtube.com/watch?v=Ed1-y_ZfuuM
+- mirror making: https://www.youtube.com/watch?v=Jh-w_N5cVyA
+- How mirrors work: https://www.youtube.com/watch?v=ihQyEkLYtP8
+- how one way mirror work: https://www.youtube.com/watch?v=XKuF1eT1Cqc
+- parabolic mirror: https://www.youtube.com/watch?v=8CLRTa_ocmo
+
+### Lenses
+- 3D printed optical lenses: Is it possible to produce 3D printed optical lenses
+- Fourier Optics: https://www.youtube.com/watch?v=wcRB3TWIAXE
+- Resin lens: https://www.youtube.com/watch?v=_4t05xo2Qyg
+- Resign lenses molds: https://www.youtube.com/watch?v=As20UPia718
+- Resign Lenses: https://www.youtube.com/watch?v=mfAGivG9Koc
+- Fernel Zone Lenses: https://www.youtube.com/watch?v=1igLNSkbx2M
+- Rings lens: https://youtu.be/SS2AbZVdk2A?si=AlZJvmQ0D0xlEcLA
+- Rings basics: https://www.youtube.com/watch?v=DDoryfCXxPI
+- LENSES: https://www.youtube.com/watch?v=u-GAnEcyPVM
+- Photochromic lens: https://en.wikipedia.org/wiki/Photochromic_lens
+
+### Microscope:
+- PCB Microscope comparation: https://www.youtube.com/watch?v=KajdWOlCt0s&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=332&t=374s
+- Precision laser scanning microscope: https://www.youtube.com/watch?v=xfuWbnMYOos&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=333&t=743s
+- OpenFlexure Microscope: https://www.youtube.com/watch?v=aQEyoch3iuo&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=334&t=159s
+
+### Telescope:
+- general: https://www.youtube.com/watch?v=HxwhCmO90UQ&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=367&t=873s
+- diy: https://www.youtube.com/watch?v=UAx745LdWI8&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=365&t=255s
+- liquid mirror: https://www.youtube.com/watch?v=s0sQYAWSHzU&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=362
+- types: https://www.youtube.com/watch?v=_v1RWyzQAng&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=360&t=151s
+- diy: https://www.youtube.com/watch?v=18U-YLQxWY0&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=351
+- from scratch: https://www.youtube.com/watch?v=UqURY1YGC1U&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=348&t=732s
+- explayned: https://www.youtube.com/watch?v=5v7bN13PjZ8&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=346&t=56s
+- general: https://www.youtube.com/watch?v=mYhy7eaazIk&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=345&t=638s
+
 </details>
 
 
@@ -308,6 +403,107 @@ Verilog/fpga:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<details> 
+<summary>AM radio transmitter/reciver</summary>
+
+- https://www.homemade-circuits.com/simplest-am-radio-receiver-with-speaker/
+- https://www.instructables.com/Simple-AM-Radio-Transmitter-Receiver/
+- https://www.wellpcb.com/am-radio-schematic.html
+- https://www.instructables.com/AM-Radio-Transmitter-Op-Amp-Based/
+- https://www.circuitbasics.com/what-are-am-radios/
+- https://www.circuits-diy.com/simple-am-receiver-circuit/
+- https://www.circuitbasics.com/amplitude-modulated-transmitters/
+- https://www.youtube.com/watch?v=3I_e7gIyfQg
+- https://circuit-zone.com/index.php?cat=am-radio
+</details>
+
+
+
+
+Cold Saw: https://www.youtube.com/watch?v=wqeT4WsuuKU&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=341
+
+ELECTRO ADHESION: https://www.youtube.com/watch?v=62BjIysFDhQ&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=971&t=713s
+Iphone example: https://www.youtube.com/watch?v=VNZewnrkDng&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=700
+
+
+Test Multiple Variables at Once to Optimize Anything: https://www.youtube.com/watch?v=5oULEuOoRd0
+https://www.youtube.com/@Nighthawkinlight:
+- starlite
+- passive cooling with paint 
+- other cool experiments
+
+
+
+🎸🎸Music theory🎸🎸:
+- https://www.youtube.com/watch?v=rgaTLrZGlk0&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=420&t=981s
+- https://www.youtube.com/watch?v=_VvKeiwddPI&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=419&t=6s
+- https://www.youtube.com/watch?v=n2z02J4fJwg&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=418&t=7s
+- https://www.youtube.com/watch?v=aMLdWrZqwLg&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=372&t=34s
+- https://www.youtube.com/watch?v=dae8vhHuPFE&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=373&t=147s
+- https://www.youtube.com/watch?v=qOvPWvJaMuc&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=480
+
+Phone Root Access:
+- https://www.youtube.com/watch?v=ksbRMo00uTA&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=606
+- https://www.youtube.com/watch?v=7mB33O3BQbE&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=607
+- https://www.youtube.com/watch?v=1Y0jfjCB2WQ&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=608
+- 
+
+
+
+
+
 ################### drone licence
 
 
@@ -317,32 +513,73 @@ Verilog/fpga:
 
 
 
+https://www.youtube.com/@FesZElectronics
+All about PLL  
+electronics filters and general advanced analog electronics
+emc 
+impedance matching
+circuit testing irm and *** app
+rf tutorials
+PLL_VCO: https://www.youtube.com/watch?v=mJpMAIde2d0&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=662&t=617s
+
+
+
+PLL_2: https://www.youtube.com/watch?v=RkG0hdWMMNc&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=611&t=405s
+PLL_1: https://www.youtube.com/watch?v=VOHCvKXW9Qw&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=610&t=5s
+
+android studio is shoe_schematic
 
 
 
 
 
 
+https://www.youtube.com/@veritasium
+makes all kinds of phisics, sience and history videos
+here is a cool \'history\' one: https://www.youtube.com/watch?v=wVyu7NB7W6Y&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=828&t=1016s 
 
 
 
 
 
+Custom power supply: https://www.youtube.com/watch?v=Xdq6dzH26QY&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=1255
+
+
+
+
+These are chanels witch make educational linux hacking videos, it videos, and  cibersecurity videos.
+https://www.youtube.com/@davidbombal
+https://www.youtube.com/@NetworkChuck
+https://www.youtube.com/@_JohnHammond
+Basic linux: https://www.youtube.com/watch?v=LKCVKw9CzFo&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=668&t=5s
+2: https://www.youtube.com/watch?v=gd7BXuUQ91w&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=4
 
 
 
 
 
+Woodworking:
+https://www.youtube.com/watch?v=gtbntjmzZ9U&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=120
+https://www.youtube.com/watch?v=FDM60T47J9s&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=119
+https://www.youtube.com/watch?v=RMU4k1KTdnw&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=118&t=912s
+https://www.youtube.com/watch?v=m3CqH4DjVlI&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=117
+https://www.youtube.com/watch?v=GiV_JJyvJzY&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=116&t=7s
+https://www.youtube.com/watch?v=7Ihn9dYgWYA&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=115&t=10s
+https://www.youtube.com/watch?v=uhWpruzMWas&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=113&t=248s
+Wood Finish 1: https://www.youtube.com/watch?v=bbiXJd_1l8Y
+Wood Finish 2: https://www.youtube.com/watch?v=SWLm-3_iogw
 
 
+Forging:
+- Forge an axe: https://www.youtube.com/watch?v=HkJmb7Bztqw&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=65&t=102s
+- Forge an axe2: https://www.youtube.com/watch?v=DaRK2dXfzWA&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=66&t=405s
+- Forge a knife: https://www.youtube.com/watch?v=BR1boS3ci88&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=67
+- Stone axe: https://www.youtube.com/watch?v=lBuUSPCpbXU&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=68&t=335s
+- blade: https://www.youtube.com/watch?v=dHK5zrBBPhE&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=476&t=400s
 
-
-
-
-
-
-
-
+Parfumery:
+- https://www.youtube.com/watch?v=owu_Up_tNNI&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=477
+- https://www.youtube.com/watch?v=V-bWm2FnVk4&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=478
 
 
 
@@ -682,35 +919,7 @@ Electrospinning:
 
 
 
-<details> 
-<summary>Optics</summary>
 
-- Rings lens: https://youtu.be/SS2AbZVdk2A?si=AlZJvmQ0D0xlEcLA
-- Rings basics: https://www.youtube.com/watch?v=DDoryfCXxPI
-- LENSES: https://www.youtube.com/watch?v=u-GAnEcyPVM
-optics: https://opg.optica.org/oe/fulltext.cfm?uri=oe-30-9-15096&id=471568
-https://en.wikipedia.org/wiki/Photochromic_lens
-</details>
-
-
-
-
-
-
-
-<details> 
-<summary>AM radio transmitter/reciver</summary>
-
-- https://www.homemade-circuits.com/simplest-am-radio-receiver-with-speaker/
-- https://www.instructables.com/Simple-AM-Radio-Transmitter-Receiver/
-- https://www.wellpcb.com/am-radio-schematic.html
-- https://www.instructables.com/AM-Radio-Transmitter-Op-Amp-Based/
-- https://www.circuitbasics.com/what-are-am-radios/
-- https://www.circuits-diy.com/simple-am-receiver-circuit/
-- https://www.circuitbasics.com/amplitude-modulated-transmitters/
-- https://www.youtube.com/watch?v=3I_e7gIyfQg
-- https://circuit-zone.com/index.php?cat=am-radio
-</details>
 
 
 
@@ -740,14 +949,7 @@ SMARTWATCH gesture recgnition
 
 
 
-<details> 
-<summary>VACCUM CHAMBER</summary>
 
-- https://www.youtube.com/watch?v=jFUBblZgXwU&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=212
-- https://www.youtube.com/watch?v=0a00gb0n_po&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=213
-- https://www.youtube.com/watch?v=UkPLu6mgdWA&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=227
-- https://www.youtube.com/watch?v=_muUXPfTgq8&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=226
-</details>
 
 
 

@@ -194,10 +194,10 @@ Because it\'s so [ineficient](https://www.youtube.com/watch?v=yOUz4l5Svyo&list=P
 - https://www.youtube.com/watch?v=_muUXPfTgq8
 - https://www.youtube.com/watch?v=2SrWrJWi9yE
 
-
-
+</details>
 
 ## Learn more
+
 
 <details> 
   <summary>⌛ Capacitive touch </summary>

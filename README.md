@@ -2,21 +2,14 @@
 
 ## Description:
 This repository contains some projects and ideas witch worth your attention.
-Every week this page get`s updated with new discovered stuff.
-
-## News:
-This news section will be updated weekly after 17/8/2024.
-Some projects will resive a separate project file in witch I will make my own version of it.
 
 
+Project status:
 -    have not tried it    
 - ✔️ Completed
 - ☑️ Completed 70%
 - ⌛ Needs to be finnished
-
-
-
-
+- ❌ Abandoned
 
 
 ## Mentions:
@@ -26,13 +19,8 @@ Some projects will resive a separate project file in witch I will make my own ve
 - [TIC TAC TOE](https://www.youtube.com/watch?v=On_4U0aeKG4&list=WL&index=64)
 - [ELEVATOR](https://www.youtube.com/watch?v=3RKgASpq2P4&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=72)
 - [Segment displays](https://youtu.be/B887D3PVYqs?si=KS5QnkuYI9ruFV4f)
-
-
--[LUMEN PNP V4](https://www.youtube.com/watch?v=JlkTcxh-9gA&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=801)
-
-- [Cut your own hair](https://www.youtube.com/watch?v=DSZCH2mlz_M&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=21)
-
-
+- [LUMEN PNP V4 PCB assembly machine](https://www.youtube.com/watch?v=JlkTcxh-9gA&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=801)
+- [Cuting your own hair](https://www.youtube.com/watch?v=DSZCH2mlz_M&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=21)
 - [usefull web extensions](https://www.youtube.com/watch?v=nHHVnYuRhIU&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=285)
 
 
@@ -40,14 +28,12 @@ Some projects will resive a separate project file in witch I will make my own ve
 ## Helpfull learning channels
 
 - [Phil's Lab](https://www.youtube.com/@PhilsLab) is an advance PCB designing channel in Altium and Kicad,  with STM32 software and hardware tutorials. 
-  You can also find FPGA tutorials and audio software filters like FIR filtering and much more.
-- [CarlBujega](https://www.youtube.com/@CarlBugeja) is a channel witch makes [PCB motors](https://www.youtube.com/watch?v=oa6sP-joAr8).
+      You can also find FPGA tutorials and audio software filters like FIR filtering and much more.
 - [Ben Eater](https://www.youtube.com/@BenEater) is an educational channel witch makes breadboard tutorials about logic gates, digital logic, how old 8 bit computers and processors worked.
-  he also made an video card for his 8 bit computer and have tutorials about how assembly language and machine code language work.
+      he also made an video card for his 8 bit computer and have tutorials about how assembly language and machine code language work.
+- 
 
 
-
-✔️⁉️❌‼️💲🕐🔗♻️⚠️🍺🍻🎨🏆🎯📘📆💣💰📧🔓🔒⌛💥❗❓😃👈💀
 
 ## Projects:
 
@@ -185,9 +171,13 @@ Because it\'s so [ineficient](https://www.youtube.com/watch?v=yOUz4l5Svyo&list=P
 </details>
 
 <details> 
-<summary>VACCUM CHAMBER</summary>
+<summary>VACCUM CHAMBER ❌</summary>
 
-- Instant piccle: https://www.youtube.com/watch?v=d5VcIMpdsyI&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ
+I abandonned this project because I bouth a glass dome ane it broke. So now If I want to make another, I need to buy transparent acrilic sheets.
+I don`t want to waste more money because after a seccond tauth, I will use comething like this at making [Instant piccles](https://www.youtube.com/watch?v=d5VcIMpdsyI),
+or some chemechal experiments witch can wait for now.
+
+Here are some yt videos about vaccum cahmber builds:
 - https://www.youtube.com/watch?v=jFUBblZgXwU
 - https://www.youtube.com/watch?v=0a00gb0n_po
 - https://www.youtube.com/watch?v=UkPLu6mgdWA
@@ -197,6 +187,28 @@ Because it\'s so [ineficient](https://www.youtube.com/watch?v=yOUz4l5Svyo&list=P
 </details>
 
 ## Learn more
+
+<details> 
+<summary>PCB coil/motor ☑️</summary>
+
+[CarlBujega](https://www.youtube.com/@CarlBugeja) is a verry good channel witch makes [PCB motors](https://www.youtube.com/watch?v=oa6sP-joAr8).
+Here are some links and informations to help you make and understand PCB motors:
+- PCB MOTORS1: https://coil32.net/pcb-coil.html
+- coil formulas: https://www.electronics-tutorials.ws/inductor/inductance.html
+- Motors: https://youtube.com/playlist?list=PLaBr_WzeIAixidGwqfcrQlwKZX4RZ2E7D&si=YnpgZVkrEu1c8Eh1
+- Paper1: https://hal.science/hal-01409233/file/CambridgeWPT_journal_preprint_5Oct2015.pdf
+- Paper2: http://performancemagnetics.com/images/BLDC_Generator_Design_Methodology_Performance_Magnetics_revI-2.pdf
+- Calculator:https://www.allaboutcircuits.com/tools/trace-resistance-calculator/
+- Calculations: https://electronics.stackexchange.com/questions/501516/calculate-resistance-of-coil-inductor-made-of-pcb-traces
+
+
+parallel coils => higher current (thicker trace)
+series coils   => higher nr of turns 
+
+I made a PCB mottor/generattor, but it has to be assembled and tested.
+
+</details>
+
 
 
 <details> 
@@ -260,8 +272,8 @@ If you want to make some speakers, here is how to make the [perfect](https://www
 
   Datasheets:
 
-
 </details>
+
 
 <details> 
   <summary> ASIC/`s,  (FPGA/`s) & Verilog ❌</summary>
@@ -300,6 +312,20 @@ Verilog/fpga:
 </details>
 
 <details> 
+<summary>AM radio transmitter/reciver</summary>
+
+- AM BASICS: https://www.youtube.com/watch?v=3I_e7gIyfQg
+- Schematic 1(tx + rx): https://circuit-zone.com/index.php?cat=am-radio
+- Schematic 2(tx + rx): https://www.instructables.com/Simple-AM-Radio-Transmitter-Receiver/
+- Schematic 3(tx): https://www.instructables.com/AM-Radio-Transmitter-Op-Amp-Based/
+- Schematic 4(tx): https://www.circuitbasics.com/amplitude-modulated-transmitters/
+- Schematic 5(rx): https://www.circuitbasics.com/what-are-am-radios/
+- Schematic 6(rx): https://www.circuits-diy.com/simple-am-receiver-circuit/
+
+</details>
+
+
+<details> 
   <summary>What do you need to fly a drone ☑️</summary>
 
   Links:
@@ -327,6 +353,35 @@ Verilog/fpga:
    making pure water. This process named <b>reverse osmosis</b> is used in city water purrifiers. By combining the pure water with some esential minerals,
     you can make the water potable. Pure water in big quantities is [poisonous](https://www.youtube.com/watch?v=L-osEc07vMs&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=251).
   There are buyable filters for household use.
+</details>
+
+
+<details> 
+<summary>wireless power transfer ☑️</summary>
+
+
+Wireless power transfer papers & videos:
+- GreatScott video 1: https://www.youtube.com/watch?v=15HmW1K8MZY
+- GreatScott video 2: https://www.youtube.com/watch?v=S3mLHpzzcTU&t=523s
+- Video 1: https://www.youtube.com/watch?v=hZ8PqQWyUR8
+- Video 2: https://www.youtube.com/watch?v=jdc_0r5pJPc&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=236
+- Inductors: https://www.circuitbasics.com/what-is-an-inductor/
+- Inductance formulas: https://physics.info/inductance/
+- learning: https://courses.lumenlearning.com/suny-physics/chapter/23-9-inductance/
+- Paper 1: https://www.nature.com/articles/s41598-021-03570-8
+- Paper 2: https://www.nutsvolts.com/magazine/article/august2013_Bates
+- Paper 3: https://www.pchintl.com/wp-content/uploads/2021/04/PCH-Wireless-Charging-Device.pdf
+- Hardware design 1: https://www.st.com/content/dam/technology-tour-2017/session-3_track-7_wireless-charging.pdf
+- Hardware design 2: https://www.ti.com/lit/an/sluaaj6/sluaaj6.pdf?ts=1717714815041&ref_url=https%253A%252F%252Fwww.google.com%252F
+- Hardware design 3: https://www.researchgate.net/figure/Circuit-diagram-and-working-mechanism-of-wireless-charging-system-a-Circuit-diagram-of_fig4_346339798
+- Schematic 1: https://www.circuits-diy.com/wireless-gadgets-charger-circuit/
+- Schematic 2: https://www.circuits-diy.com/wireless-cellphone-battery-charger-circuit/
+- Schematic 3: https://www.homemade-circuits.com/high-current-wireless-battery-charger/
+- Schematic 4: https://electronoobs.com/eng_circuitos_tut58_sch2.php#google_vignette
+- Schematic 5: https://electronoobs.com/eng_circuitos_tut58_sch1.php
+- Schematic 6: https://www.circuits-diy.com/wireless-led-circuit/
+- Higher Ghz freguencies for wireless power transferr: https://www.researchgate.net/topic/Phased-Array~Wireless-Power-Transfer/publications
+
 </details>
 
 
@@ -455,19 +510,45 @@ Here you can find more about them:
 
 
 
-<details> 
-<summary>AM radio transmitter/reciver</summary>
 
-- https://www.homemade-circuits.com/simplest-am-radio-receiver-with-speaker/
-- https://www.instructables.com/Simple-AM-Radio-Transmitter-Receiver/
-- https://www.wellpcb.com/am-radio-schematic.html
-- https://www.instructables.com/AM-Radio-Transmitter-Op-Amp-Based/
-- https://www.circuitbasics.com/what-are-am-radios/
-- https://www.circuits-diy.com/simple-am-receiver-circuit/
-- https://www.circuitbasics.com/amplitude-modulated-transmitters/
-- https://www.youtube.com/watch?v=3I_e7gIyfQg
-- https://circuit-zone.com/index.php?cat=am-radio
-</details>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<details>
+  <summary>⚠️⚠️⚠️UNDER CONSTRUCTION⚠️⚠️⚠️</summary> 
+
+⁉️‼️💲🕐🔗♻️⚠️🍺🍻🎨🏆🎯📘📆💣💰📧🔓🔒⌛💥❗❓😃👈💀
+
+anatomy posters:
+- vascular system (full + heart + lung connections + head and other human parts separate)
+- lymphatic system ??
+- gastrointestinal system
+- separate: liver, urinary tract, brain, heart, ear, stomach, eye, skin, ...
+- nervous sistem
+- human skeletron
+- human musculature
+- skull, spinal column, hand, wrist,knee joint, foot, foot joints
+- astronomy charts
+
+
+
+
+
+
 
 
 
@@ -568,6 +649,10 @@ https://www.youtube.com/watch?v=7Ihn9dYgWYA&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfz
 https://www.youtube.com/watch?v=uhWpruzMWas&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=113&t=248s
 Wood Finish 1: https://www.youtube.com/watch?v=bbiXJd_1l8Y
 Wood Finish 2: https://www.youtube.com/watch?v=SWLm-3_iogw
+also make menghina for workbench
+finishes: lac, ardere,polyuretane/tung oil(food grade)
+
+
 
 
 Forging:
@@ -798,15 +883,6 @@ Forth and fifth are not good decoratives, but are preety cool phisics experiment
 
 
 
-
-
-
-
-
-
-
-
-
 <details> 
   <summary>ESP32 higth frequency generator for Ultrasonic Phased Array</summary>
 
@@ -820,54 +896,6 @@ Forth and fifth are not good decoratives, but are preety cool phisics experiment
 - ESP32 delay8: https://www.esp32.com/viewtopic.php?t=16100
 - ESP32 delay9: https://esp32.com/viewtopic.php?t=16861
 </details>
-
-
-
-
-
-
-
-<details> 
-<summary>wireless power transfer </summary>
-Wireless power transmission is a verry interesting topic on witch you can find more in the videos or papers linked under. 
-
-Wireless power transfer papers & videos:
-- [GreatScott video 1](https://www.youtube.com/watch?v=15HmW1K8MZY)
-- [GreatScott video 2](https://www.youtube.com/watch?v=S3mLHpzzcTU&t=523s)
-- https://www.youtube.com/watch?v=hZ8PqQWyUR8
-- https://www.nature.com/articles/s41598-021-03570-8
-- https://www.st.com/content/dam/technology-tour-2017/session-3_track-7_wireless-charging.pdf
-- https://www.circuitbasics.com/what-is-an-inductor/
-- https://physics.info/inductance/
-- https://courses.lumenlearning.com/suny-physics/chapter/23-9-inductance/
-- https://www.youtube.com/watch?v=jdc_0r5pJPc&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=236
-
-Hardware design:
-- https://www.ti.com/lit/an/sluaaj6/sluaaj6.pdf?ts=1717714815041&ref_url=https%253A%252F%252Fwww.google.com%252F
-- https://www.pchintl.com/wp-content/uploads/2021/04/PCH-Wireless-Charging-Device.pdf
-- https://www.researchgate.net/figure/Circuit-diagram-and-working-mechanism-of-wireless-charging-system-a-Circuit-diagram-of_fig4_346339798
-- https://www.circuits-diy.com/wireless-gadgets-charger-circuit/
-- https://www.nutsvolts.com/magazine/article/august2013_Bates
-- https://www.circuits-diy.com/wireless-cellphone-battery-charger-circuit/
-- https://www.circuits-diy.com/wireless-gadgets-charger-circuit/
-- https://www.homemade-circuits.com/high-current-wireless-battery-charger/
-- https://electronoobs.com/eng_circuitos_tut58_sch2.php#google_vignette
-- https://electronoobs.com/eng_circuitos_tut58_sch1.php
-
-
-???:
-- https://www.rcciit.org/students_projects/projects/ee/2023/GR2.pdf
-- https://www.circuits-diy.com/wireless-gadgets-charger-circuit/
-- https://www.circuits-diy.com/wireless-led-circuit/
-- Higher Ghz freguencies for wireless power: https://www.researchgate.net/topic/Phased-Array~Wireless-Power-Transfer/publications
-
-</details>
-
-
-
-
-
-
 
 
 <details> 
@@ -917,16 +945,6 @@ Electrospinning:
 
 
 
-
-
-
-
-
-
-
-
-
-
 <details> 
 <summary>Smartwatch</summary>
 SMARTWATCH calling/messageing
@@ -946,18 +964,6 @@ SMARTWATCH gesture recgnition
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 <details> 
 <summary>Small linefollower with op amp</summary>
 
@@ -966,11 +972,6 @@ SMARTWATCH gesture recgnition
 - OP Amps2: https://www.youtube.com/watch?v=JLVGeyUeQrA
 - OP Amps3: https://youtu.be/kitY9FFFNa4?si=T0teV7MBQlR8uU-g
 </details>
-
-
-
-
-
 
 
 
@@ -1038,7 +1039,7 @@ https://www.youtube.com/watch?v=KLEH8RJsYgI&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfz
 
 
 <details> 
-<summary>submarineHelicopters & drones</summary>
+<summary>submarine Helicopters & drones</summary>
 
 How helicopters & drones work:
 - https://www.youtube.com/watch?v=EMaR7PznE_s&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=31
@@ -1059,30 +1060,7 @@ How helicopters & drones work:
 
 
 
-<details> 
-<summary>PCB coil/motor</summary>
 
-
-https://coil32.net/pcb-coil.html
-PCB motor: https://www.youtube.com/watch?v=CDhlx_VMpCc&t=3s
-pcb coil CarlBugeja: https://www.youtube.com/@CarlBugeja
-coils: https://www.circuitbasics.com/what-is-an-inductor/
-PCB Motor2: https://www.youtube.com/watch?v=NX7GHqq28uU&list=WL&index=8
-coil formulas: https://www.electronics-tutorials.ws/inductor/inductance.html
-https://github.com/CarlBugeja/PCB-Motor-v4
-https://youtube.com/playlist?list=PLaBr_WzeIAixidGwqfcrQlwKZX4RZ2E7D&si=YnpgZVkrEu1c8Eh1
-https://github.com/atomic14/kicad-coil-plugins?tab=readme-ov-file
-https://hal.science/hal-01409233/file/CambridgeWPT_journal_preprint_5Oct2015.pdf
-https://www.google.com/search?q=electromagnet+coil%2C+series+vs+paralel&sca_esv=6269066d21daebf6&sca_upv=1&sxsrf=ADLYWIKO0LOTcSkkfk2Tz-CFaQD0sf_R0Q%3A1720271885322&ei=DUSJZrGzE5Dui-gP_NOkqA8&ved=0ahUKEwjx7ZCVwJKHAxUQ9wIHHfwpCfUQ4dUDCA8&uact=5&oq=electromagnet+coil%2C+series+vs+paralel&gs_lp=Egxnd3Mtd2l6LXNlcnAiJWVsZWN0cm9tYWduZXQgY29pbCwgc2VyaWVzIHZzIHBhcmFsZWwyCBAhGKABGMMEMggQIRigARjDBEi-NlAAWMAzcAV4AZABAJgBgAGgAaMSqgEEMi4xObgBA8gBAPgBAZgCGKACmhHCAggQABiABBiiBMICChAhGKABGMMEGAqYAwDiAwUSATEgQJIHBDYuMTigB7hQ&sclient=gws-wiz-serp
-http://performancemagnetics.com/images/BLDC_Generator_Design_Methodology_Performance_Magnetics_revI-2.pdf
-https://www.usna.edu/ESRDC/_files/documents/Vault/References/A%20brushless%20exciter%20model%20incorporating%20multiple%20rectifier%20modes%20and%20Preisachs%20hysteresis%20theory.pdf
-https://www.allaboutcircuits.com/tools/trace-resistance-calculator/
-https://electronics.stackexchange.com/questions/501516/calculate-resistance-of-coil-inductor-made-of-pcb-traces
-https://ps.buckeyepowersales.com/wp-content/uploads/2021/06/BPS_113_Generator_101_Part4.pdf
-https://www.nagwa.com/en/videos/396146972902/
-https://www.youtube.com/watch?v=NX7GHqq28uU
-
-</details>
 
 
 
@@ -1540,5 +1518,5 @@ https://andor.oxinst.com/learning/view/article/optimizing-field-of-view-and-reso
 
 
 
-
+</details>
 

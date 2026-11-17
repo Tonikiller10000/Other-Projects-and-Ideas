@@ -1,7 +1,7 @@
 # Other Projects and Ideas
 
 ## Description:
-This repository contains some projects and ideas witch worth your attention.
+This repository contains some projects and ideas that may spark your interest.
 
 
 Project status:
@@ -22,17 +22,29 @@ Project status:
 - [LUMEN PNP V4 PCB assembly machine](https://www.youtube.com/watch?v=JlkTcxh-9gA&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=801)
 - [Cuting your own hair](https://www.youtube.com/watch?v=DSZCH2mlz_M&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=21)
 - [usefull web extensions](https://www.youtube.com/watch?v=nHHVnYuRhIU&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=285)
-
+- [gesture sensor](https://www.youtube.com/watch?v=Or8UPq3nDdc&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=11)
+- [Martial arts](https://www.youtube.com/watch?v=DIPL-IHldog&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=52&t=428s)
+- [How to dissapear](https://www.youtube.com/watch?v=D896xCq1hag&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=362)
+- [Host a website on github](https://www.youtube.com/watch?v=sFSJfxFb5XA&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=420)
+- [Github tutorial](https://www.youtube.com/watch?v=8Dd7KRpKeaE&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=487)
 
 
 ## Helpfull learning channels
 
 - [Phil's Lab](https://www.youtube.com/@PhilsLab) is an advance PCB designing channel in Altium and Kicad,  with STM32 software and hardware tutorials. 
-      You can also find FPGA tutorials and audio software filters like FIR filtering and much more.
-- [Ben Eater](https://www.youtube.com/@BenEater) is an educational channel witch makes breadboard tutorials about logic gates, digital logic, how old 8 bit computers and processors worked.
-      he also made an video card for his 8 bit computer and have tutorials about how assembly language and machine code language work.
-- 
-
+You can also find FPGA tutorials and audio software filters like FIR filtering and much more.
+- [Ben Eater](https://www.youtube.com/@BenEater) is an educational channel witch makes breadboard tutorials about logic gates, digital logic, how old 8 bit computers and processors worked. He also made an video card for his 8 bit computer and have tutorials about how assembly language and machine code language work.
+- [TheOrganicChemistryTutor](https://www.youtube.com/@TheOrganicChemistryTutor) is a channel witch makes tutorials on: organic chemistry, general chemistry, physics, algebra, trigonometry, precalculus, and calculus. 
+- [art.crazy7](https://www.youtube.com/@art.crazy7) is a chennel witch can help you draw better.
+- [@FesZElectronics](https://www.youtube.com/@FesZElectronics) is a channel about electronics filters, emc, impedance matching, rf, PLL's and general advanced analog electronics. 
+- [@veritasium](https://www.youtube.com/@veritasium) makes all kinds of phisics, sience and history videos like this cool [\'history\' one](https://www.youtube.com/watch?v=wVyu7NB7W6Y ).
+- Davidbombal, NetworkChuck and JohnHammond have verry good educational videos about linux hacking, it and cibersecurity.
+  - https://www.youtube.com/@davidbombal
+  - https://www.youtube.com/@NetworkChuck
+  - https://www.youtube.com/@_JohnHammond
+  - Basic linux: 
+    1. https://www.youtube.com/watch?v=LKCVKw9CzFo&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=668&t=5s
+    2. https://www.youtube.com/watch?v=gd7BXuUQ91w&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=4
 
 
 ## Projects:
@@ -130,21 +142,6 @@ Because it\'s so [ineficient](https://www.youtube.com/watch?v=yOUz4l5Svyo&list=P
   - https://www.youtube.com/watch?v=EWWUqkEXJUE&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=123
 </details>
 
-<details> 
-  <summary>3D printed bearings</summary>
-
-  Homemade bearings:
-  - 3D printed bearing with metal balls: https://www.youtube.com/watch?v=eT8oQvHjzXE&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=36
-  - Fully 3D printed bearing: https://www.youtube.com/watch?v=HboIscftCL8&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=37
-  - General bearings clasification: https://www.youtube.com/watch?v=5Dkruh8NO9E&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=38
-  - Bearings mounting: https://www.youtube.com/watch?v=8V8MH2k8Igs&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=39
-  - 3D printed Bearings testing: https://www.youtube.com/watch?v=6hcl3mgk2tc&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=40
-  - 3D printed Bearing: https://www.youtube.com/watch?v=_MIx_vN2Dtk&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=26
-  - One way bearing: https://www.youtube.com/watch?v=UIhCPl8eb7s&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=27
-  - 3D printed bearing with metal balls(2): https://www.youtube.com/watch?v=5YIZaJnER_k&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=143
-  - Fully 3D printed bearing(2): https://www.youtube.com/watch?v=nRrHrB6gaoE&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=112
-</details>
-
 
 <details> 
   <summary>Coil Gun ❌</summary>
@@ -183,7 +180,7 @@ Here are some yt videos about vaccum cahmber builds:
 - https://www.youtube.com/watch?v=UkPLu6mgdWA
 - https://www.youtube.com/watch?v=_muUXPfTgq8
 - https://www.youtube.com/watch?v=2SrWrJWi9yE
-
+- Vaccum pump: https://www.youtube.com/watch?v=UkPLu6mgdWA
 </details>
 
 ## Learn more
@@ -261,6 +258,7 @@ If you want to make some speakers, here is how to make the [perfect](https://www
   Hardware design:
   - https://www.youtube.com/watch?v=W13HNsoHj7A
   - [PowerBank](https://www.youtube.com/watch?v=yEbbhTw0kno&t=1s)
+  - [PowerBank 2](https://www.youtube.com/watch?v=DcoaB3HR1e8)
   - https://www.youtube.com/watch?v=_WI9Nwqvplo
   - https://www.ti.com/jp/lit/ml/slyp735/slyp735.pdf?ts=1714842921522&ref_url=https%253A%252F%252Fwww.google.com%252F
   - https://www.ti.com/lit/wp/slyy145a/slyy145a.pdf?ts=1714828882912&ref_url=https%253A%252F%252Fwww.google.com%252F
@@ -324,6 +322,16 @@ Verilog/fpga:
 
 </details>
 
+<details> 
+<summary>FM radio transmitter/reciver</summary>
+
+- FM design: https://dmohankumar.wordpress.com/2011/04/23/single-transistor-fm-transmitter-design/
+- FM Tutorial 1: https://www.youtube.com/watch?v=ZUxDXXBO3eA&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=256&t=223s
+- FM Tutorial 2: https://www.youtube.com/watch?v=h_F3J4vyzNk
+- FM Tutorial 3: https://www.youtube.com/watch?v=RqyhvlMKt14
+- FM Tutorial 4: https://www.youtube.com/watch?v=UtYbd89kVgY
+
+</details>
 
 <details> 
   <summary>What do you need to fly a drone ☑️</summary>
@@ -344,7 +352,7 @@ Verilog/fpga:
 
 
 <details> 
-  <summary>‼️ Osmosis</summary> 
+  <summary>Osmosis</summary> 
   
   If you separate in a container, pure water(H2O) and /"salty/" water with a membrane with holes big enouch that only water molecules can pass truth it, 
   the pure water will flow to the /"salty/" water [video1](https://www.youtube.com/watch?v=4RDA_B_dRQ0&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=259), 
@@ -430,9 +438,11 @@ Here you can find more about them:
 - Photochromic lens: https://en.wikipedia.org/wiki/Photochromic_lens
 
 ### Microscope:
-- PCB Microscope comparation: https://www.youtube.com/watch?v=KajdWOlCt0s&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=332&t=374s
-- Precision laser scanning microscope: https://www.youtube.com/watch?v=xfuWbnMYOos&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=333&t=743s
-- OpenFlexure Microscope: https://www.youtube.com/watch?v=aQEyoch3iuo&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=334&t=159s
+- PCB Microscope comparation: https://www.youtube.com/watch?v=KajdWOlCt0s
+- Precision laser scanning microscope: https://www.youtube.com/watch?v=xfuWbnMYOos
+- OpenFlexure Microscope: https://www.youtube.com/watch?v=aQEyoch3iuo
+- PCB microscope: https://www.youtube.com/watch?v=68J4-dGcXBE
+- Build: https://www.youtube.com/watch?v=8DNScXFTI2Y&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=213&t=4s
 
 ### Telescope:
 - general: https://www.youtube.com/watch?v=HxwhCmO90UQ&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=367&t=873s
@@ -446,11 +456,304 @@ Here you can find more about them:
 
 </details>
 
+<details> 
+  <summary>Make a 3D printer</summary>
+
+### 3d printerbuid tutorials:
+- Bed types: https://www.youtube.com/watch?v=eure74A9HNc
+- diy bed: https://www.youtube.com/watch?v=SpZd8UYq9UU
+- Tutorial1: https://www.youtube.com/watch?v=qub5chyIQ0s
+- Tutorial2: https://www.youtube.com/watch?v=VzjJFon4c8E
+- Tutorial3: https://www.youtube.com/watch?v=NMfFirtB1D4
+- Build1: https://www.youtube.com/watch?v=LIS7aB0-xfc
+- Build2: https://www.youtube.com/watch?v=HWfT2JbMOvM
+- Infinite Printing: https://www.youtube.com/watch?v=OWbPLqZw66M
+- Resign vs filament: https://www.youtube.com/watch?v=VbglrAUKKqM
+- Inductive hotend: https://www.youtube.com/watch?v=XphpaHd8Q9s
+- 4D printer: https://www.youtube.com/watch?v=8DNScXFTI2Y
+- dual extruder: https://www.youtube.com/watch?v=e4QGjUPvmT0
+- Prusa build: https://www.youtube.com/watch?v=oVWLpvekby0
+- printing tehniques: https://www.youtube.com/watch?v=PvrU1Aw2KP0
+- 3d printer playlist: https://www.youtube.com/playlist?list=PLyYZUiBHD1QjaYx7eCEW8zXvsgwEbAykY
+
+### Resign 3D printer:
+- https://www.youtube.com/watch?v=UTRUMETt9qY
+- tutorial: https://www.youtube.com/watch?v=ywAq5R4s3gw
+- review: https://www.youtube.com/watch?v=To8FlLjFjEQ
+
+### 3D printed homemade bearings:
+- 3D printed bearing with metal balls: https://www.youtube.com/watch?v=eT8oQvHjzXE&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=36
+- Fully 3D printed bearing: https://www.youtube.com/watch?v=HboIscftCL8&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=37
+- General bearings clasification: https://www.youtube.com/watch?v=5Dkruh8NO9E&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=38
+- Bearings mounting: https://www.youtube.com/watch?v=8V8MH2k8Igs&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=39
+- 3D printed Bearings testing: https://www.youtube.com/watch?v=6hcl3mgk2tc&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=40
+- 3D printed Bearing: https://www.youtube.com/watch?v=_MIx_vN2Dtk&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=26
+- 3D printed Bearing: https://www.youtube.com/watch?v=0KhV6JW2sHg
+- One way bearing: https://www.youtube.com/watch?v=UIhCPl8eb7s&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=27
+- 3D printed bearing with metal balls(2): https://www.youtube.com/watch?v=5YIZaJnER_k&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=143
+- Fully 3D printed bearing(2): https://www.youtube.com/watch?v=nRrHrB6gaoE&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=112
+  
+### Recicle 3d FILLAMENT:
+- https://youtu.be/v4Byc6y7-BA?si=BETtJccyYGzJjyRw
+- https://youtu.be/BT04glGDjB4?si=REvfBAIK6ehqmn77
+- https://www.youtube.com/watch?v=O6d1RKYapFI&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=36&t=259s&pp=gAQBiAQB
+- https://www.youtube.com/watch?v=vqWwUx8l_Io&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=37&t=483s&pp=gAQBiAQB
+- https://www.youtube.com/watch?v=Hm6KpEajD4o&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=38&pp=gAQBiAQB
+- https://www.youtube.com/watch?v=eWgzi4a1bJo&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=39&t=555s&pp=gAQBiAQB
+- https://www.youtube.com/watch?v=Dwlr2yKlq6w&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=40&pp=gAQBiAQB
+- https://www.youtube.com/watch?v=nypitKDr928&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=48&t=277s&pp=gAQBiAQB
+- https://www.youtube.com/watch?v=RF05JBnNazA&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=50&t=1491s&pp=gAQBiAQB
+- spools: https://www.youtube.com/watch?v=lHBDQqS9Fkc&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=49&pp=gAQBiAQB
+
+</details>
+
+<details> 
+  <summary>💣💣💥Chemestry💣💥💣</summary> 
+
+- Amonium nitrate from pee: https://www.youtube.com/watch?v=-ms8HTaytHk
+- Sodium hidroxide from salt: https://www.youtube.com/watch?v=S4VEZk9ccWg
+- making adrenaline: https://www.youtube.com/watch?v=Z-vCB_SxBms
+  
+</details>
+
+<details> 
+  <summary>Magic Tricks👈</summary> 
+
+- https://www.youtube.com/watch?v=CMn5oAZl1sU&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=184
+- cups: https://www.youtube.com/watch?v=IApSd49sPlM&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=439
+- slow-mo 1: https://www.youtube.com/watch?v=r8Bx570vius&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=437
+- slow-mo 2: https://www.youtube.com/watch?v=m0CXnU9Op_I&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=441
+  
+</details>
+
+
+<details> 
+  <summary>Human anatomy 💀</summary> 
+
+Medicine basics: https://www.youtube.com/watch?v=CkwSeMrOPjc&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=223&t=29s
+medicinal plants: https://www.youtube.com/watch?v=Y8e09BUquB8&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=225&t=296s
+
+anatomy posters:
+- vascular system (full + heart + lung connections + head and other human parts separate)
+- lymphatic system ??
+- gastrointestinal system
+- separate: liver, urinary tract, brain, heart, ear, stomach, eye, skin, ...
+- nervous sistem
+- human skeletron
+- human musculature
+- skull, spinal column, hand, wrist,knee joint, foot, foot joints
+- astronomy charts
+  
+</details>
+
+
+<details> 
+  <summary>🎸🎸Music theory🎸🎸</summary> 
+
+- https://www.youtube.com/watch?v=rgaTLrZGlk0&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=420&t=981s
+- https://www.youtube.com/watch?v=_VvKeiwddPI&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=419&t=6s
+- https://www.youtube.com/watch?v=n2z02J4fJwg&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=418&t=7s
+- https://www.youtube.com/watch?v=aMLdWrZqwLg&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=372&t=34s
+- https://www.youtube.com/watch?v=dae8vhHuPFE&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=373&t=147s
+- https://www.youtube.com/watch?v=qOvPWvJaMuc&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=480
+- https://www.youtube.com/watch?v=Ahx7Fh2qmBY&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=181
+  
+</details>
+
+<details> 
+  <summary>Woodworking</summary> 
+
+- reglable height1: https://www.youtube.com/watch?v=gtbntjmzZ9U&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=120
+- project1:https://www.youtube.com/watch?v=FDM60T47J9s&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=119
+- choose a workbench: https://www.youtube.com/watch?v=RMU4k1KTdnw&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=118&t=912s
+- basics: https://www.youtube.com/watch?v=m3CqH4DjVlI&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=117
+- reglable height2: https://www.youtube.com/watch?v=GiV_JJyvJzY&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=116&t=7s
+- reglable height3: https://www.youtube.com/watch?v=7Ihn9dYgWYA&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=115&t=10s
+- project2: https://www.youtube.com/watch?v=uhWpruzMWas&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=113&t=248s
+- Wood Finish 1: https://www.youtube.com/watch?v=bbiXJd_1l8Y
+- Wood Finish 2: https://www.youtube.com/watch?v=SWLm-3_iogw
+- vibrant colors: https://www.youtube.com/watch?v=tZnAL0nJngM&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ
+- No kickback: https://www.youtube.com/watch?v=-jm7fGLp1dw&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=84
+- Make a lifting jack: https://www.youtube.com/watch?v=SpPQkUMmB34
+  
+good wood finishes:
+ - varnish(lac)
+ - burning
+ - polyuretane
+ - tung oil(food grade)
+
+*also makea vise for workbench
 
 
 
+</details>
+
+<details> 
+  <summary>Arduino drums</summary>
+
+  Make a drums set with arduino and piezoelectric plates.
+  Here are some links to help you:
+  - https://www.instructables.com/Arduino-Minimal-Drum-Kit/
+  - https://open-e-drums.com/hardware.html
+  - https://github.com/RyoKosaka/HelloDrum-arduino-Library
+  - https://projecthub.arduino.cc/ryokosaka/minimal-midi-drum-kit-with-3d-printer-61e044
+  - https://www.instructables.com/MIDI-Arduino-Drums/
+  - https://www.youtube.com/watch?v=cDVI-QIp1Nc&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=71
+</details>
+
+<details> 
+<summary>Oxytorch</summary>
+
+  An oxytorch is a hidrogen torch fed with aditional oxygen for core power. The hidrogen adn oxygen are made with electrolisis and ready to "explode".
+  Here are some links to help you make an oxytorch:
+  - https://www.youtube.com/watch?v=d85OX6yEwE0&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=15
+  - https://www.youtube.com/watch?v=7M4yqcO_pPo&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=129&t=23s
+</details>
+
+<details> 
+  <summary>How satelytes work</summary>
+
+  A satelite is an [computer](https://www.youtube.com/watch?v=1I3dKEriVl8&list=WL&index=86) left in space witch send and recive data from earth.
+  It has various sensors to collect data from outer space, and also from the earth. They are used in space descovery, device localization, metheorologic data gathering and much more.
+  - https://www.youtube.com/watch?v=5voQfQOTem8&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=161
+  - https://www.youtube.com/watch?v=30XpSozOZII&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=21
+</details>
+
+<details> 
+  <summary>HUMAN I/O (haptic sensing, bioimpedance and gesture recognition)</summary>
+
+By haptic sensing, I don`t mean the [old motor gloves](https://www.youtube.com/watch?v=iPtgvh6fNdQ). By haptic touch I mean technology like [this](https://www.youtube.com/watch?v=j_rErbhxNFM&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=70) being [aplied](https://www.youtube.com/watch?v=UJXLBqG9E_s&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=71), or futuristic designs like [this](https://www.youtube.com/watch?v=Q76dMggUH1M&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=193) witch try to make [something new](https://www.youtube.com/watch?v=qfb5_ZKhjqY&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=69).
+
+  Here are some links about haptic touch, bioimpedance and gesture recognition:
+  - https://www.researchgate.net/publication/354345374_Bioimpedance_Sensors_A_Tutorial
+  - https://pdf.sciencedirectassets.com/280203/1-s2.0-S1877050922X00136/1-s2.0-S1877050922015927/main.pdf?
+  - https://www.linkedin.com/pulse/building-hand-gesture-recognition-sensor-comprehensive-guide
+  - https://www.youtube.com/watch?v=DJ77HHtOL-8
+  
+</details>
+
+<details> 
+<summary></summary>
 
 
+</details>
+
+<details> 
+<summary>Vehicle build</summary>
+
+### Helicopters
+- How helicopters work: https://www.youtube.com/watch?v=EMaR7PznE_s
+- How to make an helicopter: https://www.youtube.com/watch?v=6B-GIVMU340
+- Different helicopter design: https://www.youtube.com/watch?v=d80oXSCcHTk
+- Helicopter crashes: https://www.youtube.com/watch?v=7xPIISLNp8Q
+- How helicopters work: https://www.youtube.com/watch?v=2tdnqZgKa0E
+
+### Drones
+- Fligthing weight: https://www.youtube.com/watch?v=zY68Nf9Cobs
+- Smallest drone: https://www.youtube.com/watch?v=AZUkmMksnSI
+- How drones work: https://www.youtube.com/watch?v=N_XneaFmOmU&list=WL&index=50
+- Drone build1: https://www.youtube.com/watch?v=DeSDjjicGWY&list=WL&index=94
+- Doc1: https://www.ti.com/lit/ug/tiduak1/tiduak1.pdf?ts=1723880875535
+- Doc2: https://www.st.com/resource/en/user_manual/um2197-electronic-speed-controller-for-bldc-and-pmsm-three-phase-brushless-motor-stmicroelectronics.pdf
+- drone making guige STM: https://www.st.com/resource/en/product_presentation/steval-drone01_getting_started_guide.pdf
+- STM ESC: https://www.st.com/resource/en/user_manual/um2516-electronic-speed-controller-discovery-kit-for-drones-with-stm32g431cb-stmicroelectronics.pdf
+- Drone example 1: https://www.flying-rabbit-fpv.com/2020/10/06/designing-my-own-flight-controller/
+- Drone example 2:https://savobajic.ca/projects/personal/flightcontrol/flightcontrol-v2/
+- Drone controller: https://medium.com/@kanchanborade/advanced-flight-controllers-used-in-drones-a18f957f9ce7
+- Fligth controller: https://www.youtube.com/watch?v=rLDqQ2L_mUQ
+
+
+### Submarines
+- Submarine build 1: https://www.youtube.com/watch?v=pUba126uzvU
+- Submarine build 2: https://www.youtube.com/watch?v=KLEH8RJsYgI
+
+</details>
+
+<details> 
+<summary>Arduino advanced stuff</summary>
+
+Arduino drag and drop1: https://hackaday.com/2019/05/29/drag-and-drop-files-on-select-arduino-boards/
+Arduino drag and drop2: https://github.com/adafruit/Adafruit_TinyUSB_Arduino
+Arduino disk drive: https://www.reddit.com/r/arduino/comments/w4o8wn/esb32s3_nand_sd_storage_usb_msc_arduino_that/
+Arduino tutorial: https://youtube.com/playlist?list=PLYutciIGBqC2HpO0gHoMoAgLhz5n6OoZx&si=6QKKEmos8cy7JVqG
+arduino eeprom: https://docs.arduino.cc/learn/programming/eeprom-guide/
+arduino-sd card: https://arduino.stackexchange.com/questions/84630/proper-micro-sd-card-schematic
+https://lastminuteengineers.com/sim800l-gsm-module-arduino-tutorial/#google_vignette
+</details>
+
+
+
+<details> 
+  <summary></summary> 
+
+  
+</details>
+
+<details> 
+  <summary></summary> 
+
+  
+</details>
+
+<details> 
+  <summary></summary> 
+
+  
+</details>
+
+<details> 
+  <summary></summary> 
+
+  
+</details>
+
+<details> 
+  <summary></summary> 
+
+  
+</details>
+
+<details> 
+  <summary></summary> 
+
+  
+</details>
+
+<details> 
+  <summary></summary> 
+
+  
+</details>
+
+<details> 
+  <summary></summary> 
+
+  
+</details>
+
+<details> 
+  <summary></summary> 
+
+  
+</details>
+
+<details> 
+  <summary></summary> 
+
+  
+</details>
+
+<details> 
+  <summary></summary> 
+
+  
+</details>
+
+<details> 
+  <summary></summary> 
+
+  
+</details>
 
 
 
@@ -531,26 +834,7 @@ Here you can find more about them:
 <details>
   <summary>⚠️⚠️⚠️UNDER CONSTRUCTION⚠️⚠️⚠️</summary> 
 
-⁉️‼️💲🕐🔗♻️⚠️🍺🍻🎨🏆🎯📘📆💣💰📧🔓🔒⌛💥❗❓😃👈💀
-
-anatomy posters:
-- vascular system (full + heart + lung connections + head and other human parts separate)
-- lymphatic system ??
-- gastrointestinal system
-- separate: liver, urinary tract, brain, heart, ear, stomach, eye, skin, ...
-- nervous sistem
-- human skeletron
-- human musculature
-- skull, spinal column, hand, wrist,knee joint, foot, foot joints
-- astronomy charts
-
-
-
-
-
-
-
-
+⁉️‼️💲🕐🔗♻️⚠️🍺🍻🎨🏆🎯📘📆💰📧🔓🔒⌛❗❓😃
 
 
 Cold Saw: https://www.youtube.com/watch?v=wqeT4WsuuKU&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=341
@@ -566,15 +850,6 @@ https://www.youtube.com/@Nighthawkinlight:
 - other cool experiments
 
 
-
-🎸🎸Music theory🎸🎸:
-- https://www.youtube.com/watch?v=rgaTLrZGlk0&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=420&t=981s
-- https://www.youtube.com/watch?v=_VvKeiwddPI&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=419&t=6s
-- https://www.youtube.com/watch?v=n2z02J4fJwg&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=418&t=7s
-- https://www.youtube.com/watch?v=aMLdWrZqwLg&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=372&t=34s
-- https://www.youtube.com/watch?v=dae8vhHuPFE&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=373&t=147s
-- https://www.youtube.com/watch?v=qOvPWvJaMuc&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=480
-
 Phone Root Access:
 - https://www.youtube.com/watch?v=ksbRMo00uTA&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=606
 - https://www.youtube.com/watch?v=7mB33O3BQbE&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=607
@@ -583,74 +858,33 @@ Phone Root Access:
 
 
 
-
-
 ################### drone licence
 
 
 
+ball balancing robot: https://www.youtube.com/watch?v=KnYSuQEBGHc
+
+
+Grow plants with plasma: https://www.youtube.com/watch?v=Abyh5F186yM
 
 
 
 
 
-https://www.youtube.com/@FesZElectronics
-All about PLL  
-electronics filters and general advanced analog electronics
-emc 
-impedance matching
-circuit testing irm and *** app
-rf tutorials
-PLL_VCO: https://www.youtube.com/watch?v=mJpMAIde2d0&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=662&t=617s
 
 
 
-PLL_2: https://www.youtube.com/watch?v=RkG0hdWMMNc&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=611&t=405s
-PLL_1: https://www.youtube.com/watch?v=VOHCvKXW9Qw&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=610&t=5s
+PLL_VCO: https://www.youtube.com/watch?v=mJpMAIde2d0
+PLL_2: https://www.youtube.com/watch?v=RkG0hdWMMNc
+PLL_1: https://www.youtube.com/watch?v=VOHCvKXW9Qw
 
 android studio is shoe_schematic
-
-
-
-
-
-
-https://www.youtube.com/@veritasium
-makes all kinds of phisics, sience and history videos
-here is a cool \'history\' one: https://www.youtube.com/watch?v=wVyu7NB7W6Y&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=828&t=1016s 
-
-
 
 
 
 Custom power supply: https://www.youtube.com/watch?v=Xdq6dzH26QY&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=1255
 
 
-
-
-These are chanels witch make educational linux hacking videos, it videos, and  cibersecurity videos.
-https://www.youtube.com/@davidbombal
-https://www.youtube.com/@NetworkChuck
-https://www.youtube.com/@_JohnHammond
-Basic linux: https://www.youtube.com/watch?v=LKCVKw9CzFo&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=668&t=5s
-2: https://www.youtube.com/watch?v=gd7BXuUQ91w&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=4
-
-
-
-
-
-Woodworking:
-https://www.youtube.com/watch?v=gtbntjmzZ9U&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=120
-https://www.youtube.com/watch?v=FDM60T47J9s&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=119
-https://www.youtube.com/watch?v=RMU4k1KTdnw&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=118&t=912s
-https://www.youtube.com/watch?v=m3CqH4DjVlI&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=117
-https://www.youtube.com/watch?v=GiV_JJyvJzY&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=116&t=7s
-https://www.youtube.com/watch?v=7Ihn9dYgWYA&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=115&t=10s
-https://www.youtube.com/watch?v=uhWpruzMWas&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=113&t=248s
-Wood Finish 1: https://www.youtube.com/watch?v=bbiXJd_1l8Y
-Wood Finish 2: https://www.youtube.com/watch?v=SWLm-3_iogw
-also make menghina for workbench
-finishes: lac, ardere,polyuretane/tung oil(food grade)
 
 
 
@@ -663,14 +897,18 @@ Forging:
 - blade: https://www.youtube.com/watch?v=dHK5zrBBPhE&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=476&t=400s
 
 Parfumery:
-- https://www.youtube.com/watch?v=owu_Up_tNNI&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=477
-- https://www.youtube.com/watch?v=V-bWm2FnVk4&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=478
+- https://www.youtube.com/watch?v=owu_Up_tNNI
+- https://www.youtube.com/watch?v=V-bWm2FnVk4
+- https://www.youtube.com/playlist?list=PL8zsxLsN-JALJkeMQdPDagr4gwW4Fai3x
+
+Sewing: https://www.youtube.com/playlist?list=PLOSOqCeZCHL2Wxy-RxIAv8foEz9N2K1ZF
+Astronomy: https://www.youtube.com/playlist?list=PLMnlPq3zZg4mpbyK90w-XmWA9stKD8kdT
 
 
 
-
-
-
+Cooking:
+- what marinating do: https://www.youtube.com/watch?v=Rz1X0RP3Mfw&list=WL&index=4
+- food sience1: https://www.youtube.com/watch?v=lc2SixWnYG4
 
 
 <details> 
@@ -695,22 +933,10 @@ Forth and fifth are not good decoratives, but are preety cool phisics experiment
 </details>
 
 
-<details> 
-  <summary>Satelite</summary>
-
-  A satelite is an [computer](https://www.youtube.com/watch?v=1I3dKEriVl8&list=WL&index=86) left in space witch send and recive data from earth.
-  It has various sensors to collect data from outer space, and also from the earth. They are used in space descovery, device localization, metheorologic data gathering and much more.
-  - https://www.youtube.com/watch?v=5voQfQOTem8&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=161
-  - https://www.youtube.com/watch?v=30XpSozOZII&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=21
-</details>
 
 
 
-<details> 
-  <summary>Haptic touch</summary>
 
-  By haptic sensing, I don`t mean the [old motor gloves](https://www.youtube.com/watch?v=iPtgvh6fNdQ). By haptic touch I mean technology like [this](https://www.youtube.com/watch?v=j_rErbhxNFM&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=70) being [aplied](https://www.youtube.com/watch?v=UJXLBqG9E_s&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=71), or futuristic designs like [this](https://www.youtube.com/watch?v=Q76dMggUH1M&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=193) or any try to make [something new](https://www.youtube.com/watch?v=qfb5_ZKhjqY&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=69).
-</details>
 
 
 
@@ -759,41 +985,6 @@ Forth and fifth are not good decoratives, but are preety cool phisics experiment
 
 
 
-<details> 
-  <summary>Arduino drums</summary>
-
-  Make a drums set with arduino and piezoelectric plates.
-  Here are some links to help you:
-  - https://www.instructables.com/Arduino-Minimal-Drum-Kit/
-  - https://open-e-drums.com/hardware.html
-  - https://github.com/RyoKosaka/HelloDrum-arduino-Library
-  - https://projecthub.arduino.cc/ryokosaka/minimal-midi-drum-kit-with-3d-printer-61e044
-  - https://www.instructables.com/MIDI-Arduino-Drums/
-  - https://www.youtube.com/watch?v=cDVI-QIp1Nc&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=71
-</details>
-
-
-
-<details> 
-<summary>Oxytorch</summary>
-
-  An oxytorch is a hidrogen torch fed with aditional oxygen for core power. The hidrogen adn oxygen are made with electrolisis and ready to "explode".
-  Here are some links to help you make an oxytorch:
-  - https://www.youtube.com/watch?v=d85OX6yEwE0&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=15
-  - https://www.youtube.com/watch?v=7M4yqcO_pPo&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=129&t=23s
-</details>
-
-
-
-
-
-
-
-
-
-
-
-
 
 <details> 
   <summary>More about Ray tracing and 3D computer graphics</summary>
@@ -804,23 +995,6 @@ Forth and fifth are not good decoratives, but are preety cool phisics experiment
   - ray tracing: https://www.realtimerendering.com/raytracing/An-Introduction-to-Ray-Tracing-The-Morgan-Kaufmann-Series-in-Computer-Graphics-.pdf
 
 </details>
-
-
-
-
-
-
-
-<details> 
-  <summary>bioimpedance/ gesture recognition</summary>
-
-  Here are some links:
-  - https://www.researchgate.net/publication/354345374_Bioimpedance_Sensors_A_Tutorial
-  - https://pdf.sciencedirectassets.com/280203/1-s2.0-S1877050922X00136/1-s2.0-S1877050922015927/main.pdf?
-  - https://www.linkedin.com/pulse/building-hand-gesture-recognition-sensor-comprehensive-guide
-  - https://www.youtube.com/watch?v=DJ77HHtOL-8
-</details>
-
 
 
 
@@ -851,51 +1025,6 @@ Forth and fifth are not good decoratives, but are preety cool phisics experiment
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<details> 
-  <summary>ESP32 higth frequency generator for Ultrasonic Phased Array</summary>
-
-- ESP32 delay1: https://community.platformio.org/t/how-to-delay-microseconds-on-esp32-under-a-free-rtos-task/29540/7
-- ESP32 delay2: https://esp32.com/viewtopic.php?t=29883
-- ESP32 delay3: https://www.esp32.com/viewtopic.php?f=13&t=2214
-- ESP32 delay4: https://www.esp32.com/viewtopic.php?t=16100
-- ESP32 delay5: https://esp32.com/viewtopic.php?t=16861
-- ESP32 delay6: https://www.reddit.com/r/esp32/comments/i07em9/need_to_have_sub_microsecond_delay_precision/
-- ESP32 delay7: https://esp32developer.com/programming-in-c-c/delays/delays
-- ESP32 delay8: https://www.esp32.com/viewtopic.php?t=16100
-- ESP32 delay9: https://esp32.com/viewtopic.php?t=16861
-</details>
 
 
 <details> 
@@ -1024,61 +1153,7 @@ KEIL for stm32 programming alternative: https://www.youtube.com/playlist?list=PL
 
 
 
-<details> 
-<summary>submarine</summary>
 
-https://www.youtube.com/watch?v=pUba126uzvU&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=232
-https://www.youtube.com/watch?v=KLEH8RJsYgI&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=235
-</details>
-
-
-
-
-
-
-
-
-<details> 
-<summary>submarine Helicopters & drones</summary>
-
-How helicopters & drones work:
-- https://www.youtube.com/watch?v=EMaR7PznE_s&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=31
-- https://www.youtube.com/watch?v=aRotBcoHuX4&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=32
-- https://www.youtube.com/watch?v=6B-GIVMU340&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=33
-- https://www.youtube.com/watch?v=d80oXSCcHTk&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=332&t=43s
-- https://www.youtube.com/watch?v=7xPIISLNp8Q&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=333
-- https://www.youtube.com/watch?v=2tdnqZgKa0E&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=334
-- https://www.youtube.com/watch?v=zY68Nf9Cobs&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=335&t=14s
-- https://www.youtube.com/watch?v=AZUkmMksnSI
-- https://www.youtube.com/watch?v=N_XneaFmOmU&list=WL&index=50
-- https://www.youtube.com/watch?v=DeSDjjicGWY&list=WL&index=94
-</details>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<details> 
-<summary>Arduino advanced stuff</summary>
-
-Arduino drag and drop1: https://hackaday.com/2019/05/29/drag-and-drop-files-on-select-arduino-boards/
-Arduino drag and drop2: https://github.com/adafruit/Adafruit_TinyUSB_Arduino
-Arduino disk drive: https://www.reddit.com/r/arduino/comments/w4o8wn/esb32s3_nand_sd_storage_usb_msc_arduino_that/
-Arduino tutorial: https://youtube.com/playlist?list=PLYutciIGBqC2HpO0gHoMoAgLhz5n6OoZx&si=6QKKEmos8cy7JVqG
-arduino eeprom: https://docs.arduino.cc/learn/programming/eeprom-guide/
-arduino-sd card: https://arduino.stackexchange.com/questions/84630/proper-micro-sd-card-schematic
-https://lastminuteengineers.com/sim800l-gsm-module-arduino-tutorial/#google_vignette
-</details>
 
 
 
@@ -1123,11 +1198,7 @@ https://www.youtube.com/watch?v=RXIqUyW2syU
 
 
 
-<details> 
-<summary>Fligth controller</summary>
 
-- https://www.youtube.com/watch?v=rLDqQ2L_mUQ&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=247
-</details>
 
 
 
@@ -1169,13 +1240,6 @@ https://youtube.com/playlist?list=PLfExI9i0v1smd_mUgoib94t8KKap0X-zh&si=bRWUGNti
 
 
 
-Make a 3d printer: https://www.youtube.com/playlist?list=PLyYZUiBHD1QjaYx7eCEW8zXvsgwEbAykY
-drone making guige STM: https://www.st.com/resource/en/product_presentation/steval-drone01_getting_started_guide.pdf
-STM ESC: https://www.st.com/resource/en/user_manual/um2516-electronic-speed-controller-discovery-kit-for-drones-with-stm32g431cb-stmicroelectronics.pdf
-Drone example 1: https://www.flying-rabbit-fpv.com/2020/10/06/designing-my-own-flight-controller/
-Drone example 2:https://savobajic.ca/projects/personal/flightcontrol/flightcontrol-v2/
-Drone controller: https://medium.com/@kanchanborade/advanced-flight-controllers-used-in-drones-a18f957f9ce7
-https://www.st.com/resource/en/brochure/products_and_solutions_for_drones.pdf
 
 
 STM32 graphic enchantment: https://www.st.com/resource/en/product_training/STM32F7_System_DMA2D.pdf
@@ -1189,7 +1253,6 @@ file:///C:/Users/eaagt/Downloads/Infineon-Application-Motor_Control-Drone_Electr
 https://youtube.com/playlist?list=PLsR1AO4QH1AxYrKPmh2e3LDeTyNWdyEXb&si=Fl-gceo6xSZOGE4w
 https://www.youtube.com/watch?v=lg-QKhl0uuU
 
-3d printer playlist: https://www.youtube.com/playlist?list=PLyYZUiBHD1QjaYx7eCEW8zXvsgwEbAykY
 
 
 
@@ -1223,17 +1286,6 @@ redstone - https://youtu.be/7PnnCblV9pE?si=C3xnBLTxWFpU0fbI
 
 
 
-Recicle 3d FILLAMENT:
-https://youtu.be/v4Byc6y7-BA?si=BETtJccyYGzJjyRw
-https://youtu.be/BT04glGDjB4?si=REvfBAIK6ehqmn77
-https://www.youtube.com/watch?v=O6d1RKYapFI&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=36&t=259s&pp=gAQBiAQB
-https://www.youtube.com/watch?v=vqWwUx8l_Io&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=37&t=483s&pp=gAQBiAQB
-https://www.youtube.com/watch?v=Hm6KpEajD4o&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=38&pp=gAQBiAQB
-https://www.youtube.com/watch?v=eWgzi4a1bJo&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=39&t=555s&pp=gAQBiAQB
-https://www.youtube.com/watch?v=Dwlr2yKlq6w&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=40&pp=gAQBiAQB
-https://www.youtube.com/watch?v=nypitKDr928&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=48&t=277s&pp=gAQBiAQB
-https://www.youtube.com/watch?v=RF05JBnNazA&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=50&t=1491s&pp=gAQBiAQB
-spools: https://www.youtube.com/watch?v=lHBDQqS9Fkc&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=49&pp=gAQBiAQB
 
 
 
@@ -1243,15 +1295,6 @@ spools: https://www.youtube.com/watch?v=lHBDQqS9Fkc&list=PLOSOqCeZCHL0Qxb6YyrvGz
 
 
 
-
-
-Make a 3d printer:
-
-https://www.youtube.com/watch?v=qub5chyIQ0s&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=51&t=164s&pp=gAQBiAQB
-https://www.youtube.com/watch?v=LIS7aB0-xfc&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=52&t=478s&pp=gAQBiAQB
-https://www.youtube.com/watch?v=BSr7Qkh_aO0&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=53&t=259s&pp=gAQBiAQB
-https://www.youtube.com/watch?v=OWbPLqZw66M&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=54&pp=gAQBiAQB
-https://www.youtube.com/watch?v=VzjJFon4c8E&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ&index=55&pp=gAQBiAQB
 
 
 
@@ -1280,10 +1323,6 @@ https://www.alldatasheet.com/datasheet-pdf/view/34338/XICOR/28C256.html
 https://www.alldatasheet.com/datasheet-pdf/view/81977/CYPRESS/CY7C199-15VC.html
 
 
-
-Drone build:
-https://www.ti.com/lit/ug/tiduak1/tiduak1.pdf?ts=1723880875535
-https://www.st.com/resource/en/user_manual/um2197-electronic-speed-controller-for-bldc-and-pmsm-three-phase-brushless-motor-stmicroelectronics.pdf
 
 8 bit computer:
 https://tomnisbet.github.io/nqsap-pcb/
@@ -1453,8 +1492,8 @@ https://www.pozyx.io/newsroom/uwb-versus-other-technologies
 https://www.robotsforroboticists.com/pid-control/
 https://www.reddit.com/r/cprogramming/comments/yymdkq/is_there_a_integration_function_in_c/
 
-https://dmohankumar.wordpress.com/2011/04/23/single-transistor-fm-transmitter-design/
-https://www.youtube.com/watch?v=h_F3J4vyzNk
+
+
 
 https://www.coilcraft.com/en-us/edu/series/a-guide-to-flyback-transformers/
 
